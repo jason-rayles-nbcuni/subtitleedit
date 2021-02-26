@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="vi" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1/text" xmlns:ebutts="urn:ebu:tt:style" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" ttp:timeBase="media" ttp:frameRate="24" ttp:frameRateMultiplier="1000 1001" tts:extent="1920px 1080px" ittp:aspectRatio="16 9">
+    <head>
+        <metadata>
+            <ttm:title>foo</ttm:title>
+            <ttm:desc>foo</ttm:desc>
+        </metadata>
+        <styling>
+            <style xml:id="basic" tts:color="white" tts:fontFamily="Arial" tts:fontSize="73.5%" tts:fontWeight="normal" tts:fontStyle="normal" tts:lineHeight="100%" />
+        </styling>
+        <layout>
+            <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+            <region xml:id="bottom" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p begin="01:21:30:16" end="01:21:32:18" style="basic" tts:origin="37.03% 76.20%" tts:extent="25.93% 4.34%"><span tts:fontStyle="italic">Đã hủy mô phỏng kết nối.</span></p>
+            <p begin="01:21:35:01" end="01:21:36:06" style="basic" tts:origin="39.47% 71.20%" tts:extent="20.98% 9.35%">AMARA: THẤT BẠI<br />SURESH: THẤT BẠI</p>
+            <p begin="01:21:36:10" end="01:21:39:19" style="basic" tts:origin="35.83% 71.20%" tts:extent="28.33% 9.35%">Khi anh nghe nói em đã cho<br />November Ajax hít khói,</p>
+            <p begin="01:21:40:20" end="01:21:42:11" style="basic" tts:origin="36.09% 71.20%" tts:extent="27.81% 9.35%">anh tưởng bọn anh<br />sẽ có một tân binh đặc biệt.</p>
+            <p begin="01:21:42:15" end="01:21:44:11" style="basic" tts:origin="36.97% 76.20%" tts:extent="26.04% 4.34%">Giờ, anh không chắc lắm.</p>
+            <p begin="01:21:44:20" end="01:21:46:14" style="basic" tts:origin="13.64% 71.20%" tts:extent="26.66% 9.35%">Làm sao em có thể kết nối<br />trong thứ này?</p>
+            <p begin="01:21:47:04" end="01:21:48:12" style="basic" tts:origin="36.97% 76.20%" tts:extent="26.04% 4.34%">Có mùi như mùi hôi chân.</p>
+            <p begin="01:21:48:16" end="01:21:50:13" style="basic" tts:origin="39.01% 71.20%" tts:extent="21.97% 9.35%">Anh không hỏi lý do<br />em thất bại, Học viên.</p>
+            <p begin="01:21:50:17" end="01:21:54:07" style="basic" tts:origin="31.66% 71.20%" tts:extent="36.65% 9.35%">Cậu bắt cô bé đấu lại con Kaiju<br />suýt nữa đã giết hai phi công kỳ cựu</p>
+            <p begin="01:21:54:11" end="01:21:55:19" style="basic" tts:origin="35.57% 76.20%" tts:extent="28.80% 4.34%">nghe chẳng hợp lý chút nào.</p>
+            <p begin="01:21:55:23" end="01:21:57:23" style="basic" tts:origin="30.93% 71.20%" tts:extent="38.07% 9.35%">Có lẽ cô bé không phải là kẻ duy nhất<br />không thuộc về nơi này.</p>
+            <p begin="01:21:58:08" end="01:21:59:08" style="basic" tts:origin="47.60% 76.20%" tts:extent="4.79% 4.34%">Chà.</p>
+            <p begin="01:22:00:00" end="01:22:01:22" style="basic" tts:origin="35.52% 71.20%" tts:extent="28.90% 9.35%">Nghe này, Nate,<br />tôi biết cậu có vấn đề với tôi.</p>
+            <p begin="01:22:02:02" end="01:22:04:04" style="basic" tts:origin="39.89% 71.20%" tts:extent="20.20% 9.35%">Nhưng coi nào.<br />Cô bé chỉ là trẻ con.</p>
+            <p begin="01:22:04:08" end="01:22:06:12" style="basic" tts:origin="35.36% 71.20%" tts:extent="29.21% 9.35%">Chúng ta cũng từng như thế.<br />Quan trọng là điểm đó.</p>
+            <p begin="01:22:06:16" end="01:22:09:01" style="basic" tts:origin="35.26% 71.20%" tts:extent="29.42% 9.35%">Cậu tạo ra liên kết mạnh hơn<br />khi cậu còn trẻ.</p>
+            <p begin="01:22:09:05" end="01:22:11:03" style="basic" tts:origin="33.07% 71.20%" tts:extent="33.85% 9.35%">Đó chính là sự liên kết<br />giúp tạo ra một phi công giỏi hơn.</p>
+            <p begin="01:22:11:07" end="01:22:13:10" style="basic" tts:origin="34.15% 76.20%" tts:extent="31.61% 4.34%">Ừ. Tôi còn nhớ buổi tranh luận.</p>
+            <p begin="01:22:13:14" end="01:22:14:15" style="basic" tts:origin="45.57% 76.20%" tts:extent="8.85% 4.34%">Cảm ơn.</p>
+            <p begin="01:22:16:01" end="01:22:18:00" style="basic" tts:origin="32.96% 76.20%" tts:extent="34.01% 4.34%">Ryoichi, Renata, đến lượt hai em.</p>
+            <p begin="01:22:18:04" end="01:22:20:05" style="basic" tts:origin="34.58% 71.20%" tts:extent="30.83% 9.35%">Cho tân binh của chúng ta biết<br />phải làm như thế nào là đúng.</p>
+            <p begin="01:22:25:12" end="01:22:27:12" style="basic" tts:origin="40.31% 76.20%" tts:extent="19.32% 4.34%">KEM ĐÁNH BÔNG</p>
+            <p begin="01:22:34:04" end="01:22:36:18" style="basic" tts:origin="37.22% 76.20%" tts:extent="25.52% 4.34%">Cậu mặc cái quái gì vậy?</p>
+            <p begin="01:22:38:05" end="01:22:39:05" style="basic" tts:origin="42.65% 76.20%" tts:extent="14.68% 4.34%">Jules thích nó.</p>
+            <p begin="01:22:39:12" end="01:22:42:10" style="basic" tts:origin="31.77% 71.20%" tts:extent="36.40% 9.35%">Phải, cô ấy nói thật tốt khi cuối cùng<br />ở đây cũng có người biết ăn mặc.</p>
+            <p begin="01:22:42:14" end="01:22:44:04" style="basic" tts:origin="38.59% 71.20%" tts:extent="22.76% 9.35%">Không thể trách cô ấy.<br />Tôi sexy mà.</p>
+            <p begin="01:22:44:08" end="01:22:46:03" style="basic" tts:origin="42.50% 71.20%" tts:extent="14.94% 9.35%">-Được rồi.<br />-Một ly không?</p>
+            <p begin="01:22:47:03" end="01:22:48:09" style="basic" tts:origin="46.77% 76.20%" tts:extent="6.45% 4.34%">Được.</p>
+            <p begin="01:22:51:12" end="01:22:52:12" style="basic" tts:origin="45.57% 76.20%" tts:extent="8.85% 4.34%">Cảm ơn.</p>
+            <p begin="01:22:52:16" end="01:22:54:04" style="basic" tts:origin="42.39% 76.20%" tts:extent="15.15% 4.34%">Có kem ở trên.</p>
+            <p begin="01:22:54:14" end="01:22:55:21" style="basic" tts:origin="46.77% 76.20%" tts:extent="6.45% 4.34%">Được.</p>
+            <p begin="01:22:56:15" end="01:22:57:12" style="basic" tts:origin="46.77% 76.20%" tts:extent="6.45% 4.34%">Được.</p>
+            <p begin="01:22:57:16" end="01:23:00:17" style="basic" tts:origin="33.59% 71.20%" tts:extent="32.76% 9.35%">Vậy là thêm một nỗ lực nữa?<br />Để chứng minh ông già cậu sai?</p>
+            <p begin="01:23:00:21" end="01:23:03:11" style="basic" tts:origin="29.58% 71.20%" tts:extent="40.78% 9.35%">Không, tôi chỉ quay lại để xem cái<br />cằm sửa của cậu có hợp với mặt không.</p>
+            <p begin="01:23:03:15" end="01:23:05:10" style="basic" tts:origin="37.70% 76.20%" tts:extent="24.53% 4.34%">Tôi nghĩ là khá hợp đấy.</p>
+            <p begin="01:23:05:15" end="01:23:07:22" style="basic" tts:origin="37.96% 71.20%" tts:extent="24.01% 9.35%">Phải. Nhìn rất oai vệ.<br />Lũ nhóc chắc thích lắm.</p>
+            <p begin="01:23:08:02" end="01:23:11:06" style="basic" tts:origin="43.43% 72.22%" tts:extent="33.11% 9.35%">Jake, lũ nhóc này,<br />bọn chúng ngưỡng mộ chúng ta.</p>
+            <p begin="01:23:12:04" end="01:23:14:08" style="basic" tts:origin="36.09% 71.20%" tts:extent="27.81% 9.35%">Ta phải cho chúng thấy<br />ta có thể làm việc với nhau.</p>
+            <p begin="01:23:15:13" end="01:23:19:00" style="basic" tts:origin="30.98% 71.20%" tts:extent="38.02% 9.35%">Cuộc chiến đã kết thúc mười năm rồi.<br />Cậu phải bỏ đi thôi.</p>
+            <p begin="01:23:19:04" end="01:23:20:11" style="basic" tts:origin="41.82% 76.20%" tts:extent="16.30% 4.34%">Chỉ cần… quên.</p>
+            <p begin="01:23:20:15" end="01:23:22:19" style="basic" tts:origin="37.90% 76.20%" tts:extent="24.16% 4.34%">Cậu phải hiểu kẻ địch…</p>
+            <p begin="01:23:25:04" end="01:23:26:14" style="basic" tts:origin="44.27% 76.20%" tts:extent="11.40% 4.34%">Cậu phải…</p>
+            <p begin="01:23:27:22" end="01:23:28:18" style="basic" tts:origin="41.82% 76.20%" tts:extent="16.30% 4.34%">Xin lỗi, anh bạn.</p>
+            <p begin="01:23:29:04" end="01:23:32:04" style="basic" tts:origin="32.50% 71.20%" tts:extent="35% 9.35%">Cậu phải hiểu mục đích của kẻ thù<br />thì mới biết cách đánh bại chúng.</p>
+            <p begin="01:23:32:08" end="01:23:33:06" style="basic" tts:origin="37.86% 77.22%" tts:extent="24.27% 4.34%">Chúng ta vẫn chưa biết.</p>
+            <p begin="01:23:33:10" end="01:23:35:14" style="basic" tts:origin="33.69% 76.20%" tts:extent="32.60% 4.34%">Không. Tôi có thể giúp cậu hiểu.</p>
+            <p begin="01:23:35:18" end="01:23:37:07" style="basic" tts:origin="38.28% 71.20%" tts:extent="23.38% 9.35%">Tôi thì nghĩ rằng<br />chuyện đó có liên quan</p>
+            <p begin="01:23:37:11" end="01:23:39:18" style="basic" tts:origin="30.31% 71.20%" tts:extent="39.32% 9.35%">đến việc chúng gởi những con quái vật<br />khổng lồ đến phá phách chúng ta.</p>
+            <p begin="01:23:39:22" end="01:23:42:13" style="basic" tts:origin="31.45% 71.20%" tts:extent="37.03% 9.35%">Không, không.<br />Tộc Precursors không đưa Kaiju đến</p>
+            <p begin="01:23:42:17" end="01:23:44:23" style="basic" tts:origin="31.25% 71.20%" tts:extent="37.44% 9.35%">để san bằng vài thành phố<br />nếu chúng muốn quét sạch chúng ta.</p>
+            <p begin="01:23:45:03" end="01:23:47:05" style="basic" tts:origin="33.02% 71.20%" tts:extent="33.95% 9.35%">Được rồi, nghe này, Nate,<br />tôi không có vấn đề gì với cậu cả.</p>
+            <p begin="01:23:47:10" end="01:23:48:21" style="basic" tts:origin="32.22% 76.20%" tts:extent="35.52% 4.34%">Nhưng tôi đã phải đưa ra lựa chọn.</p>
+            <p begin="01:23:49:01" end="01:23:51:04" style="basic" tts:origin="33.43% 71.20%" tts:extent="33.11% 9.35%">Giữa khuôn mặt đẹp trai của cậu<br />và nhà tù.</p>
+            <p begin="01:23:51:13" end="01:23:53:04" style="basic" tts:origin="31.30% 76.20%" tts:extent="37.39% 4.34%">Tôi chọn khuôn mặt đẹp trai của cậu.</p>
+            <p begin="01:23:53:15" end="01:23:55:07" style="basic" tts:origin="40.61% 76.20%" tts:extent="18.69% 4.34%">Tôi cảm động đấy.</p>
+            <p begin="01:23:55:11" end="01:23:57:04" style="basic" tts:origin="32.50% 76.20%" tts:extent="35% 4.34%">Cậu bỏ bao nhiêu topping mới đủ?</p>
+            <p begin="01:23:57:08" end="01:24:00:03" style="basic" tts:origin="34.06% 71.20%" tts:extent="31.87% 9.35%">Để chúng yên đi.<br />Đừng phá hỏng topping của tôi.</p>
+            <p begin="01:24:01:11" end="01:24:04:19" style="basic" tts:origin="32.96% 72.22%" tts:extent="34.01% 9.35%">Các học viên có khoảng…<br />một vài tháng trước khi tốt nhiệp?</p>
+            <p begin="01:24:05:09" end="01:24:06:16" style="basic" tts:origin="46.40% 71.20%" tts:extent="7.18% 9.35%">-Sáu.<br />-Được.</p>
+            <p begin="01:24:06:20" end="01:24:07:20" style="basic" tts:origin="39.89% 77.22%" tts:extent="20.20% 4.34%">Để tôi nói cậu nghe.</p>
+            <p begin="01:24:08:00" end="01:24:09:23" style="basic" tts:origin="29.89% 72.22%" tts:extent="40.15% 9.35%">Mỗi lần cậu muốn nói chuyện với chúng<br />bằng giọng người lính,</p>
+            <p begin="01:24:10:03" end="01:24:11:01" style="basic" tts:origin="41.09% 77.22%" tts:extent="17.80% 4.34%">tôi sẽ chỉ gật đầu.</p>
+            <p begin="01:27:41:21" end="01:27:43:08" style="basic" tts:origin="20.20% 76.20%" tts:extent="19.57% 4.34%">vì những gì đã thấy</p>
+            <p begin="01:27:44:02" end="01:27:47:05" style="basic" tts:origin="10.19% 71.20%" tts:extent="31.56% 9.35%">khi kết nối vào bộ não kinh tởm<br />của con Kaiju đó.</p>
+            <p begin="01:27:47:09" end="01:27:48:11" style="basic" tts:origin="26.35% 76.20%" tts:extent="5.20% 4.34%">Phải.</p>
+            <p begin="01:27:51:20" end="01:27:53:15" style="basic" tts:origin="10% 71.20%" tts:extent="34.36% 9.35%">Nhưng cú đó cũng rất phấn khích,<br />không phải sao?</p>
+            <p begin="01:27:55:14" end="01:27:57:17" style="basic" tts:origin="35.52% 62.22%" tts:extent="28.90% 4.34%">Tiến sĩ Geiszler. Đến giờ rồi.</p>
+            <p begin="01:27:58:02" end="01:27:59:03" style="basic" tts:origin="40.26% 62.22%" tts:extent="19.42% 4.34%">Được rồi, được rồi.</p>
+            <p begin="01:28:03:09" end="01:28:05:11" style="basic" tts:origin="38.47% 49.16%" tts:extent="23.02% 9.35%">Anh và Tiến sĩ Gottlieb<br />rất thân thiết nhỉ?</p>
+            <p begin="01:28:05:14" end="01:28:06:15" style="basic" tts:origin="40.61% 62.22%" tts:extent="18.69% 4.34%">Trong cuộc chiến?</p>
+            <p begin="01:28:07:21" end="01:28:09:13" style="basic" tts:origin="36.77% 57.22%" tts:extent="26.40% 9.35%">Chúng tôi cùng làm chung<br />một phòng thí nghiệm…</p>
+            <p begin="01:28:09:22" end="01:28:11:00" style="basic" tts:origin="41.61% 62.22%" tts:extent="16.71% 4.34%">Nói tiếng Anh đi.</p>
+            <p begin="01:28:11:03" end="01:28:13:09" style="basic" tts:origin="37.39% 49.16%" tts:extent="25.15% 9.35%">Anh nói tiếng Hoa<br />như một thằng ngốc vậy.</p>
+            <p begin="01:28:13:12" end="01:28:15:08" style="basic" tts:origin="33.07% 71.20%" tts:extent="33.85% 9.35%">Tôi biết tôi nói dở. Phải, chúng tôi<br />làm chung phòng thí nghiệm.</p>
+            <p begin="01:28:15:12" end="01:28:17:17" style="basic" tts:origin="38.47% 49.16%" tts:extent="23.02% 9.35%">Anh và Tiến sĩ Gottlieb<br />đã nói gì với nhau?</p>
+            <p begin="01:28:17:20" end="01:28:20:21" style="basic" tts:origin="34.36% 71.20%" tts:extent="31.19% 9.35%">Một ý tưởng điên rồ của anh ta<br />về các bộ đẩy trên Jaeger.</p>
+            <p begin="01:28:21:00" end="01:28:24:00" style="basic" tts:origin="31.97% 49.16%" tts:extent="35.97% 9.35%">Cho đến khi Tổng thư ký Mori<br />đọc lời tiến cử ở Hội đồng Cấp cao,</p>
+            <p begin="01:28:24:03" end="01:28:25:07" style="basic" tts:origin="34.27% 62.22%" tts:extent="31.45% 4.34%">tôi không thể để xảy ra sai lầm.</p>
+            <p begin="01:28:25:16" end="01:28:27:09" style="basic" tts:origin="34.47% 62.22%" tts:extent="31.04% 4.34%">Không được liên lạc với anh ta</p>
+            <p begin="01:28:27:20" end="01:28:29:00" style="basic" tts:origin="38.85% 62.22%" tts:extent="22.23% 4.34%">cho đến lúc bầu chọn.</p>
+            <p begin="01:28:30:18" end="01:28:32:12" style="basic" tts:origin="37.65% 76.20%" tts:extent="24.63% 4.34%">Anh ta hoàn toàn vô hại.</p>
+            <p begin="01:28:33:15" end="01:28:34:11" style="basic" tts:origin="45.20% 76.20%" tts:extent="9.58% 4.34%">Được rồi.</p>
+            <p begin="01:28:34:15" end="01:28:39:01" style="basic" tts:origin="31.04% 72.22%" tts:extent="37.90% 9.35%">Cô có thể nói lại<br />và lần này chậm khoảng 80% không?</p>
+            <p begin="01:28:39:06" end="01:28:42:03" style="basic" tts:origin="41.30% 71.20%" tts:extent="35.36% 9.35%">Tôi nói, đừng để tôi<br />nghi ngờ lòng trung thành của anh.</p>
+            <p begin="01:28:42:07" end="01:28:43:08" style="basic" tts:origin="47.70% 76.20%" tts:extent="10.52% 4.34%">Hiểu chứ?</p>
+            <p begin="01:28:45:06" end="01:28:46:10" style="basic" tts:origin="39.36% 76.20%" tts:extent="21.19% 4.34%">Có gì phải nghi ngờ?</p>
+            <p begin="01:28:48:04" end="01:28:50:00" style="basic" tts:origin="29.63% 76.20%" tts:extent="40.67% 4.34%">Dù sao tôi cũng ít nói chuyện với anh ta.</p>
+            <p begin="01:28:50:03" end="01:28:51:02" style="basic" tts:origin="34.68% 64.16%" tts:extent="30.57% 4.34%">Vậy thì sẽ không có vấn đề gì.</p>
+            <p begin="01:28:51:13" end="01:28:52:22" style="basic" tts:origin="38.28% 64.16%" tts:extent="23.38% 4.34%">Và học lại tiếng Hoa đi.</p>
+            <p begin="01:28:53:09" end="01:28:54:18" style="basic" tts:origin="50.31% 59.16%" tts:extent="21.35% 9.35%">Tôi không thích<br />phải nhắc đi nhắc lại.</p>
+            <p begin="01:28:55:09" end="01:28:56:13" style="basic" tts:origin="36.25% 62.22%" tts:extent="27.44% 4.34%">Bằng bất kỳ ngôn ngữ nào.</p>
+            <p begin="01:28:57:03" end="01:29:00:08" style="basic" tts:origin="27.50% 71.20%" tts:extent="44.94% 9.35%">Người máy tự động của tôi là bước tiếp theo<br />trong sự phát triển của Jaeger.</p>
+            <p begin="01:29:00:12" end="01:29:02:02" style="basic" tts:origin="37.96% 76.20%" tts:extent="24.01% 4.34%">Hệ thống mà tôi thiết kế</p>
+            <p begin="01:29:02:06" end="01:29:05:05" style="basic" tts:origin="32.39% 71.20%" tts:extent="35.15% 9.35%">xử lý mệnh lệnh<br />thông qua một lõi dữ liệu lượng tử.</p>
+            <p begin="01:29:05:09" end="01:29:07:05" style="basic" tts:origin="38.79% 71.20%" tts:extent="22.39% 9.35%">Điều này có nghĩa là<br />một phi công duy nhất</p>
+            <p begin="01:29:07:09" end="01:29:10:03" style="basic" tts:origin="36.09% 71.20%" tts:extent="27.81% 9.35%">có thể vận hành người máy<br />bằng liên kết từ xa</p>
+            <p begin="01:29:10:07" end="01:29:11:21" style="basic" tts:origin="34.53% 76.20%" tts:extent="30.93% 4.34%">từ bất cứ nơi nào trên thế giới.</p>
+            <p begin="01:29:12:17" end="01:29:15:00" style="basic" tts:origin="28.17% 76.20%" tts:extent="43.59% 4.34%">Ngay khi hội đồng phê duyệt việc dàn quân</p>
+            <p begin="01:29:15:04" end="01:29:18:06" style="basic" tts:origin="35.88% 71.20%" tts:extent="28.22% 9.35%">dựa theo báo cáo cuối cùng<br />của Tổng thư ký Mori,</p>
+            <p begin="01:29:18:10" end="01:29:22:05" style="basic" tts:origin="27.29% 71.20%" tts:extent="45.36% 9.35%">những ngày gian khổ tìm kiếm và huấn luyện<br />các phi công có thể kết nối với nhau</p>
+            <p begin="01:29:22:10" end="01:29:24:01" style="basic" tts:origin="39.47% 76.20%" tts:extent="20.98% 4.34%">sẽ trở thành dĩ vãng.</p>
+            <p begin="01:29:24:05" end="01:29:26:21" style="basic" tts:origin="31.40% 71.20%" tts:extent="37.18% 9.35%">Cô nghĩ một đám nhân viên bàn giấy<br />sẽ giỏi hơn chúng tôi?</p>
+            <p begin="01:29:27:01" end="01:29:29:05" style="basic" tts:origin="37.34% 71.20%" tts:extent="25.31% 9.35%">Chúng tôi không đến đây<br />để giải tán các anh.</p>
+            <p begin="01:29:29:09" end="01:29:32:19" style="basic" tts:origin="29.16% 71.20%" tts:extent="41.66% 9.35%">Việc hợp tác giữa các chương trình<br />của chúng ta chưa bao giờ cần thiết hơn.</p>
+            <p begin="01:29:33:14" end="01:29:36:03" style="basic" tts:origin="37.86% 71.20%" tts:extent="24.27% 9.35%">-Xin mời đặt câu hỏi.<br />-Tôi có một câu hỏi đây.</p>
+            <p begin="01:29:37:20" end="01:29:40:00" style="basic" tts:origin="33.02% 71.20%" tts:extent="33.90% 9.35%">Chúng tôi là phi công.<br />Không phải nhân viên văn phòng!</p>
+            <p begin="01:29:40:04" end="01:29:42:16" style="basic" tts:origin="37.03% 71.20%" tts:extent="25.88% 9.35%">Lớn tiếng rồi.<br />Không cần phải lớn tiếng.</p>
+            <p begin="01:29:48:16" end="01:29:49:16" style="basic" tts:origin="43.64% 76.20%" tts:extent="12.65% 4.34%">Nói hay lắm.</p>
+            <p begin="01:29:50:00" end="01:29:52:19" style="basic" tts:origin="28.90% 71.20%" tts:extent="42.18% 9.35%">Vậy còn bao lâu nữa thì chương trình này<br />giải tán và em được về nhà?</p>
+            <p begin="01:29:52:23" end="01:29:55:11" style="basic" tts:origin="35.26% 71.20%" tts:extent="29.47% 9.35%">Chị không tin công nghệ này.<br />Ít nhất là chưa.</p>
+            <p begin="01:29:55:15" end="01:29:57:04" style="basic" tts:origin="36.45% 76.20%" tts:extent="27.03% 4.34%">Em thì thấy nó khá ổn đấy.</p>
+            <p begin="01:29:57:15" end="01:30:01:08" style="basic" tts:origin="35.97% 71.20%" tts:extent="27.96% 9.35%">Các hệ thống từ xa có thể<br />bị xâm nhập hoặc phá hoại.</p>
+            <p begin="01:30:01:13" end="01:30:03:09" style="basic" tts:origin="31.92% 71.20%" tts:extent="36.14% 9.35%">Không, chị có phiếu bầu quyết định,<br />đúng không?</p>
+            <p begin="01:30:03:13" end="01:30:05:10" style="basic" tts:origin="40.15% 71.20%" tts:extent="19.68% 9.35%">Vậy thì khỏe rồi.<br />Quyết định là ở chị.</p>
+            <p begin="01:30:06:12" end="01:30:09:14" style="basic" tts:origin="29.79% 76.20%" tts:extent="40.40% 4.34%">Chị ước gì có thể tự mình phê duyệt nó.</p>
+            <p begin="01:30:09:18" end="01:30:13:03" style="basic" tts:origin="30.57% 76.20%" tts:extent="38.79% 4.34%">Gần nửa hội đồng đang ủng hộ Liwen.</p>
+            <p begin="01:30:14:01" end="01:30:16:14" style="basic" tts:origin="31.04% 76.20%" tts:extent="37.90% 4.34%">Họ sẽ không thích quyết định của chị.</p>
+            <p begin="01:30:17:04" end="01:30:20:08" style="basic" tts:origin="38.28% 71.20%" tts:extent="23.38% 9.35%">Ai quan tâm họ thích gì<br />hay không thích gì?</p>
+            <p begin="01:30:20:12" end="01:30:22:15" style="basic" tts:origin="33.64% 76.20%" tts:extent="32.70% 4.34%">Em nói chị biết, em sẽ đi với chị.</p>
+            <p begin="01:30:22:19" end="01:30:24:01" style="basic" tts:origin="38.69% 76.20%" tts:extent="22.60% 4.34%">Để hỗ trợ về tinh thần.</p>
+            <p begin="01:30:24:05" end="01:30:25:18" style="basic" tts:origin="30.57% 76.20%" tts:extent="38.79% 4.34%">Với lại em cũng muốn ra khỏi chỗ này.</p>
+            <p begin="01:30:25:22" end="01:30:27:10" style="basic" tts:origin="36.51% 76.20%" tts:extent="26.92% 4.34%">Chị mừng là em đã ngỏ lời</p>
+            <p begin="01:30:27:14" end="01:30:30:13" style="basic" tts:origin="30.15% 76.20%" tts:extent="39.68% 4.34%">vì chị đã gởi yêu cầu để Gipsy Avenger</p>
+            <p begin="01:30:30:17" end="01:30:32:13" style="basic" tts:origin="29.27% 76.20%" tts:extent="41.45% 4.34%">làm hộ vệ danh dự tại Hội đồng Cấp cao.</p>
+            <p begin="01:30:32:17" end="01:30:34:05" style="basic" tts:origin="31.45% 76.20%" tts:extent="37.03% 4.34%">Chị biết Gipsy giờ là xế của Nate rồi.</p>
+            <p begin="01:30:34:09" end="01:30:37:18" style="basic" tts:origin="30.41% 71.20%" tts:extent="39.11% 9.35%">Phi công thứ hai của cậu ấy đã sang<br />làm cho Liwen. Cậu ấy cần người mới.</p>
+            <p begin="01:30:37:22" end="01:30:40:15" style="basic" tts:origin="36.14% 71.20%" tts:extent="27.65% 9.35%">Một người mà chị đã biết là<br />phù hợp kết nối.</p>
+            <p begin="01:30:41:21" end="01:30:42:21" style="basic" tts:origin="45.20% 76.20%" tts:extent="9.58% 4.34%">Được rồi.</p>
+            <p begin="01:30:43:21" end="01:30:45:08" style="basic" tts:origin="36.19% 76.20%" tts:extent="27.55% 4.34%">Em sẽ làm. Em sẽ giúp chị.</p>
+            <p begin="01:30:45:12" end="01:30:46:21" style="basic" tts:origin="38.79% 71.20%" tts:extent="22.34% 9.35%">Nhưng em muốn ở đó<br />khi chị nói với Nate</p>
+            <p begin="01:30:47:01" end="01:30:49:06" style="basic" tts:origin="31.71% 71.20%" tts:extent="36.51% 9.35%">vì em muốn thấy vẻ mặt của cậu ấy.<br />Cậu ấy sẽ điên tiết lắm.</p>
+            <p begin="01:30:49:10" end="01:30:51:00" style="basic" tts:origin="35.83% 76.20%" tts:extent="28.33% 4.34%">Cậu ấy sẽ đứng đó và nói…</p>
+            <p begin="01:30:51:04" end="01:30:53:13" style="basic" tts:origin="33.02% 71.20%" tts:extent="33.90% 9.35%">“Phải, tôi không nghĩ cậu nên vào<br />một Jaeger, Jake.”</p>
+            <p begin="01:30:53:17" end="01:30:54:23" style="basic" tts:origin="37.60% 76.20%" tts:extent="24.79% 4.34%">“Ra khỏi Jaeger của tôi.”</p>
+            <p begin="01:30:55:03" end="01:30:57:02" style="basic" tts:origin="39.06% 76.20%" tts:extent="21.87% 4.34%">“Tôi đẹp trai và sexy.”</p>
+            <p begin="01:30:58:10" end="01:31:00:04" style="basic" tts:origin="37.90% 71.20%" tts:extent="24.16% 9.35%">Cậu ấy đúng là đẹp trai.<br />Cậu ấy sexy nữa.</p>
+            <p begin="01:31:00:18" end="01:31:01:20" style="basic" tts:origin="40.61% 76.20%" tts:extent="18.69% 4.34%">Cảm ơn em, Jake.</p>
+            <p begin="01:31:17:23" end="01:31:20:08" style="basic" tts:origin="31.04% 71.20%" tts:extent="37.90% 9.35%"><span tts:fontStyle="italic">Chào mừng quay lại.</span><br /><span tts:fontStyle="italic">Hôm nay trời nắng đẹp cho cuối tuần.</span></p>
+            <p begin="01:31:20:12" end="01:31:21:16" style="basic" tts:origin="20.14% 17.22%" tts:extent="41.61% 9.35%">LỰC LƯỢNG PHÒNG VỆ PAN PACIFIC<br />HỘI NGHỊ THƯỢNG ĐỈNH</p>
+            <p begin="01:31:21:19" end="01:31:23:01" style="basic" tts:origin="41.97% 76.20%" tts:extent="16.04% 4.34%"><span tts:fontStyle="italic">Xin chào quý vị.</span></p>
+            <p begin="01:31:23:05" end="01:31:25:20" style="basic" tts:origin="31.97% 55.18%" tts:extent="35.97% 9.35%"><span tts:fontStyle="italic">Peter Overton đang phát sóng</span><br /><span tts:fontStyle="italic">từ Trường quay Số chín ở Sidney…</span></p>
+            <p begin="01:31:26:03" end="01:31:29:21" style="basic" tts:origin="34.21% 51.20%" tts:extent="31.51% 9.35%"><span tts:fontStyle="italic">Đến hiện giờ, cảnh sát cho biết</span><br /><span tts:fontStyle="italic">ít nhất 49 sĩ quan đã bị thương.</span></p>
+            <p begin="01:31:30:01" end="01:31:32:23" style="basic" tts:origin="30.93% 51.20%" tts:extent="36.04% 9.35%"><span tts:fontStyle="italic">Người tôn thờ Kaiju đeo mặt nạ đen</span><br /><span tts:fontStyle="italic">ném chai lọ và đất đá.</span></p>
+            <p begin="01:31:33:03" end="01:31:34:22" style="basic" tts:origin="29.73% 60.18%" tts:extent="40.46% 9.35%"><span tts:fontStyle="italic">Cảnh vệ PPDC mặc đồ chống bạo động</span><br /><span tts:fontStyle="italic">đang nỗ lực…</span></p>
+            <p begin="01:31:35:02" end="01:31:40:01" style="basic" tts:origin="22.50% 59.16%" tts:extent="55% 4.34%">JAEGER CHỦ LỰC XUẤT HIỆN TẠI HỘI NGHỊ PPDC</p>
+            <p begin="01:31:40:05" end="01:31:42:11" style="basic" tts:origin="28.80% 76.20%" tts:extent="42.34% 4.34%"><span tts:fontStyle="italic">Gipsy Avenger, đây là Nguyên soái Quan.</span></p>
+            <p begin="01:31:42:15" end="01:31:45:08" style="basic" tts:origin="36.61% 71.20%" tts:extent="26.77% 9.35%"><span tts:fontStyle="italic">Hai người chỉ cần đứng đó</span><br /><span tts:fontStyle="italic">và ra vẻ khả ái thôi.</span></p>
+            <p begin="01:31:45:21" end="01:31:48:15" style="basic" tts:origin="32.18% 77.22%" tts:extent="35.57% 4.34%"><span tts:fontStyle="italic">Tập trung, cố gắng đừng để bị ngã.</span></p>
+            <p begin="01:31:48:19" end="01:31:50:14" style="basic" tts:origin="38.54% 72.22%" tts:extent="22.86% 9.35%">-Rõ, thưa sếp.<br /><span tts:fontStyle="italic">-Chuẩn bị hạ xuống đi.</span></p>
+            <p begin="01:31:50:23" end="01:31:54:08" style="basic" tts:origin="37.86% 76.20%" tts:extent="24.27% 4.34%">Sau 3, 2, 1… Hạ xuống!</p>
+            <p begin="01:32:05:14" end="01:32:06:15" style="basic" tts:origin="47.23% 76.20%" tts:extent="5.46% 4.34%">Jake!</p>
+            <p begin="01:32:07:22" end="01:32:09:20" style="basic" tts:origin="33.28% 76.20%" tts:extent="33.38% 4.34%"><span tts:fontStyle="italic">Liên kết thần kinh không ổn định.</span></p>
+            <p begin="01:32:10:00" end="01:32:12:14" style="basic" tts:origin="34.11% 76.20%" tts:extent="31.71% 4.34%">Bình tĩnh. Tôi đang nhớ lại đây.</p>
+            <p begin="01:32:12:23" end="01:32:15:19" style="basic" tts:origin="37.60% 72.22%" tts:extent="24.79% 9.35%">-Chắc không?<br /><span tts:fontStyle="italic">-Đã kích hoạt tế bào ion.</span></p>
+            <p begin="01:32:15:22" end="01:32:17:06" style="basic" tts:origin="31.56% 76.20%" tts:extent="36.86% 4.34%">Ta ở trong đầu nhau mà, nhớ chưa?</p>
+            <p begin="01:32:17:10" end="01:32:19:15" style="basic" tts:origin="36.45% 71.20%" tts:extent="27.08% 9.35%">Nên tôi sẽ rất cảm kích<br />nếu cậu thôi nghĩ về Jules.</p>
+            <p begin="01:32:20:10" end="01:32:21:16" style="basic" tts:origin="41.14% 76.20%" tts:extent="17.70% 4.34%">Không được đâu.</p>
+            <p begin="01:32:21:20" end="01:32:24:12" style="basic" tts:origin="28.28% 76.20%" tts:extent="43.38% 4.34%">Vậy cậu đừng nghĩ đến việc đá đít tôi nhé?</p>
+            <p begin="01:32:24:16" end="01:32:26:10" style="basic" tts:origin="34.94% 76.20%" tts:extent="30.05% 4.34%">Cái đó cũng không được đâu.</p>
+            <p begin="01:32:27:14" end="01:32:28:19" style="basic" tts:origin="37.44% 76.20%" tts:extent="25.05% 4.34%">Hôm nay sẽ dài lắm đây.</p>
+            <p begin="01:32:29:01" end="01:32:30:20" style="basic" tts:origin="31.04% 62.22%" tts:extent="37.90% 4.34%">Hai bán cầu đã được hiệu chỉnh, sếp.</p>
+            <p begin="01:32:32:00" end="01:32:34:08" style="basic" tts:origin="29.68% 62.22%" tts:extent="40.57% 4.34%">Liên kết thần kinh yếu, nhưng giữ được.</p>
+            <p begin="01:32:38:16" end="01:32:39:20" style="basic" tts:origin="42.76% 76.20%" tts:extent="14.47% 4.34%"><span tts:fontStyle="italic">Có người đến.</span></p>
+            <p begin="01:32:40:00" end="01:32:41:04" style="basic" tts:origin="35.10% 76.20%" tts:extent="29.73% 4.34%">TỔNG THƯ KÝ MAKO MORI</p>
+            <p begin="01:32:47:07" end="01:32:48:13" style="basic" tts:origin="33.75% 71.20%" tts:extent="32.50% 9.35%">JAEGER TỰ ĐỘNG<br />BÁO CÁO KHẢ NĂNG TỒN TẠI</p>
+            <p begin="01:32:48:18" end="01:32:51:01" style="basic" tts:origin="34.36% 76.20%" tts:extent="31.25% 4.34%"><span tts:fontStyle="italic">Dự báo thời gian đến là 2 phút.</span></p>
+            <p begin="01:33:00:20" end="01:33:02:08" style="basic" tts:origin="35.57% 71.20%" tts:extent="28.80% 9.35%">NGĂN CHẶN CÁC JAEGER<br />Dừng sự áp bức của PPDC</p>
+            <p begin="01:33:21:17" end="01:33:23:14" style="basic" tts:origin="30.52% 71.20%" tts:extent="38.95% 9.35%"><span tts:fontStyle="italic">-Cảnh báo.</span><br />-Gypsy gọi Chỉ huy. Nghe thấy không?</p>
+            <p begin="01:33:38:06" end="01:33:39:21" style="basic" tts:origin="39.79% 76.20%" tts:extent="20.36% 4.34%">Gypsy, Chỉ huy đây.</p>
+            <p begin="01:33:40:01" end="01:33:42:01" style="basic" tts:origin="33.69% 76.20%" tts:extent="32.60% 4.34%"><span tts:fontStyle="italic">Cảnh giác. Có Jaeger làm phản.</span></p>
+            <p begin="01:33:44:23" end="01:33:46:19" style="basic" tts:origin="30.62% 76.20%" tts:extent="38.69% 4.34%"><span tts:fontStyle="italic">Phi công trên Jaeger không đăng ký…</span></p>
+            <p begin="01:33:46:23" end="01:33:49:19" style="basic" tts:origin="28.64% 76.20%" tts:extent="42.70% 4.34%">Tắt máy và ra khỏi buồng Conn-Pod ngay.</p>
+            <p begin="01:33:50:15" end="01:33:54:18" style="basic" tts:origin="33.02% 71.20%" tts:extent="33.90% 9.35%"><span tts:fontStyle="italic">Nhắc lại. Tắt máy,</span><br /><span tts:fontStyle="italic">và ra khỏi buồng Conn-Pod ngay.</span></p>
+            <p begin="01:33:56:13" end="01:33:57:17" style="basic" tts:origin="40.67% 77.22%" tts:extent="18.59% 4.34%">Tên lửa đã phóng!</p>
+            <p begin="01:34:19:06" end="01:34:20:23" style="basic" tts:origin="36.71% 71.20%" tts:extent="26.51% 9.35%"><span tts:fontStyle="italic">-Năng lượng yếu.</span><br />-Ta đang mất năng lượng!</p>
+            <p begin="01:34:32:16" end="01:34:33:10" style="basic" tts:origin="36.35% 76.20%" tts:extent="27.29% 4.34%">DẤU HIỆU NĂNG LƯỢNG</p>
+            <p begin="01:34:34:04" end="01:34:36:17" style="basic" tts:origin="27.34% 76.20%" tts:extent="45.26% 4.34%">Jake! Thông số năng lượng con Jaeger đó…</p>
+            <p begin="01:34:40:05" end="01:34:41:15" style="basic" tts:origin="46.19% 76.20%" tts:extent="43.59% 4.34%">Nó đang chặn đường liên lạc của chúng ta!</p>
+            <p begin="01:34:44:22" end="01:34:46:17" style="basic" tts:origin="39.84% 71.20%" tts:extent="20.30% 9.35%">-Nate!<br />-Năng lượng lên rồi!</p>
+            <p begin="01:35:35:21" end="01:35:37:10" style="basic" tts:origin="45.41% 76.20%" tts:extent="9.11% 4.34%">Chết tiệt.</p>
+            <p begin="01:36:00:04" end="01:36:01:17" style="basic" tts:origin="72.81% 71.20%" tts:extent="17.18% 9.35%">-Làm gì bây giờ?<br />-Theo lệnh tôi!</p>
+            <p begin="01:36:18:05" end="01:36:19:04" style="basic" tts:origin="35.88% 76.20%" tts:extent="16.19% 4.34%">Mako bị bắn rồi!</p>
+            <p begin="01:36:20:23" end="01:36:22:04" style="basic" tts:origin="29.06% 76.20%" tts:extent="41.82% 4.34%">Máy bay đang rơi! Ta phải di chuyển thôi!</p>
+            <p begin="01:36:22:08" end="01:36:23:20" style="basic" tts:origin="35.04% 76.20%" tts:extent="29.84% 4.34%">Đang kích hoạt dây trọng lực!</p>
+            <p begin="01:36:41:13" end="01:36:44:22" style="basic" tts:origin="33.17% 71.20%" tts:extent="33.59% 9.35%">Cấp cứu! Cấp cứu!<br />Đây là Mike, Mike, Charlie, 0-5-2.</p>
+            <p begin="01:36:45:02" end="01:36:46:02" style="basic" tts:origin="35% 76.20%" tts:extent="29.94% 4.34%">Chúng tôi bị bắn, và đang rơi!</p>
+            <p begin="01:36:46:06" end="01:36:47:06" style="basic" tts:origin="37.90% 71.20%" tts:extent="24.11% 9.35%">KẾT QUẢ KHỚP<br />ĐANG BIÊN DỊCH FILE</p>
+            <p begin="01:36:47:10" end="01:36:48:02" style="basic" tts:origin="45.10% 76.20%" tts:extent="9.78% 4.34%">GỬI FILE</p>
+            <p begin="01:36:48:05" end="01:36:49:05" style="basic" tts:origin="45.05% 76.20%" tts:extent="9.89% 4.34%"><span tts:fontStyle="italic">Đang gửi.</span></p>
+            <p begin="01:37:14:14" end="01:37:15:14" style="basic" tts:origin="46.87% 76.20%" tts:extent="6.19% 4.34%">Mako!</p>
+            <p begin="01:37:15:18" end="01:37:16:23" style="basic" tts:origin="41.77% 76.20%" tts:extent="16.45% 4.34%">Jake! Khoan đã!</p>
+            <p begin="01:38:42:19" end="01:38:44:16" style="basic" tts:origin="35.67% 76.20%" tts:extent="28.59% 4.34%"><span tts:fontStyle="italic">Liên kết thần kinh đang mất.</span></p>
+            <p begin="01:38:44:19" end="01:38:46:02" style="basic" tts:origin="34.36% 76.20%" tts:extent="31.25% 4.34%">Mau lên, Sarah! Làm gì đi chứ!</p>
+            <p begin="01:38:46:06" end="01:38:49:15" style="basic" tts:origin="32.22% 71.20%" tts:extent="35.52% 9.35%"><span tts:fontStyle="italic">-Liên kết thần kinh đang mất.</span><br />-Cái trò trí não ngu ngốc của cô ấy!</p>
+            <p begin="01:46:01:22" end="01:46:03:00" style="basic" tts:origin="37.76% 76.20%" tts:extent="24.42% 4.34%">Hôm nay cưng thế nào?</p>
+            <p begin="01:46:06:03" end="01:46:09:18" style="basic" tts:origin="36.14% 76.20%" tts:extent="27.70% 4.34%">Tuyệt quá. Phải, thú vị quá.</p>
+            <p begin="01:46:10:00" end="01:46:11:00" style="basic" tts:origin="44.47% 76.20%" tts:extent="10.98% 4.34%">Cái gì thế?</p>
+            <p begin="01:46:12:08" end="01:46:14:02" style="basic" tts:origin="31.51% 76.20%" tts:extent="36.92% 4.34%">Làm chút gì nâng cao tinh thần nhé?</p>
+            <p begin="01:46:14:21" end="01:46:18:18" style="basic" tts:origin="38.64% 76.20%" tts:extent="22.65% 4.34%">Chà, biết nói sao đây?</p>
+            <p begin="01:46:19:20" end="01:46:21:15" style="basic" tts:origin="39.06% 76.20%" tts:extent="21.87% 4.34%">Cưng hiểu ý anh quá.</p>
+            <p begin="01:46:28:23" end="01:46:30:06" style="basic" tts:origin="34.94% 76.20%" tts:extent="30.10% 4.34%"><span tts:fontStyle="italic">Hàng trăm sĩ quan cảnh sát…</span></p>
+            <p begin="01:46:30:10" end="01:46:32:11" style="basic" tts:origin="36.19% 76.20%" tts:extent="27.55% 4.34%">Họ gọi nó là Obsidian Fury.</p>
+            <p begin="01:46:32:15" end="01:46:34:09" style="basic" tts:origin="34.36% 71.20%" tts:extent="31.25% 9.35%">Chưa từng có chuyện làm loạn<br />như thế này.</p>
+            <p begin="01:46:34:13" end="01:46:37:06" style="basic" tts:origin="33.85% 71.20%" tts:extent="32.22% 9.35%">Tin tức cho biết họ đã điều<br />cả chục Jaeger đến lễ truy điệu.</p>
+            <p begin="01:46:37:15" end="01:46:39:10" style="basic" tts:origin="33.54% 71.20%" tts:extent="32.86% 9.35%">Khi tôi chết,<br />tôi muốn được tiễn đưa như thế.</p>
+            <p begin="01:46:39:14" end="01:46:42:11" style="basic" tts:origin="29.47% 71.20%" tts:extent="41.04% 9.35%">Bố của cậu sẽ bắt cậu làm việc với ngực<br />khi cậu bị loại ra.</p>
+            <p begin="01:46:42:16" end="01:46:44:09" style="basic" tts:origin="34.36% 71.20%" tts:extent="31.25% 9.35%">Jaeger chẳng xuất hiện<br />khi anh chàng nâng ngực chết.</p>
+            <p begin="01:46:44:13" end="01:46:45:19" style="basic" tts:origin="32.76% 76.20%" tts:extent="34.47% 4.34%">Khoan, bố cậu làm việc với ngực?</p>
+            <p begin="01:46:45:23" end="01:46:48:19" style="basic" tts:origin="33.64% 71.20%" tts:extent="32.70% 9.35%">Ông ấy là bác sĩ thẩm mỹ.<br />Ông ấy không chỉ làm việc với…</p>
+            <p begin="01:46:48:23" end="01:46:51:08" style="basic" tts:origin="34.84% 71.20%" tts:extent="30.31% 9.35%">Tôi sẽ không trượt.<br />Tôi sẽ trở thành một phi công.</p>
+            <p begin="01:46:51:12" end="01:46:54:21" style="basic" tts:origin="32.54% 71.20%" tts:extent="34.89% 9.35%">Cậu mà chết, tôi sẽ cử một Jaeger<br />đến đám tang của cậu.</p>
+            <p begin="01:46:55:22" end="01:46:57:04" style="basic" tts:origin="37.54% 76.20%" tts:extent="24.89% 4.34%">Có lẽ là nửa con Jaeger.</p>
+            <p begin="01:46:58:13" end="01:47:01:21" style="basic" tts:origin="30.20% 71.20%" tts:extent="39.53% 9.35%">Tôi nghe nói đó là nơi họ tìm ra Amara.<br />Trong một nửa Jaeger.</p>
+            <p begin="01:47:02:01" end="01:47:03:21" style="basic" tts:origin="35.15% 76.20%" tts:extent="29.68% 4.34%">Nó là một Jaeger hoàn chỉnh.</p>
+            <p begin="01:47:04:07" end="01:47:06:21" style="basic" tts:origin="36.77% 77.22%" tts:extent="26.40% 4.34%">Chỉ là nó không quá lớn…</p>
+            <p begin="01:47:07:12" end="01:47:08:23" style="basic" tts:origin="45.88% 76.20%" tts:extent="8.22% 4.34%">Viktoria.</p>
+            <p begin="01:47:11:17" end="01:47:13:08" style="basic" tts:origin="39.72% 76.20%" tts:extent="20.46% 4.34%">Càng to thì càng tốt.</p>
+            <p begin="01:47:17:02" end="01:47:18:03" style="basic" tts:origin="44.94% 62.22%" tts:extent="10.10% 4.34%">Đi chết đi.</p>
+            <p begin="01:47:19:03" end="01:47:20:07" style="basic" tts:origin="41.87% 76.20%" tts:extent="16.19% 4.34%">Cậu vừa nói gì?</p>
+            <p begin="01:47:20:23" end="01:47:22:06" style="basic" tts:origin="44.94% 62.22%" tts:extent="10.10% 4.34%">Đi chết đi.</p>
+            <p begin="01:47:22:09" end="01:47:24:05" style="basic" tts:origin="37.76% 71.20%" tts:extent="24.42% 9.35%">-Tôi nói có đúng không?<br />-Đúng.</p>
+            <p begin="01:47:27:11" end="01:47:30:08" style="basic" tts:origin="31.66% 72.22%" tts:extent="36.65% 9.35%">Tôi đã nỗ lực từng ngày để đến đây.<br />Cậu không làm gì cả.</p>
+            <p begin="01:47:30:12" end="01:47:32:09" style="basic" tts:origin="32.90% 72.22%" tts:extent="34.11% 9.35%">Cậu chỉ được nhặt từ đường phố,<br />như rác rưởi!</p>
+            <p begin="01:47:33:08" end="01:47:35:05" style="basic" tts:origin="36.51% 76.20%" tts:extent="26.92% 4.34%">Các cậu, thôi đi! Này! Này!</p>
+            <p begin="01:47:37:15" end="01:47:39:02" style="basic" tts:origin="34.42% 71.20%" tts:extent="31.09% 9.35%">Cậu biết tôi học được chiêu đó<br />ở đâu không?</p>
+            <p begin="01:47:39:06" end="01:47:40:23" style="basic" tts:origin="51.92% 71.20%" tts:extent="22.08% 9.35%">Trên đường phố đấy,<br />đồ to xác, ngu ngốc…</p>
+            <p begin="01:47:41:03" end="01:47:42:08" style="basic" tts:origin="40.26% 76.20%" tts:extent="19.47% 4.34%">Ranger đến phòng!</p>
+            <p begin="01:47:44:23" end="01:47:46:21" style="basic" tts:origin="34.42% 72.22%" tts:extent="31.09% 9.35%">-Cô ta tấn công em!<br />-Cô ta không thuộc về nơi này!</p>
+            <p begin="01:47:47:01" end="01:47:49:05" style="basic" tts:origin="39.15% 76.20%" tts:extent="21.61% 4.34%">Anh không quan tâm!</p>
+            <p begin="01:47:50:15" end="01:47:53:21" style="basic" tts:origin="30.57% 71.20%" tts:extent="38.79% 9.35%">Lần đầu tiên anh gia nhập Quân đoàn,<br />anh cũng như các em.</p>
+            <p begin="01:47:54:13" end="01:47:57:18" style="basic" tts:origin="36.04% 76.20%" tts:extent="27.91% 4.34%">Tệ hơn. Anh chẳng là ai cả.</p>
+            <p begin="01:47:59:16" end="01:48:03:08" style="basic" tts:origin="32.65% 71.20%" tts:extent="34.63% 9.35%">Nhưng người phụ nữ mà chúng ta<br />đưa tiễn hôm nay, Mako Mori…</p>
+            <p begin="01:48:03:12" end="01:48:05:03" style="basic" tts:origin="31.14% 76.20%" tts:extent="37.65% 4.34%">Cô ấy từng nói, “Cho dù các em là ai,</p>
+            <p begin="01:48:05:07" end="01:48:07:07" style="basic" tts:origin="34.27% 71.20%" tts:extent="31.45% 9.35%">ngay khi vào chương trình này,<br />các em đã vào một gia đình.</p>
+            <p begin="01:48:08:13" end="01:48:09:22" style="basic" tts:origin="39.53% 76.20%" tts:extent="20.88% 4.34%">Và cho dù họ làm gì,</p>
+            <p begin="01:48:10:08" end="01:48:13:09" style="basic" tts:origin="34.01% 71.20%" tts:extent="31.97% 9.35%">cho dù thỉnh thoảng<br />họ hành xử ngu ngốc thế nào…</p>
+            <p begin="01:48:15:19" end="01:48:17:20" style="basic" tts:origin="36.71% 71.20%" tts:extent="26.56% 9.35%">Các em cũng phải bỏ qua,<br />và sống tiếp.”</p>
+            <p begin="01:48:19:19" end="01:48:23:12" style="basic" tts:origin="31.19% 71.20%" tts:extent="37.54% 9.35%">Cho nên các em phải tin vào điều đó.<br />Trong này.</p>
+            <p begin="01:48:24:10" end="01:48:26:21" style="basic" tts:origin="37.44% 71.20%" tts:extent="25.05% 9.35%">Và các em sẽ bắt đầu tin<br />khi đứng trong Jaeger.</p>
+            <p begin="01:48:27:09" end="01:48:28:08" style="basic" tts:origin="47.65% 76.20%" tts:extent="4.68% 4.34%">Này.</p>
+            <p begin="01:48:29:06" end="01:48:32:17" style="basic" tts:origin="37.13% 71.20%" tts:extent="25.67% 9.35%">Nguyên soái tìm các anh.<br />Gottlieb tìm được gì đó.</p>
+            <p begin="01:48:34:15" end="01:48:37:19" style="basic" tts:origin="39.84% 72.22%" tts:extent="20.26% 9.35%">Không phải là gì đó.<br />Mà là ở đâu.</p>
+            <p begin="01:48:38:05" end="01:48:42:04" style="basic" tts:origin="32.18% 71.20%" tts:extent="35.61% 9.35%">Severnaya Zemlya.<br />Ngoài bán đảo Taymyr của Siberia.</p>
+            <p begin="01:48:42:08" end="01:48:44:20" style="basic" tts:origin="38.38% 71.20%" tts:extent="23.22% 9.35%">-Ở Zemlya có gì?<br />-Chẳng còn gì ở đó cả.</p>
+            <p begin="01:48:45:06" end="01:48:46:17" style="basic" tts:origin="36.97% 76.20%" tts:extent="25.98% 4.34%">Một cơ sở ở địa điểm này</p>
+            <p begin="01:48:46:21" end="01:48:49:19" style="basic" tts:origin="29.68% 71.20%" tts:extent="40.57% 9.35%">từng được sử dụng để sản xuất<br />lõi năng lượng Jaeger trong chiến tranh,</p>
+            <p begin="01:48:50:00" end="01:48:51:22" style="basic" tts:origin="37.29% 71.20%" tts:extent="25.41% 9.35%">nhưng nó đã bị bỏ hoang<br />nhiều năm trước.</p>
+            <p begin="01:48:52:02" end="01:48:54:16" style="basic" tts:origin="31.30% 71.20%" tts:extent="37.39% 9.35%">Sao Mako lại muốn cho chúng ta biết<br />về một cơ sở bỏ hoang</p>
+            <p begin="01:48:54:20" end="01:48:56:08" style="basic" tts:origin="32.22% 76.20%" tts:extent="35.52% 4.34%">giữa nơi đồng không mông quạnh?</p>
+            <p begin="01:48:56:12" end="01:49:02:10" style="basic" tts:origin="32.54% 71.20%" tts:extent="34.89% 9.35%">Sếp, cho phép đưa Gipsy Avenger<br />đến xem chuyện quái gì ở đó.</p>
+            <p begin="01:49:31:17" end="01:49:33:02" style="basic" tts:origin="44.42% 76.20%" tts:extent="11.14% 4.34%"><span tts:fontStyle="italic">Đang quét.</span></p>
+            <p begin="01:49:33:06" end="01:49:35:16" style="basic" tts:origin="35% 71.20%" tts:extent="29.94% 9.35%">Có vẻ như lời nhắn của Mako<br />dẫn đến ngõ cụt.</p>
+            <p begin="01:49:36:20" end="01:49:38:13" style="basic" tts:origin="37.86% 76.20%" tts:extent="24.27% 4.34%">Nơi này đã bị bỏ hoang.</p>
+            <p begin="01:49:38:17" end="01:49:39:20" style="basic" tts:origin="41.09% 76.20%" tts:extent="17.80% 4.34%">Không, khoan đã.</p>
+            <p begin="01:49:42:03" end="01:49:44:04" style="basic" tts:origin="30.57% 76.20%" tts:extent="38.79% 4.34%">Tôi đang nhận được các tín hiệu kỳ lạ.</p>
+            <p begin="01:49:44:15" end="01:49:45:17" style="basic" tts:origin="42.65% 76.20%" tts:extent="14.68% 4.34%">Có nguy hiểm!</p>
+            <p begin="01:50:01:18" end="01:50:02:23" style="basic" tts:origin="40.88% 76.20%" tts:extent="18.22% 4.34%">Chặt đứt chân nó!</p>
+            <p begin="01:50:40:16" end="01:50:41:18" style="basic" tts:origin="63.43% 76.20%" tts:extent="26.56% 4.34%">Chúng ta phải ra khỏi đây!</p>
+            <p begin="01:51:17:13" end="01:51:18:09" style="basic" tts:origin="43.02% 76.20%" tts:extent="13.90% 4.34%">Pháo plasma!</p>
+            <p begin="01:51:26:06" end="01:51:27:11" style="basic" tts:origin="32.54% 76.20%" tts:extent="34.89% 4.34%">Tôi nghĩ chúng ta đã chọc điên nó.</p>
+            <p begin="01:51:27:22" end="01:51:29:03" style="basic" tts:origin="48.02% 76.20%" tts:extent="3.90% 4.34%">Tốt.</p>
+            <p begin="01:51:35:05" end="01:51:36:17" style="basic" tts:origin="30.15% 76.20%" tts:extent="39.68% 4.34%">Còn nhớ chiêu cũ của chúng ta không?</p>
+            <p begin="01:51:36:21" end="01:51:37:23" style="basic" tts:origin="45.20% 76.20%" tts:extent="9.58% 4.34%">Nhớ chứ.</p>
+            <p begin="01:51:50:18" end="01:51:51:20" style="basic" tts:origin="39.89% 76.20%" tts:extent="20.20% 4.34%">Trông nó có vẻ đau!</p>
+            <p begin="01:51:52:00" end="01:51:53:08" style="basic" tts:origin="10% 76.20%" tts:extent="37.13% 4.34%">Tấn công vào lõi năng lượng của nó!</p>
+            <p begin="01:52:09:08" end="01:52:10:08" style="basic" tts:origin="44.73% 76.20%" tts:extent="10.52% 4.34%"><span tts:fontStyle="italic">Cảnh báo.</span></p>
+            <p begin="01:52:14:02" end="01:52:14:21" style="basic" tts:origin="49.73% 76.20%" tts:extent="10.52% 4.34%"><span tts:fontStyle="italic">Cảnh báo.</span></p>
+            <p begin="01:52:42:16" end="01:52:44:16" style="basic" tts:origin="35.61% 76.20%" tts:extent="28.69% 4.34%"><span tts:fontStyle="italic">Các phi công Obsidian Fury,</span></p>
+            <p begin="01:52:45:00" end="01:52:46:08" style="basic" tts:origin="35.20% 76.20%" tts:extent="29.58% 4.34%">hãy ra khỏi buồng Conn-Pod.</p>
+            <p begin="01:52:58:09" end="01:52:59:15" style="basic" tts:origin="42.03% 76.20%" tts:extent="15.93% 4.34%">Cái quái gì thế?</p>
+            <p begin="01:53:07:07" end="01:53:09:07" style="basic" tts:origin="41.56% 76.20%" tts:extent="16.82% 4.34%">Rõ ràng là Kaiju.</p>
+            <p begin="01:53:09:14" end="01:53:11:15" style="basic" tts:origin="30.41% 71.20%" tts:extent="39.15% 9.35%">Một bộ não thứ hai<br />được sử dụng để điều khiển bốn chân.</p>
+            <p begin="01:53:11:19" end="01:53:12:20" style="basic" tts:origin="38.75% 71.20%" tts:extent="22.50% 9.35%">Sao chúng vào được<br />thế giới của chúng ta?</p>
+            <p begin="01:53:13:00" end="01:53:14:15" style="basic" tts:origin="36.09% 71.20%" tts:extent="27.81% 9.35%">Mười năm rồi chưa từng có<br />vụ xâm nhập nào.</p>
+            <p begin="01:53:14:19" end="01:53:16:07" style="basic" tts:origin="29.37% 76.20%" tts:extent="41.19% 4.34%">Các cảm biến không nhận được tín hiệu.</p>
+            <p begin="01:53:16:17" end="01:53:18:10" style="basic" tts:origin="10.10% 76.20%" tts:extent="31.71% 4.34%">Tôi không nghĩ là có xâm nhập.</p>
+            <p begin="01:53:18:14" end="01:53:22:08" style="basic" tts:origin="25.31% 71.20%" tts:extent="29.32% 9.35%">Da thịt của Kaiju<br />có dấu phóng xạ rất đặc biệt.</p>
+            <p begin="01:53:22:12" end="01:53:24:00" style="basic" tts:origin="33.85% 76.20%" tts:extent="32.22% 4.34%">Đặc trưng của vũ trụ Anteverse.</p>
+            <p begin="01:53:24:04" end="01:53:26:14" style="basic" tts:origin="38.47% 76.20%" tts:extent="23.02% 4.34%">Mẫu vật này thì không.</p>
+            <p begin="01:53:27:05" end="01:53:30:06" style="basic" tts:origin="35.31% 71.20%" tts:extent="29.32% 9.35%">Được rồi, vậy anh nói<br />thứ này đến từ vũ trụ của ta?</p>
+            <p begin="01:53:30:10" end="01:53:34:09" style="basic" tts:origin="32.22% 71.20%" tts:extent="35.52% 9.35%">Dấu di truyền cho thấy các kỹ thuật<br />chỉnh sửa đặc trưng của Trái đất,</p>
+            <p begin="01:53:34:13" end="01:53:37:18" style="basic" tts:origin="33.17% 71.20%" tts:extent="33.59% 9.35%">có lẽ được chỉnh sửa từ thịt Kaiju<br />bỏ lại sau cuộc chiến.</p>
+            <p begin="01:53:37:22" end="01:53:40:03" style="basic" tts:origin="30.15% 76.20%" tts:extent="39.68% 4.34%">Bọn Precursors không làm chuyện này.</p>
+            <p begin="01:53:42:04" end="01:53:43:12" style="basic" tts:origin="42.91% 76.20%" tts:extent="14.16% 4.34%">Là con người.</p>
+            <p begin="01:53:48:05" end="01:53:52:06" style="basic" tts:origin="35.15% 71.20%" tts:extent="29.68% 9.35%">Ôi lạy Chúa. Cục thịt nhão đó<br />đã lái Obsidian Fury sao?</p>
+            <p begin="01:53:52:15" end="01:53:54:22" style="basic" tts:origin="34.58% 72.22%" tts:extent="30.83% 9.35%">-Chúng ta phải nhìn bên trong.<br />-Bên trong à?</p>
+            <p begin="01:53:55:05" end="01:53:56:14" style="basic" tts:origin="35.36% 77.22%" tts:extent="29.21% 4.34%">Thứ đó có một phần là Kaiju.</p>
+            <p begin="01:53:57:11" end="01:53:58:17" style="basic" tts:origin="41.51% 76.20%" tts:extent="16.92% 4.34%">Coi nào các cậu.</p>
+            <p begin="01:53:58:21" end="01:54:01:07" style="basic" tts:origin="31.97% 72.22%" tts:extent="36.04% 9.35%">Khi nào chúng ta lại có cơ hội<br />được nhìn thấy thứ gì như thế này?</p>
+            <p begin="01:54:01:11" end="01:54:03:11" style="basic" tts:origin="37.86% 72.22%" tts:extent="24.27% 9.35%">Không bao giờ.<br />Không bao giờ là tốt rồi.</p>
+            <p begin="01:54:03:15" end="01:54:06:04" style="basic" tts:origin="38.85% 72.22%" tts:extent="22.23% 9.35%">Các cậu có thể ở đây.<br />Tôi đi.</p>
+            <p begin="01:54:06:08" end="01:54:08:08" style="basic" tts:origin="42.39% 77.22%" tts:extent="15.15% 4.34%">Không. Amara!</p>
+            <p begin="01:54:09:06" end="01:54:12:10" style="basic" tts:origin="31.66% 76.20%" tts:extent="36.61% 4.34%">Các cậu, chúng ta không nên ở đây.</p>
+            <p begin="01:54:19:11" end="01:54:21:18" style="basic" tts:origin="36.77% 76.20%" tts:extent="26.40% 4.34%">Nó liên kết khắp hệ thống.</p>
+            <p begin="01:54:22:17" end="01:54:25:17" style="basic" tts:origin="40.57% 76.20%" tts:extent="18.80% 4.34%">Như… mô cơ bắp.</p>
+            <p begin="01:54:28:06" end="01:54:31:13" style="basic" tts:origin="35.52% 71.20%" tts:extent="28.95% 9.35%">Chính vì thế mà nó có thể<br />di chuyển như vậy. Hay thật.</p>
+            <p begin="01:54:31:17" end="01:54:33:14" style="basic" tts:origin="42.39% 76.20%" tts:extent="15.15% 4.34%">Đúng vậy, hay.</p>
+            <p begin="01:54:34:18" end="01:54:37:00" style="basic" tts:origin="35.10% 71.20%" tts:extent="29.73% 9.35%">Làm việc với ngực<br />càng lúc nghe càng thuận tai.</p>
+            <p begin="01:54:37:18" end="01:54:38:19" style="basic" tts:origin="37.90% 76.20%" tts:extent="24.16% 4.34%">Chiếu đèn qua bên này.</p>
+            <p begin="01:54:47:16" end="01:54:49:00" style="basic" tts:origin="44.47% 76.20%" tts:extent="10.98% 4.34%">Cái gì thế?</p>
+            <p begin="01:54:49:07" end="01:54:50:20" style="basic" tts:origin="42.08% 76.20%" tts:extent="15.78% 4.34%">Tớ nghĩ nó là…</p>
+            <p begin="01:54:51:11" end="01:54:52:11" style="basic" tts:origin="45.67% 76.20%" tts:extent="8.59% 4.34%">Kim Hải!</p>
+            <p begin="01:54:52:15" end="01:54:55:07" style="basic" tts:origin="37.08% 72.22%" tts:extent="25.78% 9.35%">-Đã bảo đừng có giật mà!<br />-Gọi người giúp! Mau!</p>
+            <p begin="01:54:55:11" end="01:54:57:14" style="basic" tts:origin="41.30% 76.20%" tts:extent="17.34% 4.34%">Chúng ta tiêu rồi!</p>
+            <p begin="01:54:58:14" end="01:55:01:03" style="basic" tts:origin="33.22% 71.20%" tts:extent="33.47% 9.35%">-Hình phạt này quá nghiêm khắc.<br />-Quyết định đã được đưa ra.</p>
+            <p begin="01:55:01:07" end="01:55:03:16" style="basic" tts:origin="31.19% 71.20%" tts:extent="37.54% 9.35%">Bộ phận An ninh sẽ tiếp quản từ đây.<br />Chúng ta đã xong.</p>
+            <p begin="01:55:10:14" end="01:55:12:01" style="basic" tts:origin="41.51% 76.20%" tts:extent="16.92% 4.34%">Kim Hải ổn chứ?</p>
+            <p begin="01:55:12:05" end="01:55:14:02" style="basic" tts:origin="28.43% 76.20%" tts:extent="43.12% 4.34%">Cậu ấy có vài vết sẹo, nhưng sẽ sống thôi.</p>
+            <p begin="01:55:14:06" end="01:55:15:14" style="basic" tts:origin="32.08% 76.20%" tts:extent="35.78% 4.34%">Nguyên soái đã cho cậu ấy án treo.</p>
+            <p begin="01:55:16:03" end="01:55:18:13" style="basic" tts:origin="32.81% 71.20%" tts:extent="34.36% 9.35%">Cả Meilin và Suresh.<br />Họ đã làm sai, toàn bộ đều bị loại.</p>
+            <p begin="01:55:18:17" end="01:55:21:03" style="basic" tts:origin="32.22% 71.20%" tts:extent="35.52% 9.35%">Không, đó không phải là lỗi của họ.<br />Em sẽ đi nói chuyện.</p>
+            <p begin="01:55:21:07" end="01:55:22:20" style="basic" tts:origin="32.03% 71.20%" tts:extent="35.88% 9.35%">Xin lỗi.<br />Anh đã cố thuyết phục Nguyên soái</p>
+            <p begin="01:55:23:06" end="01:55:25:00" style="basic" tts:origin="38.59% 71.20%" tts:extent="22.76% 9.35%">nhưng em cũng đã bị<br />loại khỏi chương trình.</p>
+            <p begin="01:55:26:13" end="01:55:28:13" style="basic" tts:origin="36.04% 71.20%" tts:extent="27.91% 9.35%">Dù sao cũng chẳng bao giờ<br />thuộc về nơi này.</p>
+            <p begin="01:55:28:21" end="01:55:29:17" style="basic" tts:origin="44.94% 76.20%" tts:extent="10.10% 4.34%">Thật sao?</p>
+            <p begin="01:55:31:09" end="01:55:34:16" style="basic" tts:origin="37.50% 71.20%" tts:extent="25% 9.35%">Anh từng nói như thế<br />rất nhiều năm trước đây.</p>
+            <p begin="01:55:35:10" end="01:55:38:20" style="basic" tts:origin="37.96% 71.20%" tts:extent="24.01% 9.35%">Nhưng sự thật là<br />anh không muốn ở đây.</p>
+            <p begin="01:55:39:00" end="01:55:40:08" style="basic" tts:origin="43.54% 76.20%" tts:extent="12.86% 4.34%">Giờ vẫn vậy.</p>
+            <p begin="01:55:40:13" end="01:55:42:02" style="basic" tts:origin="38.59% 76.20%" tts:extent="22.76% 4.34%">Sao anh lại nhập ngũ?</p>
+            <p begin="01:55:43:09" end="01:55:47:19" style="basic" tts:origin="31.35% 72.22%" tts:extent="37.29% 9.35%">Lúc đó đang chiến tranh.<br />Bố anh là người chỉ huy, và anh nghĩ</p>
+            <p begin="01:55:48:00" end="01:55:49:10" style="basic" tts:origin="36.14% 72.22%" tts:extent="27.65% 9.35%">có lẽ anh có thể<br />quan sát ông ấy nhiều hơn.</p>
+            <p begin="01:55:50:08" end="01:55:52:07" style="basic" tts:origin="35.78% 71.20%" tts:extent="28.43% 9.35%">Biết đâu còn được<br />kết nối thần kinh với ông ấy.</p>
+            <p begin="01:55:53:02" end="01:55:55:07" style="basic" tts:origin="38.90% 72.22%" tts:extent="22.13% 9.35%">Rồi một đêm,<br />anh và Nate cãi nhau.</p>
+            <p begin="01:55:55:11" end="01:55:58:07" style="basic" tts:origin="35.97% 72.22%" tts:extent="28.02% 9.35%">Vì một chuyện ngu ngốc.<br />Anh còn không nhớ ra là gì.</p>
+            <p begin="01:55:58:11" end="01:56:01:05" style="basic" tts:origin="30.52% 77.22%" tts:extent="38.95% 4.34%">Thế là anh leo vào một con Mark IV cũ</p>
+            <p begin="01:56:01:09" end="01:56:04:00" style="basic" tts:origin="30.88% 72.22%" tts:extent="38.17% 9.35%">chỉ để cho cậu ấy thấy anh không cần<br />cậu ấy để trở thành phi công vĩ đại.</p>
+            <p begin="01:56:04:04" end="01:56:06:19" style="basic" tts:origin="42.03% 72.22%" tts:extent="15.93% 9.35%">-Thật ngu ngốc.<br />-Đúng vậy.</p>
+            <p begin="01:56:07:06" end="01:56:08:07" style="basic" tts:origin="37.54% 76.20%" tts:extent="24.89% 4.34%">Anh bước được bao xa?</p>
+            <p begin="01:56:08:13" end="01:56:10:10" style="basic" tts:origin="36.82% 76.20%" tts:extent="26.35% 4.34%">Khoảng bảy bước. Cỡ đó.</p>
+            <p begin="01:56:10:14" end="01:56:11:13" style="basic" tts:origin="37.54% 76.20%" tts:extent="24.89% 4.34%">Anh bước được bao xa?</p>
+            <p begin="01:56:11:17" end="01:56:14:15" style="basic" tts:origin="30.83% 71.20%" tts:extent="38.33% 9.35%">Khoảng hai bước,<br />và anh ngất xỉu vì sức căng thần kinh.</p>
+            <p begin="01:56:14:19" end="01:56:17:11" style="basic" tts:origin="37.08% 72.22%" tts:extent="25.78% 9.35%">Và điều đầu tiên anh thấy<br />khi tỉnh dậy là bố anh</p>
+            <p begin="01:56:17:15" end="01:56:19:20" style="basic" tts:origin="36.71% 72.22%" tts:extent="26.51% 9.35%">đứng ngay trước mặt anh,<br />vẻ mặt nghiêm nghị.</p>
+            <p begin="01:56:20:01" end="01:56:21:16" style="basic" tts:origin="40.98% 77.22%" tts:extent="17.96% 4.34%">Ông ấy đã nói gì?</p>
+            <p begin="01:56:22:02" end="01:56:23:19" style="basic" tts:origin="33.64% 72.22%" tts:extent="32.70% 9.35%">Ông ấy nói<br />anh đã bị loại khỏi chương trình.</p>
+            <p begin="01:56:23:23" end="01:56:27:13" style="basic" tts:origin="31.35% 72.22%" tts:extent="37.29% 9.35%">Ông ấy nói anh không xứng đáng<br />lái Jaeger. Ông ấy nói nhiều thứ lắm.</p>
+            <p begin="01:56:30:07" end="01:56:32:11" style="basic" tts:origin="36.77% 76.20%" tts:extent="26.40% 4.34%">Một năm sau, bố anh mất.</p>
+            <p begin="01:56:33:21" end="01:56:35:10" style="basic" tts:origin="36.56% 71.20%" tts:extent="26.82% 9.35%">Và anh không có cơ hội<br />để chứng minh ông ấy sai.</p>
+            <p begin="01:56:35:14" end="01:56:38:16" style="basic" tts:origin="31.04% 71.20%" tts:extent="37.86% 9.35%">Quan trọng hơn, anh không có cơ hội<br />để chứng minh điều đó với bản thân.</p>
+            <p begin="01:56:40:00" end="01:56:41:12" style="basic" tts:origin="38.90% 76.20%" tts:extent="22.13% 4.34%">Em nghe anh nói đây.</p>
+            <p begin="01:56:42:09" end="01:56:45:10" style="basic" tts:origin="32.76% 72.22%" tts:extent="34.47% 9.35%">Đừng để suy nghĩ của người khác<br />định hình con người em.</p>
+            <p begin="01:56:45:19" end="01:56:49:14" style="basic" tts:origin="32.50% 72.22%" tts:extent="35% 9.35%">Em sẽ không thích chuyện đó đâu.<br />Em hiểu chứ?</p>
+            <p begin="01:56:54:02" end="01:56:55:12" style="basic" tts:origin="38.28% 76.20%" tts:extent="23.38% 4.34%">Và hãy ngẩng cao đầu.</p>
+            <p begin="01:56:56:12" end="01:56:59:00" style="basic" tts:origin="33.75% 71.20%" tts:extent="32.50% 9.35%">Và có lẽ em sẽ đẹp trai như anh<br />trong những tình huống thế này.</p>
+            <p begin="01:56:59:16" end="01:57:00:14" style="basic" tts:origin="45.26% 76.20%" tts:extent="9.47% 4.34%">Thật đấy.</p>
+            <p begin="01:57:00:22" end="01:57:05:12" style="basic" tts:origin="30.05% 71.20%" tts:extent="39.89% 9.35%">Gương mặt này đã được chăm chút kỹ.<br />Đẹp là gánh nặng.</p>
+            <p begin="01:57:08:17" end="01:57:10:11" style="basic" tts:origin="42.70% 76.20%" tts:extent="14.53% 4.34%">Em sẽ ổn thôi.</p>
+            <p begin="01:57:14:08" end="01:57:15:12" style="basic" tts:origin="36.65% 76.20%" tts:extent="26.66% 4.34%">Tập đoàn Shao Industries.</p>
+            <p begin="01:57:17:17" end="01:57:18:13" style="basic" tts:origin="46.35% 76.20%" tts:extent="7.23% 4.34%">Cái gì?</p>
+            <p begin="01:57:19:15" end="01:57:22:23" style="basic" tts:origin="34.11% 71.20%" tts:extent="31.71% 9.35%">Công nghệ trong Obsidian Fury<br />thuộc về Tập đoàn Shao.</p>
+            <p begin="01:57:23:03" end="01:57:24:11" style="basic" tts:origin="44.73% 76.20%" tts:extent="10.52% 4.34%">Thật vô lý.</p>
+            <p begin="01:57:24:15" end="01:57:26:16" style="basic" tts:origin="52.86% 71.20%" tts:extent="30.15% 9.35%">Jules và đội của cô ấy<br />đã quét từng li con Jaeger đó.</p>
+            <p begin="01:57:26:20" end="01:57:28:14" style="basic" tts:origin="57.39% 71.20%" tts:extent="32.60% 9.35%">Cô lập vết thương vật chất meta<br />ngược chiều kim đồng hồ</p>
+            <p begin="01:57:28:17" end="01:57:31:09" style="basic" tts:origin="54.37% 76.20%" tts:extent="35.61% 4.34%">trong sơ đồ nối dây chuyển hướng.</p>
+            <p begin="01:57:32:03" end="01:57:34:09" style="basic" tts:origin="60.46% 71.20%" tts:extent="25.05% 9.35%">Shao là công ty duy nhất<br />nối dây theo cách đó.</p>
+            <p begin="01:57:35:08" end="01:57:37:19" style="basic" tts:origin="56.87% 71.20%" tts:extent="32.22% 9.35%">Amara, em có chắc<br />những gì mình đang nói không?</p>
+            <p begin="01:57:38:18" end="01:57:42:08" style="basic" tts:origin="61.09% 71.20%" tts:extent="23.75% 9.35%">Có. Em đã chôm cả tấn<br />để tạo ra Scrapper mà.</p>
+            <p begin="01:57:45:09" end="01:57:46:20" style="basic" tts:origin="59.58% 76.20%" tts:extent="26.82% 4.34%">Em nghĩ nó sẽ quan trọng.</p>
+            <p begin="01:57:48:06" end="01:57:51:07" style="basic" tts:origin="42.08% 76.20%" tts:extent="15.83% 4.34%">Ừ. Cảm ơn em.</p>
+            <p begin="01:57:51:20" end="01:57:55:05" style="basic" tts:origin="32.13% 71.20%" tts:extent="35.67% 9.35%">Tập đoàn Shao ư?<br />Họ còn không có bộ phận sinh học.</p>
+            <p begin="01:57:55:12" end="01:57:56:23" style="basic" tts:origin="35.31% 76.20%" tts:extent="29.32% 4.34%">Phải, theo sổ sách thì không.</p>
+            <p begin="01:57:57:03" end="01:57:59:08" style="basic" tts:origin="32.96% 71.20%" tts:extent="34.01% 9.35%">Sơ đồ nối dây có thể bị đánh cắp,<br />như Jaeger của Amara.</p>
+            <p begin="01:57:59:12" end="01:58:01:20" style="basic" tts:origin="30.98% 71.20%" tts:extent="38.02% 9.35%">Chúng ta sẽ cần nhiều manh mối hơn<br />để liên kết Fury với Shao.</p>
+            <p begin="01:58:02:00" end="01:58:03:00" style="basic" tts:origin="40.61% 76.20%" tts:extent="18.69% 4.34%">Còn Newt thì sao?</p>
+            <p begin="01:58:03:04" end="01:58:05:20" style="basic" tts:origin="28.38% 72.22%" tts:extent="43.22% 9.35%">Anh ta có thể tiếp cận<br />các ghi chép nội bộ, bảng kê chuyển hàng.</p>
+            <p begin="01:58:06:00" end="01:58:08:20" style="basic" tts:origin="36.97% 71.20%" tts:extent="26.04% 9.35%">Được rồi, đến gặp anh ta.<br />Tránh gây chú ý.</p>
+            <p begin="02:08:31:12" end="02:08:32:11" style="basic" tts:origin="45.52% 76.20%" tts:extent="8.94% 4.34%">Hay lắm!</p>
+            <p begin="02:08:58:12" end="02:09:00:14" style="basic" tts:origin="44.94% 76.20%" tts:extent="10.05% 4.34%">VẾT NỨT</p>
+            <p begin="02:09:00:18" end="02:09:02:10" style="basic" tts:origin="31.04% 76.20%" tts:extent="37.90% 4.34%">Liwen đã vô hiệu hóa các người máy.</p>
+            <p begin="02:09:02:14" end="02:09:06:10" style="basic" tts:origin="33.17% 71.20%" tts:extent="33.64% 9.35%">Các vết nứt đã đóng lại.<br />Tôi nhắc lại, các vết nứt đã đóng.</p>
+            <p begin="02:09:10:00" end="02:09:11:05" style="basic" tts:origin="45.10% 76.20%" tts:extent="9.73% 4.34%">Ôi không.</p>
+            <p begin="02:09:11:09" end="02:09:12:16" style="basic" tts:origin="40.98% 77.22%" tts:extent="17.96% 4.34%">“Ôi không” cái gì?</p>
+            <p begin="02:09:13:04" end="02:09:14:22" style="basic" tts:origin="40.10% 77.22%" tts:extent="19.73% 4.34%">Ba Kaiju đã lọt qua.</p>
+            <p begin="02:09:15:06" end="02:09:18:11" style="basic" tts:origin="34.94% 71.20%" tts:extent="30.05% 9.35%">Hàn Quốc, bờ biển nước Nga<br />và biển Hoa Đông.</p>
+            <p begin="02:09:19:06" end="02:09:21:05" style="basic" tts:origin="33.11% 77.22%" tts:extent="33.75% 4.34%">Hai con Loại 4 và một con Loại 5.</p>
+            <p begin="02:09:21:09" end="02:09:22:09" style="basic" tts:origin="48.22% 77.22%" tts:extent="3.54% 4.34%"><span tts:fontStyle="italic">Rõ.</span></p>
+            <p begin="02:09:22:20" end="02:09:24:02" style="basic" tts:origin="42.55% 76.20%" tts:extent="14.89% 4.34%">Trở về căn cứ.</p>
+            <p begin="02:09:24:06" end="02:09:26:14" style="basic" tts:origin="34.36% 76.20%" tts:extent="31.25% 4.34%"><span tts:fontStyle="italic">Chúng ta sẽ cần mọi sự hỗ trợ.</span></p>
+            <p begin="02:09:30:07" end="02:09:32:04" style="basic" tts:origin="37.22% 71.20%" tts:extent="25.52% 9.35%">-Các em không sao chứ?<br />-Vâng.</p>
+            <p begin="02:09:40:07" end="02:09:41:08" style="basic" tts:origin="37.08% 76.20%" tts:extent="25.78% 4.34%">Được rồi, chúng ta có gì?</p>
+            <p begin="02:09:41:12" end="02:09:42:11" style="basic" tts:origin="36.77% 76.20%" tts:extent="26.40% 4.34%">Báo cáo đang tiếp tục đến</p>
+            <p begin="02:09:42:15" end="02:09:44:18" style="basic" tts:origin="31.87% 71.20%" tts:extent="36.25% 9.35%">nhưng người máy đã hạ các Jaeger<br />và các Shatterdome khắp Vành đai.</p>
+            <p begin="02:09:44:22" end="02:09:46:00" style="basic" tts:origin="30.88% 71.20%" tts:extent="38.17% 9.35%">Được rồi.<br />Chúng ta có bao nhiêu Jaeger ở đây?</p>
+            <p begin="02:09:46:04" end="02:09:47:21" style="basic" tts:origin="38.02% 71.20%" tts:extent="23.90% 9.35%">Còn hoạt động được?<br />Chỉ còn Gipsy Avenger.</p>
+            <p begin="02:09:48:01" end="02:09:49:00" style="basic" tts:origin="43.85% 71.20%" tts:extent="12.29% 9.35%">-Chỉ có thế?<br />-Phải.</p>
+            <p begin="02:09:49:04" end="02:09:52:01" style="basic" tts:origin="31.45% 72.22%" tts:extent="37.03% 9.35%">Ta cần thêm Jaeger hoạt động được<br />không thì trận chiến này sẽ rất ngắn.</p>
+            <p begin="02:09:52:05" end="02:09:54:17" style="basic" tts:origin="34.58% 72.22%" tts:extent="30.83% 9.35%">Dù có Jaeger, thì mọi phi công<br />đã chết hoặc bị thương nặng.</p>
+            <p begin="02:09:54:21" end="02:09:57:13" style="basic" tts:origin="35.20% 71.20%" tts:extent="29.58% 9.35%">Xử lý từng vấn đề.<br />Tập trung vào các Jaeger đã.</p>
+            <p begin="02:10:00:05" end="02:10:02:00" style="basic" tts:origin="43.54% 76.20%" tts:extent="12.91% 4.34%">Tí nị, lại đây.</p>
+            <p begin="02:10:06:08" end="02:10:08:08" style="basic" tts:origin="57.23% 72.22%" tts:extent="32.76% 9.35%">An cần em giúp Jules sửa chữa.<br />Em làm được chứ?</p>
+            <p begin="02:10:09:02" end="02:10:10:02" style="basic" tts:origin="35.78% 76.20%" tts:extent="28.43% 4.34%">Em tưởng mình đã bị sút ra.</p>
+            <p begin="02:10:10:13" end="02:10:12:02" style="basic" tts:origin="38.22% 76.20%" tts:extent="23.48% 4.34%">Giờ anh lại sét em vào.</p>
+            <p begin="02:10:12:19" end="02:10:14:10" style="basic" tts:origin="36.25% 72.22%" tts:extent="27.44% 9.35%">Cô bé khá giỏi việc<br />biến phế liệu thành Jaeger.</p>
+            <p begin="02:15:57:03" end="02:15:58:05" style="basic" tts:origin="43.07% 76.20%" tts:extent="13.80% 4.34%">Làm thôi nào.</p>
+            <p begin="02:16:02:19" end="02:16:03:19" style="basic" tts:origin="41.56% 76.20%" tts:extent="16.82% 4.34%"><span tts:fontStyle="italic">Hệ thống đã bật.</span></p>
+            <p begin="02:16:03:23" end="02:16:05:12" style="basic" tts:origin="33.69% 76.20%" tts:extent="32.60% 4.34%">Đang khởi tạo liên kết thần kinh.</p>
+            <p begin="02:16:05:21" end="02:16:07:23" style="basic" tts:origin="33.79% 76.20%" tts:extent="32.34% 4.34%"><span tts:fontStyle="italic">Đang thiết lập liên kết thần kinh.</span></p>
+            <p begin="02:16:08:03" end="02:16:09:17" style="basic" tts:origin="39.89% 76.20%" tts:extent="20.20% 4.34%"><span tts:fontStyle="italic">Amara, nhảy vào đi!</span></p>
+            <p begin="02:16:12:06" end="02:16:14:13" style="basic" tts:origin="32.03% 76.20%" tts:extent="35.88% 4.34%">Liên kết thần kinh mạnh và ổn định.</p>
+            <p begin="02:16:15:18" end="02:16:17:20" style="basic" tts:origin="29.37% 76.20%" tts:extent="41.19% 4.34%">Cảm giác vào trong Jaeger thật thế nào?</p>
+            <p begin="02:16:19:20" end="02:16:21:00" style="basic" tts:origin="38.54% 76.20%" tts:extent="22.86% 4.34%">To hơn cũng không tệ.</p>
+            <p begin="02:16:21:04" end="02:16:22:08" style="basic" tts:origin="34.36% 76.20%" tts:extent="31.19% 4.34%">Được rồi, các Jaeger lên tiếng.</p>
+            <p begin="02:16:22:12" end="02:16:24:07" style="basic" tts:origin="36.61% 76.20%" tts:extent="26.71% 4.34%"><span tts:fontStyle="italic">Đã sẵn sàng phóng chưa?</span></p>
+            <p begin="02:16:24:11" end="02:16:26:08" style="basic" tts:origin="36.45% 76.20%" tts:extent="27.03% 4.34%">Guardian Bravo, sẵn sàng.</p>
+            <p begin="02:16:26:12" end="02:16:27:22" style="basic" tts:origin="37.44% 76.20%" tts:extent="25.05% 4.34%">Saber Athena, sẵn sàng.</p>
+            <p begin="02:16:28:02" end="02:16:30:13" style="basic" tts:origin="32.29% 77.22%" tts:extent="35.40% 4.34%">Bracer Phoenix, cho bọn em lên đi.</p>
+            <p begin="02:16:30:17" end="02:16:31:23" style="basic" tts:origin="46.87% 76.20%" tts:extent="6.19% 4.34%">Đã rõ.</p>
+            <p begin="02:16:33:01" end="02:16:36:03" style="basic" tts:origin="35.52% 77.22%" tts:extent="28.95% 4.34%">Chỉ huy, đã sẵn sàng phóng.</p>
+            <p begin="02:16:36:08" end="02:16:37:14" style="basic" tts:origin="40.10% 76.20%" tts:extent="19.73% 4.34%">Rõ, Gipsy Avenger.</p>
+            <p begin="02:16:38:06" end="02:16:40:14" style="basic" tts:origin="38.75% 76.20%" tts:extent="22.50% 4.34%">Kích hoạt sau 10 giây.</p>
+            <p begin="02:16:40:18" end="02:16:42:00" style="basic" tts:origin="48.22% 76.20%" tts:extent="3.54% 4.34%">9…</p>
+            <p begin="02:16:42:04" end="02:16:43:17" style="basic" tts:origin="48.22% 76.20%" tts:extent="3.54% 4.34%"><span tts:fontStyle="italic">8…</span></p>
+            <p begin="02:16:43:21" end="02:16:46:02" style="basic" tts:origin="46.92% 76.20%" tts:extent="6.09% 4.34%"><span tts:fontStyle="italic">7, 6…</span></p>
+            <p begin="02:16:46:06" end="02:16:49:01" style="basic" tts:origin="46.92% 76.20%" tts:extent="6.09% 4.34%"><span tts:fontStyle="italic">5, 4…</span></p>
+            <p begin="02:16:49:05" end="02:16:51:05" style="basic" tts:origin="46.92% 76.20%" tts:extent="6.09% 4.34%"><span tts:fontStyle="italic">3, 2…</span></p>
+            <p begin="02:16:51:09" end="02:16:52:16" style="basic" tts:origin="49.01% 76.20%" tts:extent="1.92% 4.34%"><span tts:fontStyle="italic">1.</span></p>
+            <p begin="02:16:52:20" end="02:16:54:04" style="basic" tts:origin="44.84% 76.20%" tts:extent="10.26% 4.34%">Kích hoạt!</p>
+            <p begin="02:17:19:03" end="02:17:20:03" style="basic" tts:origin="44.73% 76.20%" tts:extent="10.52% 4.34%"><span tts:fontStyle="italic">Cảnh báo.</span></p>
+            <p begin="02:17:20:07" end="02:17:22:14" style="basic" tts:origin="36.25% 76.20%" tts:extent="27.44% 4.34%"><span tts:fontStyle="italic">Vượt quá giới hạn cấu trúc.</span></p>
+            <p begin="02:17:37:08" end="02:17:38:16" style="basic" tts:origin="41.82% 76.20%" tts:extent="16.30% 4.34%">Cái quái gì vậy?</p>
+            <p begin="02:17:38:20" end="02:17:41:00" style="basic" tts:origin="33.02% 76.20%" tts:extent="33.95% 4.34%">Bà tớ thường hát nó cho tớ nghe.</p>
+            <p begin="02:17:41:04" end="02:17:42:05" style="basic" tts:origin="40.61% 76.20%" tts:extent="18.69% 4.34%">Khiến tớ bình tĩnh.</p>
+            <p begin="02:17:42:09" end="02:17:45:09" style="basic" tts:origin="28.80% 76.20%" tts:extent="42.34% 4.34%">Còn tớ thì sao? Không bình tĩnh chút nào.</p>
+        </div>
+    </body>
+</tt>

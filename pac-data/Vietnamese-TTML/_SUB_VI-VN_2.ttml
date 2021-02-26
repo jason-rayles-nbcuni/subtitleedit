@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="vi" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1/text" xmlns:ebutts="urn:ebu:tt:style" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" ttp:timeBase="media" ttp:frameRate="24" ttp:frameRateMultiplier="1000 1001" tts:extent="1920px 1080px" ittp:aspectRatio="16 9">
+    <head>
+        <metadata>
+            <ttm:title>foo</ttm:title>
+            <ttm:desc>foo</ttm:desc>
+        </metadata>
+        <styling>
+            <style xml:id="basic" tts:color="white" tts:fontFamily="Arial" tts:fontSize="95.4%" tts:fontWeight="normal" tts:fontStyle="normal" tts:lineHeight="100%" />
+        </styling>
+        <layout>
+            <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+            <region xml:id="bottom" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p begin="01:31:42:04" end="01:31:43:04" style="basic" tts:origin="43.28% 83.61%" tts:extent="13.38% 5.64%">Chúa ơi…</p>
+            <p begin="01:31:46:15" end="01:31:47:14" style="basic" tts:origin="31.87% 77.12%" tts:extent="36.19% 12.12%">- Tình hình đi chơi thế nào?<br />- Mẹ…</p>
+            <p begin="01:31:47:17" end="01:31:48:18" style="basic" tts:origin="33.38% 77.12%" tts:extent="33.22% 12.12%">giờ bọn con không<br />nói chuyện được đâu ạ…</p>
+            <p begin="01:31:51:01" end="01:31:53:15" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%">Mừng Lễ Tạ ơn con gái.</p>
+            <p begin="01:31:54:13" end="01:31:56:07" style="basic" tts:origin="24.06% 83.61%" tts:extent="51.87% 5.64%">Chúng ta nhớ con lắm, Điểu Cô nương.</p>
+            <p begin="01:32:00:13" end="01:32:02:08" style="basic" tts:origin="36.61% 77.12%" tts:extent="26.71% 12.12%">- Tạm biệt.<br />- Tạm biệt Điểu nhé.</p>
+            <p begin="01:32:02:13" end="01:32:03:15" style="basic" tts:origin="36.71% 83.61%" tts:extent="26.56% 5.64%">Tạm biệt chị, Shelly.</p>
+            <p begin="01:32:07:21" end="01:32:09:21" style="basic" tts:origin="26.45% 83.61%" tts:extent="47.03% 5.64%">Sao điếu thuốc của chị trông dị thế?</p>
+            <p begin="01:32:10:09" end="01:32:11:18" style="basic" tts:origin="27.18% 83.61%" tts:extent="45.57% 5.64%">Trông chẳng giống thuốc lá tí nào?</p>
+            <p begin="01:32:13:19" end="01:32:14:23" style="basic" tts:origin="38.95% 83.61%" tts:extent="22.08% 5.64%">Đinh hương đấy.</p>
+            <p begin="01:32:23:10" end="01:32:25:20" style="basic" tts:origin="28.69% 83.61%" tts:extent="42.55% 5.64%">Liếm môi đi. Ngọt là nhờ nó đấy.</p>
+            <p begin="01:32:31:08" end="01:32:32:16" style="basic" tts:origin="30.72% 77.12%" tts:extent="38.47% 12.12%">Mẹ em thực sự buồn<br />khi em không ở nhà tối nay…</p>
+            <p begin="01:32:32:19" end="01:32:34:02" style="basic" tts:origin="35.93% 83.61%" tts:extent="28.12% 5.64%">để đón Lễ Tạ ơn đấy.</p>
+            <p begin="01:32:34:21" end="01:32:38:01" style="basic" tts:origin="33.54% 83.61%" tts:extent="32.90% 5.64%">Vâng, bà ấy ghét em mà.</p>
+            <p begin="01:32:38:20" end="01:32:41:08" style="basic" tts:origin="33.75% 77.12%" tts:extent="32.44% 12.12%">Mẹ của em, bà ấy<br />có một trái tim bao dung.</p>
+            <p begin="01:32:43:18" end="01:32:46:20" style="basic" tts:origin="26.87% 77.12%" tts:extent="46.19% 12.12%">Bà cưu mang chị sau khi<br />cha mẹ chị phát hoảng vì chuyện…</p>
+            <p begin="01:32:47:18" end="01:32:50:13" style="basic" tts:origin="34.89% 83.61%" tts:extent="30.15% 5.64%">quan hệ tiền hôn nhân.</p>
+            <p begin="01:32:53:13" end="01:32:54:14" style="basic" tts:origin="37.22% 83.61%" tts:extent="25.52% 5.64%">Chị ngưỡng mộ bà.</p>
+            <p begin="01:33:11:13" end="01:33:14:04" style="basic" tts:origin="29.68% 77.12%" tts:extent="40.61% 12.12%">Thánh Ignatius nhà Loyola…<br />xin cầu nguyện cho chúng con!</p>
+            <p begin="01:33:14:07" end="01:33:17:11" style="basic" tts:origin="25.57% 77.12%" tts:extent="48.85% 12.12%">Giữa Chúa Jesus trong trái tim<br />chúng ta… cầu nguyện cho chúng ta.</p>
+            <p begin="01:33:20:15" end="01:33:24:01" style="basic" tts:origin="32.29% 77.12%" tts:extent="35.36% 12.12%"><span tts:fontStyle="italic">Uốn theo từng cung đường</span><br /><span tts:fontStyle="italic">Lướt qua vùng đồng quê</span></p>
+            <p begin="01:33:24:04" end="01:33:30:18" style="basic" tts:origin="31.25% 77.12%" tts:extent="37.44% 12.12%"><span tts:fontStyle="italic">Chúng ta cứ thế vui vẻ lăn đi</span><br /><span tts:fontStyle="italic">Đuổi bắt những giấc mơ!</span></p>
+            <p begin="01:33:30:22" end="01:33:32:00" style="basic" tts:origin="32.39% 77.12%" tts:extent="35.20% 12.12%">- Anh thậm chí không hiểu.<br />- Anh không có gì để nói…</p>
+            <p begin="01:33:32:03" end="01:33:33:06" style="basic" tts:origin="31.45% 83.61%" tts:extent="37.03% 5.64%">về chuyện đó, đúng không?!</p>
+            <p begin="01:33:33:09" end="01:33:35:04" style="basic" tts:origin="33.33% 83.61%" tts:extent="33.28% 5.64%">Đừng cãi nhau nữa. Nào!</p>
+            <p begin="01:33:36:18" end="01:33:41:00" style="basic" tts:origin="25.88% 77.12%" tts:extent="48.22% 12.12%"><span tts:fontStyle="italic">Hỡi những người bạn năm xưa</span><br /><span tts:fontStyle="italic">Làm sao để duy trì tình bạn năm xưa</span></p>
+            <p begin="01:33:41:03" end="01:33:45:13" style="basic" tts:origin="28.22% 83.61%" tts:extent="43.48% 5.64%"><span tts:fontStyle="italic">Chuyện bắt đầu như một khúc ca</span></p>
+            <p begin="01:33:48:00" end="01:33:52:12" style="basic" tts:origin="28.28% 83.61%" tts:extent="43.43% 5.64%"><span tts:fontStyle="italic">Tôi và bạn, tôi và bạn, tôi và bạn!</span></p>
+            <p begin="01:33:59:05" end="01:34:02:14" style="basic" tts:origin="30.67% 77.12%" tts:extent="38.64% 12.12%">Cô ấy đây rồi. Trời đất, Jules.<br />Em diễn hay lắm.</p>
+            <p begin="01:34:02:17" end="01:34:04:09" style="basic" tts:origin="31.30% 77.12%" tts:extent="37.34% 12.12%">- Thầy thật không thể tin nổi.<br />- Em cảm ơn thầy.</p>
+            <p begin="01:34:04:12" end="01:34:06:00" style="basic" tts:origin="33.28% 77.12%" tts:extent="33.38% 12.12%">Đây là vợ thầy, cô Becky.<br />Becky, đây là Jules.</p>
+            <p begin="01:34:06:03" end="01:34:07:22" style="basic" tts:origin="34.15% 77.12%" tts:extent="31.61% 12.12%">Một trong những học trò<br />sáng dạ nhất của anh.</p>
+            <p begin="01:34:08:08" end="01:34:09:23" style="basic" tts:origin="29.37% 77.12%" tts:extent="41.25% 12.12%">- Em rất vui khi được gặp cô.<br />- Cô cũng vui khi được gặp em.</p>
+            <p begin="01:34:10:02" end="01:34:11:01" style="basic" tts:origin="38.69% 77.12%" tts:extent="22.60% 12.12%">- Em thế nào rồi?<br />- Em hơi mệt.</p>
+            <p begin="01:34:11:04" end="01:34:12:05" style="basic" tts:origin="29.47% 83.61%" tts:extent="40.98% 5.64%">Cảm giác như đứa bé đang đá.</p>
+            <p begin="01:34:12:09" end="01:34:14:13" style="basic" tts:origin="27.13% 77.12%" tts:extent="45.72% 12.12%">Chà, xem ra thầy phải đưa cô<br />về rồi. Gia đình thầy sắp có em bé.</p>
+            <p begin="01:34:14:16" end="01:34:16:23" style="basic" tts:origin="28.90% 77.12%" tts:extent="42.13% 12.12%">- Nhưng, em diễn cừ lắm, Jules.<br />- Cảm ơn thầy.</p>
+            <p begin="01:34:18:06" end="01:34:19:06" style="basic" tts:origin="37.44% 83.61%" tts:extent="25.05% 5.64%">Chúc mừng thầy ạ.</p>
+            <p begin="01:34:34:00" end="01:34:35:22" style="basic" tts:origin="30.98% 83.61%" tts:extent="37.96% 5.64%">Khán giả không hiểu vở kịch.</p>
+            <p begin="01:34:47:12" end="01:34:49:03" style="basic" tts:origin="34.36% 77.12%" tts:extent="31.25% 12.12%">Các người liệu còn định<br />ở trong đó bao lâu nữa,</p>
+            <p begin="01:34:49:06" end="01:34:50:10" style="basic" tts:origin="28.85% 83.61%" tts:extent="42.29% 5.64%">lúc nãy tôi uống nhiều soda lắm!</p>
+            <p begin="01:34:50:13" end="01:34:52:17" style="basic" tts:origin="35.67% 77.12%" tts:extent="28.64% 12.12%">- Mày cút đi.<br />- Tao mới đến kỳ đây!</p>
+            <p begin="01:34:52:20" end="01:34:54:05" style="basic" tts:origin="37.86% 77.12%" tts:extent="24.21% 12.12%">- Khốn nạn đời tôi!<br />- Bà đi đâu đấy?</p>
+            <p begin="01:34:54:09" end="01:34:56:08" style="basic" tts:origin="32.13% 77.12%" tts:extent="35.67% 12.12%">Phòng vệ sinh nam không<br />bao giờ cần phải xếp hàng.</p>
+            <p begin="01:35:01:12" end="01:35:02:12" style="basic" tts:origin="43.75% 83.61%" tts:extent="12.44% 5.64%">Ôi, anh…</p>
+            <p begin="01:35:03:22" end="01:35:05:06" style="basic" tts:origin="44.37% 83.61%" tts:extent="11.25% 5.64%">Chúa ơi!</p>
+            <p begin="01:35:05:12" end="01:35:13:09" style="basic" tts:origin="30.98% 77.12%" tts:extent="37.96% 12.12%">- <span tts:fontStyle="italic">Anh lạc lối, vì em. Khi em…</span><br />- Rơi xuống…</p>
+            <p begin="01:35:13:23" end="01:35:15:16" style="basic" tts:origin="39.68% 83.61%" tts:extent="20.62% 5.64%">Trúng phải anh.</p>
+            <p begin="01:35:16:04" end="01:35:25:20" style="basic" tts:origin="21.87% 77.12%" tts:extent="56.19% 12.12%"><span tts:fontStyle="italic">Trúng phải anh, em yêu ơi</span><br /><span tts:fontStyle="italic">Hãy chạm môi để anh biết, trong mắt em…</span></p>
+            <p begin="01:35:48:02" end="01:35:49:16" style="basic" tts:origin="37.54% 83.61%" tts:extent="24.89% 5.64%">Mấy đôi tất tốt lắm.</p>
+            <p begin="01:35:50:13" end="01:35:51:17" style="basic" tts:origin="29.47% 83.61%" tts:extent="40.98% 5.64%">Thực ra toàn là đồ đắt tiền đấy.</p>
+            <p begin="01:35:51:20" end="01:35:53:21" style="basic" tts:origin="32.29% 77.77%" tts:extent="35.40% 12.12%">Chúng có khả năng hút ẩm<br />ở bàn chân.</p>
+            <p begin="01:35:54:08" end="01:35:57:14" style="basic" tts:origin="28.38% 77.12%" tts:extent="43.22% 12.12%">- Chân con lúc nào cũng ẩm ướt.<br />- Con thích lắm mẹ ạ.</p>
+            <p begin="01:35:57:17" end="01:36:00:04" style="basic" tts:origin="31.82% 77.12%" tts:extent="36.35% 12.12%">Mẹ rất tiếc khi lễ Giáng sinh<br />hơi nhỏ. Bố mẹ muốn,</p>
+            <p begin="01:36:01:00" end="01:36:03:10" style="basic" tts:origin="28.69% 83.61%" tts:extent="42.60% 5.64%">năm nay ăn mừng vừa phải thôi.</p>
+            <p begin="01:36:08:03" end="01:36:10:03" style="basic" tts:origin="35.61% 77.12%" tts:extent="28.69% 12.12%">- Anh có thích không?<br />- Trông này.</p>
+            <p begin="01:36:10:06" end="01:36:11:15" style="basic" tts:origin="34.42% 77.12%" tts:extent="31.14% 12.12%">Golf thủ không ăn kiêng<br />mà sống nhờ cỏ</p>
+            <p begin="01:36:12:09" end="01:36:13:06" style="basic" tts:origin="43.12% 83.61%" tts:extent="13.75% 5.64%">Tuyệt đấy.</p>
+            <p begin="01:36:13:11" end="01:36:16:06" style="basic" tts:origin="31.61% 77.12%" tts:extent="36.71% 12.12%">Trông thấy là mẹ mua ngay.<br />Buồn cười gần chết.</p>
+            <p begin="01:36:24:22" end="01:36:26:04" style="basic" tts:origin="39.15% 83.61%" tts:extent="21.61% 5.64%">Bố ạ? Bố vào đi.</p>
+            <p begin="01:36:29:20" end="01:36:30:23" style="basic" tts:origin="34.32% 83.61%" tts:extent="31.30% 5.64%">Làm sao con biết là bố?</p>
+            <p begin="01:36:31:06" end="01:36:32:15" style="basic" tts:origin="30.26% 83.61%" tts:extent="39.47% 5.64%">Tại mẹ không bao giờ gõ cửa.</p>
+            <p begin="01:36:33:07" end="01:36:35:04" style="basic" tts:origin="41.77% 83.61%" tts:extent="16.45% 5.64%">Ừ, đúng thế.</p>
+            <p begin="01:36:37:15" end="01:36:42:05" style="basic" tts:origin="30.20% 77.12%" tts:extent="39.58% 12.12%">Của con đây,<br />toàn bộ hồ sơ hỗ trợ tài chính.</p>
+            <p begin="01:36:42:20" end="01:36:45:12" style="basic" tts:origin="33.54% 77.12%" tts:extent="32.90% 12.12%">- Chúc mừng Giáng sinh.<br />- Cảm ơn bố!</p>
+            <p begin="01:36:46:00" end="01:36:47:18" style="basic" tts:origin="25.41% 83.61%" tts:extent="49.11% 5.64%">Con có cần tiền để nộp hồ sơ không?</p>
+            <p begin="01:36:47:21" end="01:36:48:23" style="basic" tts:origin="27.29% 83.61%" tts:extent="45.36% 5.64%">Bố cũng có thể giúp con, bố mới…</p>
+            <p begin="01:36:49:02" end="01:36:51:23" style="basic" tts:origin="24.58% 77.12%" tts:extent="50.78% 12.12%">Không, không, chuyện đó con lo được,<br />tiền làm thêm mùa hè của con vẫn đủ.</p>
+            <p begin="01:36:52:09" end="01:36:54:04" style="basic" tts:origin="33.69% 77.12%" tts:extent="32.60% 12.12%">Đây là lý do cả nhà đề ra<br />thời gian tắt máy tính.</p>
+            <p begin="01:36:54:08" end="01:36:55:11" style="basic" tts:origin="28.59% 77.12%" tts:extent="42.76% 12.12%">- Chỗ này là phòng của bọn anh.<br />- Vâng, vâng…</p>
+            <p begin="01:36:55:14" end="01:36:56:17" style="basic" tts:origin="28.64% 77.12%" tts:extent="42.70% 12.12%">Anh chở em ra<br />chỗ bưu điện ở JH được không?</p>
+            <p begin="01:36:56:20" end="01:36:58:07" style="basic" tts:origin="33.69% 83.61%" tts:extent="32.60% 5.64%">Chỗ đó vẫn còn mở cửa.</p>
+            <p begin="01:36:58:11" end="01:37:01:20" style="basic" tts:origin="38.02% 83.61%" tts:extent="23.90% 5.64%"><span tts:fontStyle="italic">Bốn! Ba! Hai! Một!</span></p>
+            <p begin="01:37:02:01" end="01:37:04:02" style="basic" tts:origin="35.67% 83.61%" tts:extent="28.64% 5.64%">Chúc mừng năm mới!</p>
+            <p begin="01:37:12:10" end="01:37:14:22" style="basic" tts:origin="29.84% 77.12%" tts:extent="40.26% 12.12%">Đơn giản lắm. Em kéo vòi ra…<br />rồi nhúng vào…</p>
+            <p begin="01:37:25:05" end="01:37:27:16" style="basic" tts:origin="36.56% 77.12%" tts:extent="26.87% 12.12%">“Lịch sử dân tộc Mỹ”<br />của Howard Zinn</p>
+            <p begin="01:37:30:17" end="01:37:31:12" style="basic" tts:origin="43.17% 83.61%" tts:extent="13.59% 5.64%">Chào anh!</p>
+            <p begin="01:37:32:08" end="01:37:35:15" style="basic" tts:origin="31.61% 77.12%" tts:extent="36.71% 12.12%">Em thích ban nhạc của anh.<br />Có Jonah Ruiz.</p>
+            <p begin="01:37:35:23" end="01:37:38:02" style="basic" tts:origin="36.14% 77.12%" tts:extent="27.70% 12.12%">- Lenfance New nhỉ?<br />- Là “L’enfance Nue.”</p>
+            <p begin="01:37:39:15" end="01:37:45:09" style="basic" tts:origin="27.18% 77.12%" tts:extent="45.57% 12.12%">Em có xem bọn anh biểu diễn hôm<br />Lễ Tạ ơn. Em là Điểu Cô nương.</p>
+            <p begin="01:37:45:17" end="01:37:47:20" style="basic" tts:origin="30.83% 77.12%" tts:extent="38.33% 12.12%">- Thật kỳ lạ khi em lại bắt tay.<br />- Vâng.</p>
+            <p begin="01:37:51:07" end="01:37:53:12" style="basic" tts:origin="31.71% 77.12%" tts:extent="36.56% 12.12%">Em là bạn của Jenna mà<br />bạn ấy lúc nào cũng khen…</p>
+            <p begin="01:37:53:15" end="01:37:56:07" style="basic" tts:origin="30.05% 77.12%" tts:extent="39.84% 12.12%">ban nhạc của anh nên hôm đó<br />em đã tới xem thử.</p>
+            <p begin="01:37:56:21" end="01:37:59:04" style="basic" tts:origin="36.86% 77.12%" tts:extent="26.19% 12.12%">- À, Jenna chất đấy.<br />- Vâng.</p>
+            <p begin="01:37:59:13" end="01:38:01:15" style="basic" tts:origin="35.83% 77.12%" tts:extent="28.33% 12.12%">Anh gặp em ở Deuce<br />hoặc đâu đó sau nhé.</p>
+            <p begin="01:38:01:22" end="01:38:03:22" style="basic" tts:origin="31.09% 83.61%" tts:extent="37.81% 5.64%">Vâng, hẹn gặp anh ở Deuce.</p>
+            <p begin="01:38:04:04" end="01:38:05:01" style="basic" tts:origin="46.97% 83.61%" tts:extent="6.04% 5.64%">Này.</p>
+            <p begin="01:38:05:04" end="01:38:08:10" style="basic" tts:origin="28.38% 77.12%" tts:extent="43.22% 12.12%">- Nhận lương để đong giai đấy à!<br />- Em có đong đưa gì đâu.</p>
+            <p begin="01:38:09:00" end="01:38:10:02" style="basic" tts:origin="33.43% 83.61%" tts:extent="33.11% 5.64%">Giá mà em đong anh nhỉ.</p>
+            <p begin="01:38:22:14" end="01:38:24:09" style="basic" tts:origin="31.04% 83.61%" tts:extent="37.86% 5.64%"><span tts:fontStyle="italic">Một buổi đọc Sách Sáng thế.</span></p>
+            <p begin="01:38:24:17" end="01:38:28:04" style="basic" tts:origin="26.97% 77.12%" tts:extent="45.98% 12.12%">Chúa dẫn Abraham ra ngoài<br />và nói với ông rằng hãy ngước mắt</p>
+            <p begin="01:38:28:07" end="01:38:30:17" style="basic" tts:origin="22.55% 83.61%" tts:extent="54.89% 5.64%">lên bầu trời và đếm các vì sao nếu có thể.</p>
+            <p begin="01:38:31:05" end="01:38:34:00" style="basic" tts:origin="25.26% 77.12%" tts:extent="49.47% 12.12%">Rồi Chúa nói tiếp, hậu duệ<br />của ngươi cũng sẽ đông đảo như thế.</p>
+            <p begin="01:38:34:13" end="01:38:37:15" style="basic" tts:origin="31.56% 83.61%" tts:extent="36.86% 5.64%">Abraham tin vào Thiên chúa</p>
+            <p begin="01:38:37:19" end="01:38:38:23" style="basic" tts:origin="30% 83.61%" tts:extent="39.94% 5.64%">và vì đó ông được công chính.</p>
+            <p begin="01:38:39:12" end="01:38:43:11" style="basic" tts:origin="25.15% 77.12%" tts:extent="49.68% 12.12%">Lạy Cha chúng con ở trên trời,<br />chúng con nguyện danh Cha cả sáng.</p>
+            <p begin="01:38:43:14" end="01:38:47:12" style="basic" tts:origin="27.86% 77.12%" tts:extent="44.21% 12.12%">Nước Cha trị đến, ý Cha thể hiện,<br />ở dưới đất…</p>
+            <p begin="01:38:47:19" end="01:38:50:21" style="basic" tts:origin="22.03% 77.12%" tts:extent="55.88% 12.12%">Lần đầu tiên bọn tớ làm chuyện đó là ở<br />ngôi nhà bên hồ của anh ấy hè năm ngoái.</p>
+            <p begin="01:38:51:09" end="01:38:53:14" style="basic" tts:origin="41.40% 83.61%" tts:extent="17.18% 5.64%">Vui cực luôn.</p>
+            <p begin="01:38:53:17" end="01:38:56:02" style="basic" tts:origin="28.90% 83.61%" tts:extent="42.13% 5.64%">Ồ, của bà đây… Chú Matt gửi…</p>
+            <p begin="01:38:56:07" end="01:38:59:02" style="basic" tts:origin="22.96% 77.12%" tts:extent="54.06% 12.12%">Tôi nghĩ chú ấy với mẹ tôi đang cãi nhau,<br />nên bà cứ thoải mái ăn cả đi nhé.</p>
+            <p begin="01:38:59:11" end="01:39:01:23" style="basic" tts:origin="23.22% 83.61%" tts:extent="53.54% 5.64%">Thôi, cảm ơn. Tôi đang cố giảm cân đây.</p>
+            <p begin="01:39:02:02" end="01:39:03:01" style="basic" tts:origin="28.95% 77.12%" tts:extent="42.08% 12.12%">- Kể ra hơi kỳ quặc nhưng mà…<br />- Thật sao?</p>
+            <p begin="01:39:03:04" end="01:39:04:22" style="basic" tts:origin="33.59% 77.12%" tts:extent="32.76% 12.12%">Quan hệ tình dục không<br />có gì to tát đâu. Mỗi tội…</p>
+            <p begin="01:39:05:02" end="01:39:07:04" style="basic" tts:origin="32.44% 77.12%" tts:extent="35.04% 12.12%">- bà già tớ gọi đúng lúc đó.<br />- Kiểm tra váy.</p>
+            <p begin="01:39:07:07" end="01:39:09:21" style="basic" tts:origin="25.83% 77.12%" tts:extent="48.33% 12.12%">Điện thoại di động của tớ đổ chuông,<br />chiếc máy để mẹ tớ gọi khi hệ trọng.</p>
+            <p begin="01:39:10:00" end="01:39:11:13" style="basic" tts:origin="30.62% 83.61%" tts:extent="38.69% 5.64%">Thế cậu có nhấc máy không?</p>
+            <p begin="01:39:11:20" end="01:39:14:05" style="basic" tts:origin="25.41% 77.12%" tts:extent="49.11% 12.12%">Có, tớ cứ, “Ôi, mẹ à<br />giờ con không nói chuyện được đâu.”</p>
+            <p begin="01:39:14:08" end="01:39:15:01" style="basic" tts:origin="41.40% 83.61%" tts:extent="17.18% 5.64%">Kiểm tra váy.</p>
+            <p begin="01:39:16:23" end="01:39:18:22" style="basic" tts:origin="28.12% 83.61%" tts:extent="43.75% 5.64%">Mà khoan, chuyện hệ trọng là gì?</p>
+            <p begin="01:39:19:07" end="01:39:20:07" style="basic" tts:origin="47.29% 83.61%" tts:extent="5.41% 5.64%">Hả?</p>
+            <p begin="01:39:20:11" end="01:39:23:05" style="basic" tts:origin="29.84% 77.12%" tts:extent="40.31% 12.12%">- Chuyện hệ trọng lúc đó là gì?<br />- Ồ, bà trẻ tớ mất.</p>
+            <p begin="01:39:23:08" end="01:39:26:00" style="basic" tts:origin="34.58% 77.12%" tts:extent="30.83% 12.12%">- Tớ rất tiếc.<br />- Bà ấy kiểu như tự sát.</p>
+            <p begin="01:39:26:12" end="01:39:28:11" style="basic" tts:origin="25.83% 77.12%" tts:extent="48.33% 12.12%">Ừ. Chẳng hiểu sao sống đến<br />ngần ấy tuổi rồi mà còn phải làm thế.</p>
+            <p begin="01:39:28:17" end="01:39:30:23" style="basic" tts:origin="40.67% 83.61%" tts:extent="18.64% 5.64%">Các con, váy?</p>
+            <p begin="01:39:34:03" end="01:39:36:15" style="basic" tts:origin="28.59% 83.61%" tts:extent="42.76% 5.64%">Ta sẽ viết giấy phạt con, Walton.</p>
+            <p begin="01:39:36:18" end="01:39:38:13" style="basic" tts:origin="28.75% 83.61%" tts:extent="42.44% 5.64%">Không được mặc váy ngắn nữa.</p>
+            <p begin="01:39:41:16" end="01:39:44:07" style="basic" tts:origin="28.12% 83.61%" tts:extent="43.69% 5.64%">Xơ Sarah-Joan bị tớ mê hoặc rồi.</p>
+            <p begin="01:39:45:00" end="01:39:46:04" style="basic" tts:origin="27.65% 83.61%" tts:extent="44.68% 5.64%">Xơ ấy đúng là kiểu đít lộn lên đầu.</p>
+            <p begin="01:39:46:10" end="01:39:47:20" style="basic" tts:origin="32.70% 83.61%" tts:extent="34.53% 5.64%">Điểu à, bà thích xơ ấy mà.</p>
+            <p begin="01:39:48:04" end="01:39:50:14" style="basic" tts:origin="30.72% 77.12%" tts:extent="38.54% 12.12%">Phải, nhưng mà… xơ ấy<br />đúng kiểu đít lộn lên đầu đấy.</p>
+            <p begin="01:39:51:06" end="01:39:54:05" style="basic" tts:origin="33.79% 77.12%" tts:extent="32.39% 12.12%">Tớ có ý này để<br />trả đũa xơ Sarah-Joan…</p>
+            <p begin="01:39:54:14" end="01:39:55:13" style="basic" tts:origin="43.43% 83.61%" tts:extent="13.12% 5.64%">Như nào?</p>
+            <p begin="01:39:55:16" end="01:39:57:07" style="basic" tts:origin="29.11% 83.61%" tts:extent="41.77% 5.64%">Rồi cậu sẽ thấy. Chiều nay nhé.</p>
+            <p begin="01:39:57:14" end="01:39:59:12" style="basic" tts:origin="31.40% 77.12%" tts:extent="37.18% 12.12%">Không được, chiều nay<br />chúng ta có buổi thử vai mà.</p>
+            <p begin="01:40:00:07" end="01:40:04:17" style="basic" tts:origin="29.73% 77.12%" tts:extent="40.46% 12.12%">Ồ phải, ý tôi là… Tôi nghĩ<br />tôi không muốn đóng kịch nữa.</p>
+            <p begin="01:40:05:02" end="01:40:07:00" style="basic" tts:origin="28.54% 77.12%" tts:extent="42.86% 12.12%">Gặp tớ ở bãi đỗ xe của giáo viên<br />lúc 3 giờ nhé.</p>
+            <p begin="01:40:07:03" end="01:40:09:01" style="basic" tts:origin="34.01% 83.61%" tts:extent="31.92% 5.64%">Tớ sẽ chuẩn bị đồ nghề.</p>
+            <p begin="01:40:10:09" end="01:40:11:23" style="basic" tts:origin="29.37% 83.61%" tts:extent="41.19% 5.64%">Ừ. Mà khoan, tên cậu là gì nhỉ?</p>
+            <p begin="01:40:12:06" end="01:40:13:17" style="basic" tts:origin="39.42% 83.61%" tts:extent="21.09% 5.64%">Điểu Cô nương.</p>
+            <p begin="01:40:14:01" end="01:40:15:08" style="basic" tts:origin="42.18% 77.12%" tts:extent="15.57% 12.12%">- Kỳ quặc.<br />- Các con…</p>
+            <p begin="01:40:15:14" end="01:40:19:09" style="basic" tts:origin="22.18% 77.12%" tts:extent="55.57% 12.12%">chúng ta phải ra quyết định. Chủ đề<br />của buổi prom. Những lựa chọn hàng đầu.</p>
+            <p begin="01:40:19:17" end="01:40:24:15" style="basic" tts:origin="28.43% 77.12%" tts:extent="43.12% 12.12%">Các thành phố trên thế giới,<br />ngọn lửa vĩnh hằng, và điện ảnh.</p>
+            <p begin="01:40:25:19" end="01:40:27:02" style="basic" tts:origin="34.42% 83.61%" tts:extent="31.14% 5.64%">Cha Leviatch đâu rồi ạ?</p>
+            <p begin="01:40:27:19" end="01:40:29:21" style="basic" tts:origin="29.27% 83.61%" tts:extent="41.45% 5.64%">Được rồi, tất cả quỳ xuống nào.</p>
+            <p begin="01:40:31:01" end="01:40:32:02" style="basic" tts:origin="38.59% 83.61%" tts:extent="22.76% 5.64%">Ngồi thoải mái đi.</p>
+            <p begin="01:40:34:01" end="01:40:36:00" style="basic" tts:origin="37.13% 77.12%" tts:extent="25.72% 12.12%">Ta biết các con đều<br />nhớ cha Leviatch…</p>
+            <p begin="01:40:36:03" end="01:40:38:03" style="basic" tts:origin="28.43% 77.12%" tts:extent="43.07% 12.12%">ta có thể khẳng định rằng những<br />người anh em của cha cũng vậy,</p>
+            <p begin="01:40:38:18" end="01:40:41:04" style="basic" tts:origin="32.29% 77.12%" tts:extent="35.40% 12.12%">nhưng ta sẽ nỗ lực hết sức<br />cho chuyện này.</p>
+            <p begin="01:40:41:22" end="01:40:45:21" style="basic" tts:origin="20.05% 77.12%" tts:extent="59.84% 12.12%">Bình thường, ta là huấn luyện viên<br />bóng bầu dục không chuyên, nhưng ta thấy…</p>
+            <p begin="01:40:46:00" end="01:40:48:05" style="basic" tts:origin="28.80% 83.61%" tts:extent="42.34% 5.64%">một “vở kịch” là một “cuộc chơi”.</p>
+            <p begin="01:40:48:08" end="01:40:49:20" style="basic" tts:origin="34.11% 83.61%" tts:extent="31.77% 5.64%">Điểu Cô nương đâu rồi?</p>
+            <p begin="01:40:49:23" end="01:40:52:07" style="basic" tts:origin="22.70% 77.12%" tts:extent="54.58% 12.12%">Đi cùng cô bạn thân mới Jenna rồi. Nghĩ<br />rằng kịch nghệ không xứng tầm bản thân.</p>
+            <p begin="01:40:52:17" end="01:40:54:10" style="basic" tts:origin="31.14% 83.61%" tts:extent="37.65% 5.64%">Các con hãy mở kịch bản ra.</p>
+            <p begin="01:40:54:16" end="01:40:56:18" style="basic" tts:origin="29.47% 77.12%" tts:extent="40.98% 12.12%">Ta đã đánh số cho mỗi vai diễn<br />của các con.</p>
+            <p begin="01:40:57:04" end="01:40:59:05" style="basic" tts:origin="33.11% 83.61%" tts:extent="33.69% 5.64%">Ta sẽ vẽ sơ đồ trên bảng.</p>
+            <p begin="01:40:59:08" end="01:41:01:09" style="basic" tts:origin="28.54% 83.61%" tts:extent="42.91% 5.64%">Và các con có thể sao chép lại…</p>
+            <p begin="01:41:01:12" end="01:41:03:07" style="basic" tts:origin="32.60% 83.61%" tts:extent="34.72% 5.64%">vào trong sổ tay của mình.</p>
+            <p begin="01:41:03:15" end="01:41:04:15" style="basic" tts:origin="30.83% 83.61%" tts:extent="38.33% 5.64%">Cha phân chia vai thế nào ạ?</p>
+            <p begin="01:41:04:18" end="01:41:07:20" style="basic" tts:origin="33.54% 77.12%" tts:extent="32.90% 12.12%">Cô Patty sẽ phân vai<br />bởi cô ấy biết rõ các con.</p>
+            <p begin="01:41:07:23" end="01:41:09:15" style="basic" tts:origin="35.97% 83.61%" tts:extent="28.02% 5.64%">Nên hãy hỏi cô Patty.</p>
+            <p begin="01:41:09:22" end="01:41:14:04" style="basic" tts:origin="28.69% 77.12%" tts:extent="42.60% 12.12%">- Được rồi, Prospero, Danny.<br />- Danny, hay lắm! Đó là vai số 1.</p>
+            <p begin="01:41:14:07" end="01:41:16:17" style="basic" tts:origin="37.50% 83.61%" tts:extent="24.94% 5.64%">MỚI CƯỚI JESUS</p>
+            <p begin="01:41:16:20" end="01:41:18:04" style="basic" tts:origin="30.88% 83.61%" tts:extent="38.17% 5.64%">Mà này, cậu sống ở đâu nhỉ?</p>
+            <p begin="01:41:19:05" end="01:41:22:03" style="basic" tts:origin="42.60% 83.61%" tts:extent="14.73% 5.64%">À, khu 40s.</p>
+            <p begin="01:41:22:20" end="01:41:26:01" style="basic" tts:origin="28.22% 77.12%" tts:extent="43.54% 12.12%">Ngôi nhà đầu tiên của gia đình tớ<br />ở khu đó đấy. Phố nào thế?</p>
+            <p begin="01:41:26:18" end="01:41:30:20" style="basic" tts:origin="27.70% 77.12%" tts:extent="44.53% 12.12%">À, số 44. Căn nhà ba tầng<br />màu xanh dương có chớp trắng…</p>
+            <p begin="01:41:30:23" end="01:41:32:15" style="basic" tts:origin="30.52% 83.61%" tts:extent="38.90% 5.64%">với lá cờ Mỹ treo trước cửa…</p>
+            <p begin="01:41:32:18" end="01:41:35:12" style="basic" tts:origin="31.45% 77.12%" tts:extent="37.03% 12.12%">À, tớ biết rồi. Cậu có muốn<br />về khu đó ăn chút gì không?</p>
+            <p begin="01:41:36:03" end="01:41:38:15" style="basic" tts:origin="28.43% 77.12%" tts:extent="43.12% 12.12%">Tớ sống ở Granite Bay cơ, chứ<br />không về luôn khu cậu cho xong.</p>
+            <p begin="01:41:38:21" end="01:41:42:06" style="basic" tts:origin="30.31% 77.12%" tts:extent="39.32% 12.12%">Thực ra thì, tớ đang nghĩ,<br />hay bọn mình đến Deuce nhỉ?</p>
+            <p begin="01:41:42:13" end="01:41:44:21" style="basic" tts:origin="32.44% 77.12%" tts:extent="35.04% 12.12%">Tớ có nói chuyện với Kyle<br />về chỗ đó và anh ấy bảo…</p>
+            <p begin="01:41:45:00" end="01:41:47:11" style="basic" tts:origin="31.40% 77.12%" tts:extent="37.18% 12.12%">“chỗ đó hơi chán nhưng anh<br />có thể gặp em ở đó sau.”</p>
+            <p begin="01:41:47:14" end="01:41:48:23" style="basic" tts:origin="34.89% 83.61%" tts:extent="30.15% 5.64%">Sao cậu lại quen Kyle?</p>
+            <p begin="01:41:49:10" end="01:41:51:15" style="basic" tts:origin="33.64% 77.12%" tts:extent="32.70% 12.12%">À, mẹ tớ bắt tớ làm thêm<br />ở quán New Helvetia…</p>
+            <p begin="01:41:51:19" end="01:41:53:21" style="basic" tts:origin="28.95% 83.61%" tts:extent="42.08% 5.64%">để hiểu thêm về “trách nhiệm”…</p>
+            <p begin="01:41:56:14" end="01:41:58:00" style="basic" tts:origin="36.82% 77.12%" tts:extent="26.30% 12.12%">thế rồi tớ với anh ấy<br />gặp nhau ở đó.</p>
+            <p begin="01:41:58:08" end="01:41:59:16" style="basic" tts:origin="38.64% 83.61%" tts:extent="22.65% 5.64%">Ừ, Kyle đỉnh lắm.</p>
+            <p begin="01:42:00:10" end="01:42:02:15" style="basic" tts:origin="35.72% 83.61%" tts:extent="28.48% 5.64%">Đi quậy ở Deuce thôi.</p>
+            <p begin="01:42:03:01" end="01:42:05:02" style="basic" tts:origin="37.76% 77.12%" tts:extent="24.42% 12.12%">Được rồi, các con.<br />Nhìn này, vai số 1.</p>
+            <p begin="01:42:05:05" end="01:42:07:13" style="basic" tts:origin="25.46% 83.61%" tts:extent="49.01% 5.64%">Phải, con sẽ như băng về phía trước.</p>
+            <p begin="01:42:07:16" end="01:42:09:17" style="basic" tts:origin="24.84% 83.61%" tts:extent="50.31% 5.64%">Ta muốn con nhìn thẳng vào khán giả!</p>
+            <p begin="01:42:09:20" end="01:42:10:20" style="basic" tts:origin="32.44% 83.61%" tts:extent="35.10% 5.64%">Đừng nhìn ngang nhìn dọc</p>
+            <p begin="01:42:10:23" end="01:42:12:10" style="basic" tts:origin="22.86% 83.61%" tts:extent="54.21% 5.64%">hoặc ba hoa với người nào đi ngang qua.</p>
+            <p begin="01:42:12:13" end="01:42:14:21" style="basic" tts:origin="28.12% 83.61%" tts:extent="43.75% 5.64%">8, 9, 10, các con tấn công từ đây.</p>
+            <p begin="01:42:15:04" end="01:42:16:05" style="basic" tts:origin="32.54% 83.61%" tts:extent="34.84% 5.64%">Bởi khán giả sẽ rất thích…</p>
+            <p begin="01:42:16:08" end="01:42:17:11" style="basic" tts:origin="30.67% 83.61%" tts:extent="38.64% 5.64%">Đừng tự trò chuyện với nhau.</p>
+            <p begin="01:42:17:15" end="01:42:19:21" style="basic" tts:origin="30% 83.61%" tts:extent="40% 5.64%">Từ từ tiến vào, vừa đi vừa hát.</p>
+            <p begin="01:42:20:23" end="01:42:23:05" style="basic" tts:origin="29.58% 83.61%" tts:extent="40.78% 5.64%">Hát này. Cả cánh rộng hát này.</p>
+            <p begin="01:42:23:08" end="01:42:25:04" style="basic" tts:origin="40.04% 83.61%" tts:extent="19.84% 5.64%">Cứ hát, cứ hát.</p>
+            <p begin="01:42:25:13" end="01:42:27:10" style="basic" tts:origin="32.44% 77.12%" tts:extent="35.04% 12.12%">Danny chưa hát vội,<br />cậu ấy hoàn toàn đơn độc.</p>
+            <p begin="01:42:27:17" end="01:42:29:17" style="basic" tts:origin="34.01% 77.12%" tts:extent="31.97% 12.12%">Hát này. 8, 9, 10,<br />các con xông thẳng vào!</p>
+            <p begin="01:42:29:23" end="01:42:31:15" style="basic" tts:origin="31.87% 83.61%" tts:extent="36.19% 5.64%">Các con cứ thế xông thẳng!</p>
+            <p begin="01:42:34:21" end="01:42:36:11" style="basic" tts:origin="37.54% 83.61%" tts:extent="24.89% 5.64%">Đây là Deuce sao?</p>
+            <p begin="01:42:36:14" end="01:42:37:13" style="basic" tts:origin="48.33% 83.61%" tts:extent="3.33% 5.64%">Ừ.</p>
+            <p begin="01:42:37:16" end="01:42:38:22" style="basic" tts:origin="39.89% 83.61%" tts:extent="20.14% 5.64%">Là bãi đỗ xe à?</p>
+            <p begin="01:42:39:13" end="01:42:40:13" style="basic" tts:origin="46.61% 83.61%" tts:extent="6.71% 5.64%">Phải.</p>
+            <p begin="01:42:41:03" end="01:42:44:12" style="basic" tts:origin="27.29% 83.61%" tts:extent="45.41% 5.64%">Đúng là hết vỏ dưa lại đến vỏ dừa.</p>
+            <p begin="01:42:44:19" end="01:42:48:07" style="basic" tts:origin="30.83% 77.12%" tts:extent="38.33% 12.12%">Kyle, em với Điểu Cô nương<br />vừa trang trí cho xe của xơ…</p>
+            <p begin="01:42:48:10" end="01:42:50:03" style="basic" tts:origin="28.54% 83.61%" tts:extent="42.86% 5.64%">thêm chữ “Mới cưới Jesus!” đấy.</p>
+            <p begin="01:42:50:09" end="01:42:51:10" style="basic" tts:origin="43.69% 83.61%" tts:extent="12.60% 5.64%">Chất đấy.</p>
+            <p begin="01:43:04:21" end="01:43:07:21" style="basic" tts:origin="30.83% 77.12%" tts:extent="38.33% 12.12%">Điều em vừa làm rất máu lửa<br />rất nổi loạn.</p>
+            <p begin="01:43:08:00" end="01:43:09:13" style="basic" tts:origin="39.47% 83.61%" tts:extent="20.98% 5.64%">Phải, chết cả đi.</p>
+            <p begin="01:43:09:16" end="01:43:11:06" style="basic" tts:origin="24.47% 83.61%" tts:extent="50.98% 5.64%">Đừng lo, anh sẽ không khai em ra đâu.</p>
+            <p begin="01:43:11:13" end="01:43:14:19" style="basic" tts:origin="25.15% 77.12%" tts:extent="49.63% 12.12%">Hy vọng là không, bởi anh mà<br />mở miệng thì em giết cả nhà anh đấy.</p>
+            <p begin="01:43:17:00" end="01:43:20:15" style="basic" tts:origin="31.45% 77.12%" tts:extent="37.03% 12.12%">- Hả?<br />- Xin lỗi, em chỉ nói quá thôi.</p>
+            <p begin="01:43:20:20" end="01:43:25:18" style="basic" tts:origin="24.27% 77.12%" tts:extent="51.45% 12.12%">Không sao. Bố anh mắc bệnh ung thư.<br />Cho nên Chúa đang làm hộ điều đó rồi.</p>
+            <p begin="01:43:26:02" end="01:43:28:04" style="basic" tts:origin="41.04% 83.61%" tts:extent="17.86% 5.64%">Ôi, em xin lỗi.</p>
+            <p begin="01:43:30:07" end="01:43:31:18" style="basic" tts:origin="27.23% 83.61%" tts:extent="45.52% 5.64%">Em làm ở quán New Helvetia, nhỉ?</p>
+            <p begin="01:43:32:01" end="01:43:33:01" style="basic" tts:origin="46.14% 83.61%" tts:extent="7.70% 5.64%">Vâng.</p>
+            <p begin="01:43:33:12" end="01:43:34:11" style="basic" tts:origin="25.72% 83.61%" tts:extent="48.48% 5.64%">Cho anh xin số của em được không?</p>
+            <p begin="01:43:34:14" end="01:43:36:13" style="basic" tts:origin="29.47% 77.12%" tts:extent="40.98% 12.12%">Bọn anh chuẩn bị tổ chức thêm<br />vài buổi diễn ở dưới khu đó…</p>
+            <p begin="01:43:37:00" end="01:43:38:05" style="basic" tts:origin="40.46% 83.61%" tts:extent="19.01% 5.64%">Chắc chắn rồi.</p>
+            <p begin="01:43:41:03" end="01:43:43:04" style="basic" tts:origin="34.42% 83.61%" tts:extent="31.14% 5.64%">Đó là số của bố mẹ em.</p>
+            <p begin="01:43:43:18" end="01:43:45:02" style="basic" tts:origin="27.29% 83.61%" tts:extent="45.41% 5.64%">Em không có điện thoại di động à?</p>
+            <p begin="01:43:45:09" end="01:43:46:09" style="basic" tts:origin="39.11% 77.12%" tts:extent="21.77% 12.12%">- Không.<br />- Gái ngoan đấy.</p>
+            <p begin="01:43:46:16" end="01:43:48:10" style="basic" tts:origin="26.87% 77.12%" tts:extent="46.19% 12.12%">Chính phủ không cần gắn<br />máy theo dõi vào người chúng ta…</p>
+            <p begin="01:43:48:13" end="01:43:49:20" style="basic" tts:origin="28.85% 77.12%" tts:extent="42.23% 12.12%">chúng ta mua<br />rồi tự bỏ chúng vào người mình.</p>
+            <p begin="01:43:50:13" end="01:43:51:22" style="basic" tts:origin="31.04% 83.61%" tts:extent="37.86% 5.64%">Em không có máy theo dõi…</p>
+            <p begin="01:43:52:05" end="01:43:54:08" style="basic" tts:origin="30.88% 83.61%" tts:extent="38.17% 5.64%">Không, điện thoại di động ấy.</p>
+            <p begin="01:43:55:01" end="01:43:56:01" style="basic" tts:origin="41.71% 83.61%" tts:extent="16.55% 5.64%">Hiểu không?</p>
+            <p begin="01:43:56:06" end="01:43:58:04" style="basic" tts:origin="39.47% 77.12%" tts:extent="20.98% 12.12%">- Trời.<br />- Phải. Anh biết.</p>
+            <p begin="01:43:58:19" end="01:44:00:15" style="basic" tts:origin="31.45% 77.12%" tts:extent="37.03% 12.12%">Sẽ đến lúc em có một chiếc.<br />Ai ai cũng có một chiếc.</p>
+            <p begin="01:44:00:18" end="01:44:03:06" style="basic" tts:origin="28.54% 83.61%" tts:extent="42.91% 5.64%">Rồi tất cả chỉ là vấn đề thời gian.</p>
+            <p begin="01:50:28:21" end="01:50:29:21" style="basic" tts:origin="43.17% 83.61%" tts:extent="13.59% 5.64%">phải đi rồi.</p>
+            <p begin="01:50:37:18" end="01:50:41:12" style="basic" tts:origin="36.14% 77.12%" tts:extent="27.65% 12.12%">Mẹ nghĩ bình thường<br />khi nào thì có thể…</p>
+            <p begin="01:50:42:04" end="01:50:43:03" style="basic" tts:origin="36.97% 83.61%" tts:extent="26.04% 5.64%">quan hệ tình dục ạ?</p>
+            <p begin="01:50:43:06" end="01:50:44:10" style="basic" tts:origin="34.15% 77.12%" tts:extent="31.61% 12.12%">Con chuẩn bị<br />quan hệ tình dục đấy à?</p>
+            <p begin="01:50:44:14" end="01:50:48:19" style="basic" tts:origin="33.22% 77.12%" tts:extent="33.54% 12.12%">- Không.<br />- À, lên đại học là được…</p>
+            <p begin="01:50:48:22" end="01:50:49:22" style="basic" tts:origin="30% 83.61%" tts:extent="40% 5.64%">Mẹ nghĩ là khi nào lên đại học,</p>
+            <p begin="01:50:50:23" end="01:50:53:00" style="basic" tts:origin="29.11% 77.12%" tts:extent="41.77% 12.12%">mà nhớ dùng biện pháp bảo vệ.<br />Như đã từng bàn bạc nhé.</p>
+            <p begin="01:50:53:06" end="01:50:54:09" style="basic" tts:origin="46.14% 83.61%" tts:extent="7.70% 5.64%">Vâng.</p>
+            <p begin="01:51:03:07" end="01:51:04:16" style="basic" tts:origin="31.61% 83.61%" tts:extent="36.71% 5.64%">Bố có bị trầm cảm không ạ?</p>
+            <p begin="01:51:05:20" end="01:51:07:01" style="basic" tts:origin="37.03% 83.61%" tts:extent="25.88% 5.64%">Sao con lại hỏi thế?</p>
+            <p begin="01:51:08:06" end="01:51:10:09" style="basic" tts:origin="32.60% 77.12%" tts:extent="34.72% 12.12%">Mấy viên thuốc… con thấy<br />ghi tên bố ở trên đó.</p>
+            <p begin="01:51:11:17" end="01:51:14:08" style="basic" tts:origin="27.96% 77.12%" tts:extent="44.06% 12.12%">Bố vật lộn với căn bệnh trầm cảm<br />từ nhiều năm nay rồi.</p>
+            <p begin="02:05:04:00" end="02:05:07:15" style="basic" tts:origin="32.70% 77.12%" tts:extent="34.58% 12.12%">- Chà, ông vất vả thật đấy.<br />- Vâng.</p>
+            <p begin="02:05:07:18" end="02:05:09:14" style="basic" tts:origin="37.03% 77.12%" tts:extent="25.88% 12.12%">Mà tôi nghe nói ISC<br />sắp sửa đóng cửa.</p>
+            <p begin="02:05:10:02" end="02:05:11:03" style="basic" tts:origin="32.03% 83.61%" tts:extent="35.88% 5.64%">Đúng, tôi cũng có nghe nói.</p>
+            <p begin="02:05:11:06" end="02:05:15:00" style="basic" tts:origin="28.59% 77.12%" tts:extent="42.76% 12.12%">Vậy là cái đám đuổi việc ông<br />giờ cũng chuẩn bị dẹp tiệm luôn.</p>
+            <p begin="02:05:16:19" end="02:05:17:13" style="basic" tts:origin="36.86% 83.61%" tts:extent="26.19% 5.64%">Cảm giác thật tuyệt.</p>
+            <p begin="02:05:17:21" end="02:05:18:23" style="basic" tts:origin="46.61% 83.61%" tts:extent="6.71% 5.64%">Phải.</p>
+            <p begin="02:05:21:15" end="02:05:22:15" style="basic" tts:origin="45.83% 83.61%" tts:extent="8.33% 5.64%">Chà…</p>
+            <p begin="02:05:23:23" end="02:05:25:03" style="basic" tts:origin="25% 83.61%" tts:extent="50% 5.64%">Liệu còn chuyện gì có thể xảy ra chứ?</p>
+            <p begin="02:05:26:14" end="02:05:28:06" style="basic" tts:origin="28.59% 83.61%" tts:extent="42.76% 5.64%">Ồ, tôi nghĩ rằng chúng ta đang…</p>
+            <p begin="02:05:29:19" end="02:05:31:01" style="basic" tts:origin="29.84% 83.61%" tts:extent="40.26% 5.64%">bàn bạc về vị trí ở công ty cậu.</p>
+            <p begin="02:05:33:10" end="02:05:34:11" style="basic" tts:origin="36.40% 83.61%" tts:extent="27.18% 5.64%">Tình hình thế nào ạ?</p>
+            <p begin="02:05:36:22" end="02:05:40:17" style="basic" tts:origin="28.17% 77.12%" tts:extent="43.59% 12.12%">Hai ta hãy đi mua một gói Doritos<br />thật lớn rồi đánh chén…</p>
+            <p begin="02:05:40:20" end="02:05:41:20" style="basic" tts:origin="35.10% 77.12%" tts:extent="29.79% 12.12%">trong xe để ăn mừng<br />vụ danh sách chờ thôi.</p>
+            <p begin="02:05:42:08" end="02:05:43:08" style="basic" tts:origin="46.14% 83.61%" tts:extent="7.70% 5.64%">Vâng.</p>
+            <p begin="02:05:43:17" end="02:05:46:07" style="basic" tts:origin="28.12% 77.12%" tts:extent="43.69% 12.12%">Bố đừng kể cho mẹ nhé!<br />Cả vụ Doritos lẫn danh sách chờ.</p>
+            <p begin="02:05:48:02" end="02:05:49:17" style="basic" tts:origin="39.89% 77.12%" tts:extent="20.14% 12.12%">- Ơ.<br />- Chào con trai.</p>
+            <p begin="02:05:49:23" end="02:05:51:06" style="basic" tts:origin="31.97% 83.61%" tts:extent="35.97% 5.64%">Này, anh làm gì ở đây vậy?</p>
+            <p begin="02:05:51:23" end="02:05:55:23" style="basic" tts:origin="29.42% 77.12%" tts:extent="41.09% 12.12%">Hình như bố con mình nộp đơn<br />cho cùng một vị trí thì phải?</p>
+            <p begin="02:05:59:21" end="02:06:01:00" style="basic" tts:origin="39.84% 83.61%" tts:extent="20.30% 5.64%">Có lẽ là vậy rồi.</p>
+            <p begin="02:06:04:10" end="02:06:05:10" style="basic" tts:origin="40.10% 83.61%" tts:extent="19.79% 5.64%">Cố lên con trai!</p>
+            <p begin="02:06:05:19" end="02:06:06:16" style="basic" tts:origin="42.23% 83.61%" tts:extent="15.52% 5.64%">Cảm ơn bố.</p>
+            <p begin="02:06:08:02" end="02:06:09:22" style="basic" tts:origin="42.29% 77.12%" tts:extent="15.41% 12.12%">- Lối này ạ?<br />- Ừ, ừ.</p>
+            <p begin="02:06:15:08" end="02:06:18:03" style="basic" tts:origin="32.22% 77.12%" tts:extent="35.52% 12.12%">Ta biết chính con là người<br />đứng sau vụ “Mới kết hôn”.</p>
+            <p begin="02:06:18:06" end="02:06:19:06" style="basic" tts:origin="35.26% 83.61%" tts:extent="29.47% 5.64%">Không phải con đâu ạ.</p>
+            <p begin="02:06:20:05" end="02:06:21:14" style="basic" tts:origin="32.54% 83.61%" tts:extent="34.89% 5.64%">Ta sẽ không phạt con đâu.</p>
+            <p begin="02:06:21:22" end="02:06:23:13" style="basic" tts:origin="36.09% 83.61%" tts:extent="27.76% 5.64%">Ơ… sao lại không ạ?</p>
+            <p begin="02:06:24:20" end="02:06:26:04" style="basic" tts:origin="37.70% 83.61%" tts:extent="24.58% 5.64%">Chuyện đó vui mà.</p>
+            <p begin="02:06:26:19" end="02:06:28:18" style="basic" tts:origin="25.10% 83.61%" tts:extent="49.79% 5.64%">Ta và xơ Gina lái về đến tận nhà rồi…</p>
+            <p begin="02:06:28:21" end="02:06:30:22" style="basic" tts:origin="34.53% 77.12%" tts:extent="30.93% 12.12%">mới nhận ra tại sao<br />người ta bấm còi inh ỏi.</p>
+            <p begin="02:06:31:01" end="02:06:31:23" style="basic" tts:origin="45% 83.61%" tts:extent="10% 5.64%">Thật ạ?</p>
+            <p begin="02:06:33:08" end="02:06:37:14" style="basic" tts:origin="31.71% 77.12%" tts:extent="36.51% 12.12%">Thực ra thì, đâu phải ta mới<br />kết hôn với Chúa Jesus…</p>
+            <p begin="02:06:37:17" end="02:06:38:17" style="basic" tts:origin="34.01% 83.61%" tts:extent="31.92% 5.64%">Chuyện đã 40 năm rồi…</p>
+            <p begin="02:06:39:00" end="02:06:40:02" style="basic" tts:origin="28.02% 83.61%" tts:extent="43.90% 5.64%">Chà, ngài quả là người may mắn.</p>
+            <p begin="02:06:41:14" end="02:06:43:06" style="basic" tts:origin="29.11% 83.61%" tts:extent="41.77% 5.64%">Ta đã đọc bài tiểu luận của con.</p>
+            <p begin="02:06:45:13" end="02:06:47:18" style="basic" tts:origin="28.85% 83.61%" tts:extent="42.29% 5.64%">Rõ ràng là con yêu Sacramento.</p>
+            <p begin="02:06:48:14" end="02:06:49:13" style="basic" tts:origin="43.43% 83.61%" tts:extent="13.07% 5.64%">Thật sao?</p>
+            <p begin="02:06:49:16" end="02:06:52:14" style="basic" tts:origin="22.70% 83.61%" tts:extent="54.58% 5.64%">Con viết về Sacramento hết sức trìu mến,</p>
+            <p begin="02:06:52:18" end="02:06:53:18" style="basic" tts:origin="34.42% 83.61%" tts:extent="31.09% 5.64%">với rất nhiều sự ân cần.</p>
+            <p begin="02:06:54:05" end="02:06:55:23" style="basic" tts:origin="32.96% 83.61%" tts:extent="34.06% 5.64%">À, con chỉ mô tả nó thôi ạ.</p>
+            <p begin="02:06:56:09" end="02:06:58:09" style="basic" tts:origin="26.40% 83.61%" tts:extent="47.18% 5.64%">Đó tình cờ thay lại chính là tình yêu.</p>
+            <p begin="02:06:58:23" end="02:07:01:12" style="basic" tts:origin="25.67% 83.61%" tts:extent="48.64% 5.64%">Dạ, con nghĩ mình là người hay để ý.</p>
+            <p begin="02:07:03:13" end="02:07:06:05" style="basic" tts:origin="32.39% 77.12%" tts:extent="35.20% 12.12%">Thế con không nghĩ rằng<br />hai điều có thể là một sao?</p>
+            <p begin="02:07:06:13" end="02:07:08:23" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%">Tình yêu và sự để ý ấy?</p>
+            <p begin="02:07:17:03" end="02:07:20:01" style="basic" tts:origin="32.18% 77.12%" tts:extent="35.57% 12.12%">Chắc lên đại học con sẽ<br />không đi khiêu vũ nữa đâu.</p>
+            <p begin="02:07:20:04" end="02:07:21:04" style="basic" tts:origin="33.75% 83.61%" tts:extent="32.44% 5.64%">Đây là bộ cuối cùng nhé.</p>
+            <p begin="02:07:22:02" end="02:07:24:12" style="basic" tts:origin="32.29% 77.12%" tts:extent="35.36% 12.12%">Con biết đấy, trường Davis<br />có nhà hát rất tuyệt.</p>
+            <p begin="02:07:24:15" end="02:07:27:07" style="basic" tts:origin="28.02% 77.12%" tts:extent="43.90% 12.12%">Nếu con còn hào hứng với<br />kịch nghệ. Mà con có còn không?</p>
+            <p begin="02:07:27:19" end="02:07:30:06" style="basic" tts:origin="30.98% 77.12%" tts:extent="38.02% 12.12%">Có lẽ con chẳng giỏi giang gì<br />chuyện diễn xuất.</p>
+            <p begin="02:07:31:14" end="02:07:33:17" style="basic" tts:origin="28.85% 77.12%" tts:extent="42.29% 12.12%">Tại sao trông con không giống<br />như mấy cô gái trên tạp chí nhỉ?</p>
+            <p begin="02:07:34:12" end="02:07:37:01" style="basic" tts:origin="27.86% 77.12%" tts:extent="44.21% 12.12%">Thật tệ khi mẹ không thể gặp<br />cái cậu Kyle này trước buổi prom.</p>
+            <p begin="02:07:37:04" end="02:07:41:07" style="basic" tts:origin="25.05% 77.12%" tts:extent="49.84% 12.12%">Anh ấy không còn là bạn con trai nữa.<br />Có khi trước đây cũng chẳng phải ấy.</p>
+            <p begin="02:07:41:10" end="02:07:42:20" style="basic" tts:origin="30.83% 83.61%" tts:extent="38.33% 5.64%">Thì mẹ vẫn muốn gặp cậu ta.</p>
+            <p begin="02:07:44:06" end="02:07:46:00" style="basic" tts:origin="36.82% 83.61%" tts:extent="26.35% 5.64%">Chật quá! Chết mất.</p>
+            <p begin="02:07:47:19" end="02:07:50:21" style="basic" tts:origin="28.02% 77.12%" tts:extent="43.90% 12.12%">Thì lúc nãy mẹ chả bảo con đừng<br />ăn phần pasta thứ hai còn gì.</p>
+            <p begin="02:07:51:00" end="02:07:52:07" style="basic" tts:origin="47.55% 83.61%" tts:extent="4.88% 5.64%">Mẹ!</p>
+            <p begin="02:07:52:15" end="02:07:54:15" style="basic" tts:origin="32.03% 77.12%" tts:extent="35.88% 12.12%">Con yêu, con có vẻ bực bội<br />mẹ chỉ muốn giúp con thôi.</p>
+            <p begin="02:07:54:18" end="02:07:56:03" style="basic" tts:origin="23.54% 83.61%" tts:extent="52.91% 5.64%">Mẹ sẽ khiến con bị rối loạn ăn uống đấy!</p>
+            <p begin="02:07:56:21" end="02:07:59:01" style="basic" tts:origin="26.56% 83.61%" tts:extent="46.82% 5.64%">Mà ước gì mình bị rối loạn ăn uống.</p>
+            <p begin="02:08:08:03" end="02:08:09:03" style="basic" tts:origin="40.46% 83.61%" tts:extent="19.01% 5.64%">Con thích lắm.</p>
+            <p begin="02:08:10:19" end="02:08:11:23" style="basic" tts:origin="36.29% 83.61%" tts:extent="27.34% 5.64%">Có hồng quá không?</p>
+            <p begin="02:08:16:04" end="02:08:17:04" style="basic" tts:origin="46.56% 83.61%" tts:extent="6.87% 5.64%">Sao?</p>
+            <p begin="02:08:21:20" end="02:08:23:11" style="basic" tts:origin="30.98% 77.12%" tts:extent="38.02% 12.12%">Sao mẹ không khen con xinh<br />được một câu nhỉ?</p>
+            <p begin="02:08:25:07" end="02:08:26:15" style="basic" tts:origin="30.88% 77.12%" tts:extent="38.17% 12.12%">Mẹ tưởng lời nói của mẹ<br />không có trọng lượng gì chứ.</p>
+            <p begin="02:08:26:18" end="02:08:28:12" style="basic" tts:origin="31.30% 77.12%" tts:extent="37.34% 12.12%">Con vẫn muốn mẹ nghĩ rằng<br />trông con rất xinh.</p>
+            <p begin="02:08:28:15" end="02:08:31:22" style="basic" tts:origin="30.15% 77.12%" tts:extent="39.63% 12.12%">Mẹ xin lỗi. Mẹ chỉ nói thật thôi.<br />Hay con muốn mẹ nói dối…</p>
+            <p begin="02:08:32:15" end="02:08:33:15" style="basic" tts:origin="38.33% 83.61%" tts:extent="23.28% 5.64%">Không, ý con là…</p>
+            <p begin="02:08:33:23" end="02:08:34:17" style="basic" tts:origin="39.42% 83.61%" tts:extent="21.14% 5.64%">Con chỉ mong…</p>
+            <p begin="02:08:35:15" end="02:08:36:15" style="basic" tts:origin="43.54% 83.61%" tts:extent="12.91% 5.64%">Con chỉ…</p>
+            <p begin="02:08:38:06" end="02:08:39:16" style="basic" tts:origin="28.28% 83.61%" tts:extent="43.43% 5.64%">Con chỉ mong rằng mẹ thích con.</p>
+            <p begin="02:08:41:09" end="02:08:42:15" style="basic" tts:origin="34.47% 83.61%" tts:extent="30.98% 5.64%">Dĩ nhiên là mẹ yêu con.</p>
+            <p begin="02:08:46:07" end="02:08:47:11" style="basic" tts:origin="29.42% 83.61%" tts:extent="41.14% 5.64%">Nhưng mẹ có thích con không?</p>
+            <p begin="02:08:51:21" end="02:08:56:18" style="basic" tts:origin="27.81% 77.12%" tts:extent="44.37% 12.12%">Mẹ muốn con trở thành phiên bản<br />tuyệt vời nhất của bản thân.</p>
+            <p begin="02:08:58:12" end="02:09:00:03" style="basic" tts:origin="28.59% 77.12%" tts:extent="42.76% 12.12%">Ngộ nhỡ đây chính là phiên bản<br />tuyệt vời nhất của con thì sao ạ?</p>
+            <p begin="02:09:15:02" end="02:09:16:02" style="basic" tts:origin="37.60% 83.61%" tts:extent="24.73% 5.64%">Trông em đẹp lắm.</p>
+            <p begin="02:09:16:17" end="02:09:18:12" style="basic" tts:origin="36.65% 77.12%" tts:extent="26.61% 12.12%">- Thật không ạ?<br />- Ừ, trông em như…</p>
+            <p begin="02:09:18:15" end="02:09:19:10" style="basic" tts:origin="32.96% 77.12%" tts:extent="34.06% 12.12%">cô gái chất lừ<br />của một ban nhạc nào đó.</p>
+            <p begin="02:09:20:12" end="02:09:21:12" style="basic" tts:origin="41.97% 83.61%" tts:extent="15.98% 5.64%">Cảm ơn chị.</p>
+            <p begin="02:09:24:06" end="02:09:27:06" style="basic" tts:origin="30.52% 83.61%" tts:extent="38.95% 5.64%">Chà, chắc giai của con tới rồi.</p>
+            <p begin="02:09:28:04" end="02:09:30:18" style="basic" tts:origin="30% 77.12%" tts:extent="40% 12.12%">Con định lên xe của một thằng<br />đứng ngoài bấm còi hay sao?</p>
+            <p begin="02:09:31:19" end="02:09:33:14" style="basic" tts:origin="38.85% 83.61%" tts:extent="22.29% 5.64%">Con nghĩ là có ạ.</p>
+            <p begin="02:09:35:19" end="02:09:37:03" style="basic" tts:origin="31.45% 83.61%" tts:extent="37.03% 5.64%">Để bố chụp con một tấm đã.</p>
+            <p begin="02:09:37:06" end="02:09:38:21" style="basic" tts:origin="29.01% 83.61%" tts:extent="41.97% 5.64%">Mẹ đang bực vì phải làm ca đôi.</p>
+            <p begin="02:09:39:05" end="02:09:40:20" style="basic" tts:origin="30.05% 77.12%" tts:extent="39.84% 12.12%">Tầm của em cũng không đáng<br />phải đi với thằng này đâu.</p>
+            <p begin="02:09:43:08" end="02:09:44:14" style="basic" tts:origin="40.98% 83.61%" tts:extent="18.02% 5.64%">Chúc vui nhé.</p>
+            <p begin="02:09:44:19" end="02:09:45:21" style="basic" tts:origin="37.90% 83.61%" tts:extent="24.11% 5.64%">Ừ, chúc may mắn.</p>
+            <p begin="02:09:46:04" end="02:09:48:00" style="basic" tts:origin="39.84% 77.12%" tts:extent="20.30% 12.12%">- Gặp con sau.<br />- Gặp bố sau ạ.</p>
+            <p begin="02:09:49:16" end="02:09:50:16" style="basic" tts:origin="33.28% 83.61%" tts:extent="33.43% 5.64%">Anh nghĩ nó thật kỳ quặc.</p>
+            <p begin="02:09:50:19" end="02:09:52:02" style="basic" tts:origin="39.72% 83.61%" tts:extent="20.46% 5.64%">Nó kỳ quặc mà.</p>
+            <p begin="02:09:52:16" end="02:09:55:16" style="basic" tts:origin="33.38% 77.12%" tts:extent="33.22% 12.12%">Chào các cậu. Chắc là tớ<br />sẽ ngồi ghế trước nhỉ?</p>
+            <p begin="02:09:59:15" end="02:10:00:22" style="basic" tts:origin="32.76% 83.61%" tts:extent="34.42% 5.64%">Trông anh tuyệt lắm, Kyle.</p>
+            <p begin="02:10:01:07" end="02:10:03:05" style="basic" tts:origin="36.71% 77.12%" tts:extent="26.56% 12.12%">- Trông em đẹp đấy.<br />- Cảm ơn anh.</p>
+            <p begin="02:10:04:10" end="02:10:05:09" style="basic" tts:origin="43.28% 83.61%" tts:extent="13.43% 5.64%">Chào cậu.</p>
+            <p begin="02:10:05:12" end="02:10:06:23" style="basic" tts:origin="42.39% 77.12%" tts:extent="15.20% 12.12%">- Chào cậu.<br />- Chào em.</p>
+            <p begin="02:10:12:13" end="02:10:14:12" style="basic" tts:origin="44.11% 83.61%" tts:extent="11.77% 5.64%">Sao thế?</p>
+            <p begin="02:10:15:16" end="02:10:18:21" style="basic" tts:origin="27.70% 83.61%" tts:extent="44.58% 5.64%">Ừ, được, nghe hay đấy. Được rồi.</p>
+            <p begin="02:10:20:05" end="02:10:22:16" style="basic" tts:origin="27.96% 77.12%" tts:extent="44.06% 12.12%">Này, mọi người muốn bỏ vụ prom<br />rồi đi tới chỗ của Mike không?</p>
+            <p begin="02:10:22:22" end="02:10:25:09" style="basic" tts:origin="30.10% 77.12%" tts:extent="39.79% 12.12%">- Được, em ghét khiêu vũ lắm.<br />- Chơi luôn.</p>
+            <p begin="02:10:26:00" end="02:10:27:19" style="basic" tts:origin="22.13% 83.61%" tts:extent="55.67% 5.64%">Vâng, không sao. Không prom cũng được.</p>
+            <p begin="02:10:38:01" end="02:10:39:09" style="basic" tts:origin="39.15% 83.61%" tts:extent="21.61% 5.64%">Bài hát lởm quá.</p>
+            <p begin="02:10:43:04" end="02:10:44:06" style="basic" tts:origin="35.83% 83.61%" tts:extent="28.33% 5.64%">Em thích bài này lắm.</p>
+            <p begin="02:10:46:04" end="02:10:48:16" style="basic" tts:origin="28.28% 83.61%" tts:extent="43.43% 5.64%">Thực ra thì em muốn đi dự prom.</p>
+            <p begin="02:10:50:09" end="02:10:52:05" style="basic" tts:origin="36.71% 83.61%" tts:extent="26.56% 5.64%">Ừ, được. Ý anh là…</p>
+            <p begin="02:10:54:03" end="02:10:55:06" style="basic" tts:origin="28.95% 83.61%" tts:extent="42.08% 5.64%">anh thực sự không muốn tới đó.</p>
+            <p begin="02:10:57:05" end="02:11:01:08" style="basic" tts:origin="31.77% 77.12%" tts:extent="36.40% 12.12%">Thế, thế anh có thể đưa em<br />tới nhà Julie được không?</p>
+            <p begin="02:11:01:15" end="02:11:02:15" style="basic" tts:origin="45.83% 83.61%" tts:extent="8.33% 5.64%">Được.</p>
+            <p begin="02:11:03:23" end="02:11:05:00" style="basic" tts:origin="40.57% 83.61%" tts:extent="18.85% 5.64%">Julie là ai thế?</p>
+            <p begin="02:11:07:09" end="02:11:08:10" style="basic" tts:origin="35.83% 83.61%" tts:extent="28.33% 5.64%">Bạn thân nhất của tớ.</p>
+            <p begin="02:11:21:03" end="02:11:24:19" style="basic" tts:origin="22.55% 83.61%" tts:extent="54.89% 5.64%">Julie, con yêu, có người đến gặp con này.</p>
+            <p begin="02:11:38:17" end="02:11:39:17" style="basic" tts:origin="43.12% 77.12%" tts:extent="13.75% 12.12%">- Chào bà.<br />- Chào.</p>
+            <p begin="02:11:40:19" end="02:11:41:20" style="basic" tts:origin="37.18% 83.61%" tts:extent="25.57% 5.64%">Bà không sao chứ?</p>
+            <p begin="02:11:42:00" end="02:11:43:00" style="basic" tts:origin="45.46% 83.61%" tts:extent="9.01% 5.64%">Tôi ổn.</p>
+        </div>
+    </body>
+</tt>

@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="vi" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1/text" xmlns:ebutts="urn:ebu:tt:style" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" ttp:timeBase="media" ttp:frameRate="24" ttp:frameRateMultiplier="1000 1001" tts:extent="1920px 1080px" ittp:aspectRatio="16 9">
+    <head>
+        <metadata>
+            <ttm:title>foo</ttm:title>
+            <ttm:desc>foo</ttm:desc>
+        </metadata>
+        <styling>
+            <style xml:id="basic" tts:color="white" tts:fontFamily="Arial" tts:fontSize="95.4%" tts:fontWeight="normal" tts:fontStyle="normal" tts:lineHeight="100%" />
+        </styling>
+        <layout>
+            <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+            <region xml:id="bottom" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p begin="01:50:40:13" end="01:50:43:23" style="basic" tts:origin="23.85% 77.12%" tts:extent="52.29% 12.12%">là lữ đoàn của anh ta<br />phải hút đội tăng thiết giáp và pháo binh</p>
+            <p begin="01:50:44:03" end="01:50:45:23" style="basic" tts:origin="28.33% 77.12%" tts:extent="43.28% 12.12%">cùng máy bay ném bom của địch<br />khỏi Dunkirk.</p>
+            <p begin="01:50:46:10" end="01:50:48:09" style="basic" tts:origin="29.94% 83.61%" tts:extent="40.10% 5.64%">Gọi mời cơn giận của chúng…</p>
+            <p begin="01:50:50:11" end="01:50:52:04" style="basic" tts:origin="40.15% 83.61%" tts:extent="19.63% 5.64%">và chiến đấu…</p>
+            <p begin="01:50:53:13" end="01:50:54:20" style="basic" tts:origin="40.04% 83.61%" tts:extent="19.84% 5.64%">nếu cần thiết…</p>
+            <p begin="01:50:58:16" end="01:51:02:16" style="basic" tts:origin="28.17% 77.12%" tts:extent="43.59% 12.12%">nếu cần thiết,<br />đến khi anh ta ngã xuống thì thôi.</p>
+            <p begin="01:51:04:22" end="01:51:06:19" style="basic" tts:origin="41.97% 83.61%" tts:extent="16.04% 5.64%">Đó là tự sát.</p>
+            <p begin="01:51:18:15" end="01:51:20:14" style="basic" tts:origin="41.56% 83.61%" tts:extent="16.82% 5.64%">Thủ tướng…</p>
+            <p begin="01:51:20:18" end="01:51:22:05" style="basic" tts:origin="35.88% 83.61%" tts:extent="28.17% 5.64%">Tôi thấy có chút e dè.</p>
+            <p begin="01:51:22:09" end="01:51:25:11" style="basic" tts:origin="34.72% 83.61%" tts:extent="30.46% 5.64%">Ai mà không e dè chứ?</p>
+            <p begin="01:51:25:15" end="01:51:27:18" style="basic" tts:origin="22.18% 83.61%" tts:extent="55.57% 5.64%">Về việc hi sinh một cách không cần thiết…</p>
+            <p begin="01:51:27:22" end="01:51:30:05" style="basic" tts:origin="28.43% 83.61%" tts:extent="43.12% 5.64%">khi có biện pháp thay thế sẵn có.</p>
+            <p begin="01:51:31:15" end="01:51:32:15" style="basic" tts:origin="34.01% 83.61%" tts:extent="31.97% 5.64%">Biện pháp thay thế nào?</p>
+            <p begin="01:51:33:08" end="01:51:37:10" style="basic" tts:origin="26.71% 77.12%" tts:extent="46.56% 12.12%">Ý đã đề nghị làm trung gian<br />đàm phán hòa bình giữa ta và Đức.</p>
+            <p begin="01:51:37:15" end="01:51:40:05" style="basic" tts:origin="32.76% 77.12%" tts:extent="34.42% 12.12%">Tôi đã chỉ rõ rằng,<br />miễn là tự do và độc lập…</p>
+            <p begin="01:51:40:09" end="01:51:42:00" style="basic" tts:origin="27.13% 83.61%" tts:extent="45.67% 5.64%">của Đế quốc Anh được bảo toàn…</p>
+            <p begin="01:51:42:04" end="01:51:44:10" style="basic" tts:origin="30.72% 83.61%" tts:extent="38.47% 5.64%">thì ta sẽ xem xét mọi đề xuất.</p>
+            <p begin="01:51:45:14" end="01:51:49:05" style="basic" tts:origin="29.01% 83.61%" tts:extent="41.92% 5.64%">Khi Hitler đang nắm đằng chuôi.</p>
+            <p begin="01:51:49:09" end="01:51:52:04" style="basic" tts:origin="25.78% 77.12%" tts:extent="48.38% 12.12%">Ông thực sự nghĩ là hắn sẽ tôn trọng<br />tự do và độc lập của ta sao?</p>
+            <p begin="01:51:52:08" end="01:51:54:18" style="basic" tts:origin="27.55% 83.61%" tts:extent="44.89% 5.64%">Hắn sẽ vui lòng làm thế, thưa sếp.</p>
+            <p begin="01:51:54:22" end="01:51:57:02" style="basic" tts:origin="33.54% 77.12%" tts:extent="32.90% 12.12%">-Bởi vì Đế quốc Anh…<br />-Việc duy nhất cần làm…</p>
+            <p begin="01:51:57:06" end="01:51:59:20" style="basic" tts:origin="33.69% 83.61%" tts:extent="32.60% 5.64%">là cho tên điên đó thấy…</p>
+            <p begin="01:52:00:00" end="01:52:03:13" style="basic" tts:origin="21.77% 77.12%" tts:extent="56.40% 12.12%">là hắn không thể khuất phục đảo quốc này,<br />và vì thế ta cần một đội quân!</p>
+            <p begin="01:52:03:17" end="01:52:05:06" style="basic" tts:origin="23.22% 83.61%" tts:extent="53.54% 5.64%">Đại tướng, bảo Thiếu tướng Nicholson…</p>
+            <p begin="01:52:05:10" end="01:52:06:19" style="basic" tts:origin="25.46% 83.61%" tts:extent="49.01% 5.64%">là không được cho quân Đức ra biển.</p>
+            <p begin="01:56:20:03" end="01:56:21:03" style="basic" tts:origin="42.86% 83.61%" tts:extent="14.27% 5.64%">Thưa ngài.</p>
+            <p begin="01:56:41:12" end="01:56:42:19" style="basic" tts:origin="35% 83.61%" tts:extent="30% 5.64%">Chào ngài Tổng thống.</p>
+            <p begin="01:56:42:23" end="01:56:44:04" style="basic" tts:origin="44.27% 83.61%" tts:extent="11.45% 5.64%"><span tts:fontStyle="italic">Winston.</span></p>
+            <p begin="01:56:44:08" end="01:56:45:15" style="basic" tts:origin="44.32% 83.61%" tts:extent="11.30% 5.64%">Franklin.</p>
+            <p begin="01:56:46:15" end="01:56:47:16" style="basic" tts:origin="38.33% 83.61%" tts:extent="23.28% 5.64%">Ông khỏe không?</p>
+            <p begin="01:56:47:20" end="01:56:51:00" style="basic" tts:origin="30.72% 77.12%" tts:extent="38.54% 12.12%"><span tts:fontStyle="italic">Khỏe, khỏe.</span><br /><span tts:fontStyle="italic">Ông thì sao, ngài Thủ tướng?</span></p>
+            <p begin="01:56:51:04" end="01:56:54:11" style="basic" tts:origin="25.72% 83.61%" tts:extent="48.54% 5.64%">Tôi khỏe phây phây. Phây phây luôn.</p>
+            <p begin="01:56:55:12" end="01:56:56:10" style="basic" tts:origin="42.18% 83.61%" tts:extent="15.57% 5.64%">Nghe này…</p>
+            <p begin="01:56:56:14" end="01:57:01:14" style="basic" tts:origin="26.77% 77.12%" tts:extent="46.40% 12.12%">Tôi gọi ông<br />về mấy chiếc tàu hải quân của ông.</p>
+            <p begin="01:57:01:18" end="01:57:04:17" style="basic" tts:origin="20.57% 83.61%" tts:extent="58.80% 5.64%">Không biết ông có thể cho chúng tôi mượn…</p>
+            <p begin="01:57:04:21" end="01:57:07:17" style="basic" tts:origin="27.86% 83.61%" tts:extent="44.27% 5.64%">thêm 50 chiếc tàu khu trục không.</p>
+            <p begin="01:57:07:22" end="01:57:11:01" style="basic" tts:origin="33.59% 83.61%" tts:extent="32.76% 5.64%">Hoặc 40 thôi cũng tốt rồi.</p>
+            <p begin="01:57:11:05" end="01:57:15:06" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%"><span tts:fontStyle="italic">À, tôi đã hỏi quanh rồi…</span></p>
+            <p begin="01:57:15:10" end="01:57:18:20" style="basic" tts:origin="26.82% 83.61%" tts:extent="46.35% 5.64%"><span tts:fontStyle="italic">nhưng mà không được, tôi e là vậy.</span></p>
+            <p begin="01:57:19:00" end="01:57:23:13" style="basic" tts:origin="22.29% 77.12%" tts:extent="55.41% 12.12%"><span tts:fontStyle="italic">Đạo luật Trung lập chúng tôi ký năm ngoái</span><br /><span tts:fontStyle="italic">đã trói tay tôi rồi.</span></p>
+            <p begin="01:57:23:17" end="01:57:25:08" style="basic" tts:origin="36.97% 83.61%" tts:extent="26.04% 5.64%"><span tts:fontStyle="italic">Đành phải chịu thôi.</span></p>
+            <p begin="01:57:25:12" end="01:57:26:20" style="basic" tts:origin="41.45% 83.61%" tts:extent="17.03% 5.64%"><span tts:fontStyle="italic">Tôi đã cố rồi.</span></p>
+            <p begin="01:57:27:00" end="01:57:28:14" style="basic" tts:origin="42.44% 83.61%" tts:extent="15.05% 5.64%">À, liệu tôi…</p>
+            <p begin="01:57:30:15" end="01:57:34:18" style="basic" tts:origin="28.54% 83.61%" tts:extent="42.91% 5.64%">Liệu tôi có được ông cho phép…</p>
+            <p begin="01:57:34:22" end="01:57:37:01" style="basic" tts:origin="34.84% 83.61%" tts:extent="30.31% 5.64%">phái một tàu sân bay…</p>
+            <p begin="01:57:37:05" end="01:57:40:22" style="basic" tts:origin="25.31% 77.12%" tts:extent="49.32% 12.12%">đến đón mấy chiến đấu cơ P-40<br />mà chúng tôi đã mua của ông không?</p>
+            <p begin="01:57:44:14" end="01:57:46:05" style="basic" tts:origin="38.69% 83.61%" tts:extent="22.60% 5.64%">Ngài Tổng thống.</p>
+            <p begin="01:57:46:09" end="01:57:49:08" style="basic" tts:origin="30.26% 83.61%" tts:extent="39.47% 5.64%"><span tts:fontStyle="italic">Ông lại làm tôi khó xử nữa rồi.</span></p>
+            <p begin="01:57:49:12" end="01:57:53:18" style="basic" tts:origin="35% 77.12%" tts:extent="29.94% 12.12%"><span tts:fontStyle="italic">Luật mới cấm sang tàu</span><br /><span tts:fontStyle="italic">thiết bị quân sự.</span></p>
+            <p begin="01:57:53:23" end="01:57:56:02" style="basic" tts:origin="29.27% 83.61%" tts:extent="41.45% 5.64%">Nhưng chúng tôi đã trả tiền mà.</p>
+            <p begin="01:57:56:06" end="01:58:00:16" style="basic" tts:origin="28.85% 77.12%" tts:extent="42.29% 12.12%">Chúng tôi đã mua chúng,<br />bằng tiền chúng tôi vay các ông.</p>
+            <p begin="01:58:00:20" end="01:58:03:20" style="basic" tts:origin="36.56% 83.61%" tts:extent="26.87% 5.64%"><span tts:fontStyle="italic">Tôi rất tiếc, Winston.</span></p>
+            <p begin="01:58:08:07" end="01:58:11:08" style="basic" tts:origin="38.90% 84.25%" tts:extent="51.09% 5.64%">Tôi không cần phải giải thích với ông…</p>
+            <p begin="01:58:12:09" end="01:58:16:14" style="basic" tts:origin="44.37% 84.25%" tts:extent="45.57% 5.64%">rắc rối mà Tây Bán cầu gặp phải…</p>
+            <p begin="01:58:18:03" end="01:58:21:12" style="basic" tts:origin="42.96% 84.25%" tts:extent="47.03% 5.64%">khi không có sự hỗ trợ của các ông.</p>
+            <p begin="01:58:21:16" end="01:58:23:21" style="basic" tts:origin="58.07% 83.61%" tts:extent="21.77% 5.64%"><span tts:fontStyle="italic">Tôi biết. Tôi biết.</span></p>
+            <p begin="01:58:24:01" end="01:58:26:18" style="basic" tts:origin="45.67% 83.61%" tts:extent="44.27% 5.64%"><span tts:fontStyle="italic">Lúc nào tôi cũng nghĩ đến ông cả.</span></p>
+            <p begin="01:58:29:04" end="01:58:32:17" style="basic" tts:origin="52.60% 83.61%" tts:extent="37.34% 5.64%"><span tts:fontStyle="italic">Nghe này, chúng ta có thể…</span></p>
+            <p begin="01:58:32:22" end="01:58:36:05" style="basic" tts:origin="59.01% 77.12%" tts:extent="25.88% 12.12%">-Ngài Tổng thống.<br /><span tts:fontStyle="italic">-Ý tôi muốn nói là…</span></p>
+            <p begin="01:58:36:09" end="01:58:39:09" style="basic" tts:origin="55.26% 83.61%" tts:extent="33.43% 5.64%">Chúng tôi đang đối mặt…</p>
+            <p begin="01:58:40:12" end="01:58:41:14" style="basic" tts:origin="35.40% 84.25%" tts:extent="54.53% 5.64%">với mức chênh lệch lực lượng trầm trọng.</p>
+            <p begin="01:58:41:18" end="01:58:46:17" style="basic" tts:origin="34.89% 77.77%" tts:extent="55.05% 12.12%"><span tts:fontStyle="italic">Chúng tôi có thể chuyển máy bay của ông</span><br /><span tts:fontStyle="italic">tới cách biên giới Canada một dặm.</span></p>
+            <p begin="01:58:46:21" end="01:58:51:13" style="basic" tts:origin="52.50% 77.12%" tts:extent="37.50% 12.12%"><span tts:fontStyle="italic">Sau đó, ông có thể gửi</span><br /><span tts:fontStyle="italic">một đoàn ngựa từ Canada…</span></p>
+            <p begin="01:58:51:17" end="01:58:53:04" style="basic" tts:origin="54.47% 83.61%" tts:extent="35.52% 5.64%"><span tts:fontStyle="italic">cấm tiệt các loại động cơ…</span></p>
+            <p begin="01:58:53:08" end="01:58:56:09" style="basic" tts:origin="46.82% 77.77%" tts:extent="43.12% 12.12%"><span tts:fontStyle="italic">rồi ông có thể tự mình kéo chúng</span><br /><span tts:fontStyle="italic">qua khỏi biên giới.</span></p>
+            <p begin="01:58:58:05" end="01:59:00:05" style="basic" tts:origin="57.44% 83.61%" tts:extent="27.08% 5.64%"><span tts:fontStyle="italic">Vậy có được không?</span></p>
+            <p begin="01:59:03:07" end="01:59:04:08" style="basic" tts:origin="61.25% 83.61%" tts:extent="15.41% 5.64%">Ngựa ấy à?</p>
+            <p begin="01:59:06:19" end="01:59:11:00" style="basic" tts:origin="45.72% 84.25%" tts:extent="44.21% 5.64%">Ông mới nói là một đoàn ngựa à?</p>
+            <p begin="01:59:11:23" end="01:59:15:02" style="basic" tts:origin="50.88% 83.61%" tts:extent="39.11% 5.64%"><span tts:fontStyle="italic">Ông tự ra đẩy cũng được vậy.</span></p>
+            <p begin="01:59:15:07" end="01:59:16:22" style="basic" tts:origin="58.54% 83.61%" tts:extent="30.88% 5.64%"><span tts:fontStyle="italic">Mấy thứ đó có bánh cả.</span></p>
+            <p begin="01:59:20:02" end="01:59:21:05" style="basic" tts:origin="41.45% 83.61%" tts:extent="17.03% 5.64%"><span tts:fontStyle="italic">Tùy ông thôi.</span></p>
+            <p begin="01:59:25:01" end="01:59:27:16" style="basic" tts:origin="33.33% 77.12%" tts:extent="33.28% 12.12%"><span tts:fontStyle="italic">Chúng tôi có thể làm vậy,</span><br /><span tts:fontStyle="italic">ngài Thủ tướng ạ.</span></p>
+            <p begin="01:59:31:04" end="01:59:32:12" style="basic" tts:origin="38.90% 83.61%" tts:extent="22.13% 5.64%"><span tts:fontStyle="italic">Ngài Thủ tướng?</span></p>
+            <p begin="01:59:36:17" end="01:59:40:06" style="basic" tts:origin="30.72% 77.12%" tts:extent="38.47% 12.12%">Bất cứ việc gì ông có thể làm<br />vào thời điểm này, Franklin…</p>
+            <p begin="01:59:40:10" end="01:59:42:13" style="basic" tts:origin="32.22% 83.61%" tts:extent="35.52% 5.64%">đều được hoan nghênh cả.</p>
+            <p begin="01:59:42:17" end="01:59:45:08" style="basic" tts:origin="30.57% 83.61%" tts:extent="38.85% 5.64%"><span tts:fontStyle="italic">Chúc ông ngủ ngon, Winston.</span></p>
+            <p begin="01:59:45:12" end="01:59:47:14" style="basic" tts:origin="31.40% 83.61%" tts:extent="37.13% 5.64%"><span tts:fontStyle="italic">Ở bên đó chắc là trễ lắm rồi.</span></p>
+            <p begin="01:59:48:14" end="01:59:53:10" style="basic" tts:origin="28.69% 77.12%" tts:extent="42.55% 12.12%"><span tts:fontStyle="italic">Trễ hơn nhiều</span><br /><span tts:fontStyle="italic">so với mức ông hình dung được.</span></p>
+            <p begin="02:00:27:18" end="02:00:29:01" style="basic" tts:origin="39.15% 83.61%" tts:extent="21.61% 5.64%">Ngài Thủ tướng.</p>
+            <p begin="02:00:29:05" end="02:00:30:05" style="basic" tts:origin="38.79% 83.61%" tts:extent="22.39% 5.64%">Ngài Thủ tướng?</p>
+            <p begin="02:00:39:00" end="02:00:42:00" style="basic" tts:origin="22.44% 83.61%" tts:extent="55.05% 5.64%">Gọi Đô đốc Ramsay cho tôi, được không?</p>
+            <p begin="02:00:42:04" end="02:00:43:21" style="basic" tts:origin="34.89% 83.61%" tts:extent="30.15% 5.64%">Vâng, thưa Thủ tướng.</p>
+            <p begin="02:00:44:01" end="02:00:46:10" style="basic" tts:origin="26.09% 83.61%" tts:extent="47.81% 5.64%">Nối máy cho tôi với Đô đốc Ramsay.</p>
+            <p begin="02:01:05:18" end="02:01:07:00" style="basic" tts:origin="39.11% 83.61%" tts:extent="21.77% 5.64%">Đô đốc Ramsay.</p>
+            <p begin="02:01:07:04" end="02:01:08:18" style="basic" tts:origin="33.95% 83.61%" tts:extent="32.08% 5.64%">Ngài Thủ tướng gọi ông.</p>
+            <p begin="02:01:10:03" end="02:01:11:03" style="basic" tts:origin="44.11% 83.61%" tts:extent="11.77% 5.64%">Bertie à?</p>
+            <p begin="02:01:12:03" end="02:01:15:06" style="basic" tts:origin="23.85% 83.61%" tts:extent="52.29% 5.64%">Bertie, hi vọng tôi không đánh thức ông.</p>
+            <p begin="02:01:15:10" end="02:01:18:05" style="basic" tts:origin="21.56% 83.61%" tts:extent="56.87% 5.64%">Không hề. Tôi đang đọc Kinh Thánh ấy mà.</p>
+            <p begin="02:01:18:22" end="02:01:20:04" style="basic" tts:origin="37.39% 83.61%" tts:extent="25.20% 5.64%">Đoạn rời Ai Cập à?</p>
+            <p begin="02:01:21:14" end="02:01:23:03" style="basic" tts:origin="38.59% 83.61%" tts:extent="22.76% 5.64%">Nghe này, Bertie.</p>
+            <p begin="02:01:23:07" end="02:01:25:22" style="basic" tts:origin="31.09% 83.61%" tts:extent="37.81% 5.64%">Chúng ta phải sơ tán binh sĩ.</p>
+            <p begin="02:01:26:02" end="02:01:29:14" style="basic" tts:origin="21.66% 77.12%" tts:extent="56.66% 12.12%">Bên Hải quân nói rằng<br />với một tàu tuần dương và sáu tàu khu trục</p>
+            <p begin="02:01:29:18" end="02:01:33:06" style="basic" tts:origin="33.02% 77.12%" tts:extent="33.90% 12.12%">khi mà Không quân Đức<br />đang kiểm soát bầu trời…</p>
+            <p begin="02:02:55:03" end="02:02:56:19" style="basic" tts:origin="43.12% 83.61%" tts:extent="13.75% 5.64%">Tập luyện.</p>
+            <p begin="02:03:15:05" end="02:03:18:12" style="basic" tts:origin="35.04% 83.61%" tts:extent="29.84% 5.64%">Ta muốn bàn bạc về…</p>
+            <p begin="02:03:19:08" end="02:03:22:14" style="basic" tts:origin="28.02% 83.61%" tts:extent="43.90% 5.64%">Ta đã được hỏi là có nên rút lui…</p>
+            <p begin="02:03:22:18" end="02:03:25:08" style="basic" tts:origin="33.43% 83.61%" tts:extent="33.07% 5.64%">sơ tán ta và gia đình ta…</p>
+            <p begin="02:03:25:13" end="02:03:27:08" style="basic" tts:origin="37.86% 83.61%" tts:extent="24.21% 5.64%">tới Canada không.</p>
+            <p begin="02:03:28:02" end="02:03:30:07" style="basic" tts:origin="23.54% 83.61%" tts:extent="52.91% 5.64%">Ta muốn biết quan điểm của Thủ tướng.</p>
+            <p begin="02:03:32:11" end="02:03:37:06" style="basic" tts:origin="27.70% 77.12%" tts:extent="44.58% 12.12%">Quan điểm của tôi là ngài hãy làm<br />điều ngài thấy là đúng cho ngài,</p>
+            <p begin="02:03:37:10" end="02:03:41:01" style="basic" tts:origin="27.18% 83.61%" tts:extent="45.57% 5.64%">cho gia đình ngài, và cho quốc gia.</p>
+            <p begin="02:03:41:22" end="02:03:44:14" style="basic" tts:origin="26.56% 83.61%" tts:extent="46.87% 5.64%">Việc ngài sống sót là tối quan trọng.</p>
+            <p begin="02:03:45:10" end="02:03:46:18" style="basic" tts:origin="35.52% 83.61%" tts:extent="28.95% 5.64%">Mấy ông Thủ tướng…</p>
+            <p begin="02:03:47:14" end="02:03:51:02" style="basic" tts:origin="33.33% 77.12%" tts:extent="33.28% 12.12%">Có vẻ chúng tôi đến và đi<br />ở một tỷ lệ cực kỳ cao.</p>
+            <p begin="02:03:51:06" end="02:03:54:17" style="basic" tts:origin="31.87% 83.61%" tts:extent="36.19% 5.64%">Vị trí của ông ở Nghị viện…</p>
+            <p begin="02:03:54:21" end="02:03:56:22" style="basic" tts:origin="28.59% 83.61%" tts:extent="42.76% 5.64%">ta nghe nói là không được vững.</p>
+            <p begin="02:03:58:22" end="02:04:02:10" style="basic" tts:origin="34.47% 83.61%" tts:extent="30.98% 5.64%">Đảng của tôi tức giận…</p>
+            <p begin="02:04:02:14" end="02:04:06:17" style="basic" tts:origin="27.81% 83.61%" tts:extent="44.37% 5.64%">với cách Chamberlain bị đá ra rìa.</p>
+            <p begin="02:04:06:22" end="02:04:08:19" style="basic" tts:origin="25.57% 83.61%" tts:extent="48.80% 5.64%">Và rất nhiều người khác nghi ngờ tôi.</p>
+            <p begin="02:04:08:23" end="02:04:10:17" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%">Họ muốn Halifax tại vị…</p>
+            <p begin="02:04:10:21" end="02:04:14:07" style="basic" tts:origin="26.09% 77.12%" tts:extent="47.81% 12.12%">nhưng sao lại bỏ một người giỏi việc<br />và thay bằng một con khỉ cơ chứ?</p>
+            <p begin="02:04:14:11" end="02:04:18:09" style="basic" tts:origin="22.29% 83.61%" tts:extent="55.36% 5.64%">Ngài Halifax là một người bạn thân của ta.</p>
+            <p begin="02:04:23:15" end="02:04:25:09" style="basic" tts:origin="35.72% 83.61%" tts:extent="28.48% 5.64%">Không ai muốn tôi cả.</p>
+            <p begin="02:04:28:01" end="02:04:31:15" style="basic" tts:origin="30.41% 77.12%" tts:extent="39.11% 12.12%">Tôi chưa từng được tin tưởng<br />kể từ hồi chiến dịch Gallipoli.</p>
+            <p begin="02:04:33:00" end="02:04:34:23" style="basic" tts:origin="39.68% 83.61%" tts:extent="20.62% 5.64%">Không ai muốn.</p>
+            <p begin="02:04:35:03" end="02:04:37:10" style="basic" tts:origin="28.85% 83.61%" tts:extent="42.23% 5.64%">Có lẽ là tại ông làm người ta sợ.</p>
+            <p begin="02:04:37:14" end="02:04:38:13" style="basic" tts:origin="45.72% 83.61%" tts:extent="8.48% 5.64%">Ai sợ?</p>
+            <p begin="02:04:38:17" end="02:04:39:22" style="basic" tts:origin="37.44% 83.61%" tts:extent="25.05% 5.64%">Ông làm ta sợ này.</p>
+            <p begin="02:04:41:03" end="02:04:42:17" style="basic" tts:origin="41.97% 83.61%" tts:extent="16.04% 5.64%">Vớ vẩn quá.</p>
+            <p begin="02:04:44:15" end="02:04:47:23" style="basic" tts:origin="27.96% 83.61%" tts:extent="44.06% 5.64%">Tôi thì có cái gì mà đáng sợ chứ?</p>
+            <p begin="02:04:48:04" end="02:04:50:23" style="basic" tts:origin="23.75% 83.61%" tts:extent="52.44% 5.64%">Chẳng ai biết ông chuẩn bị nói cái gì cả.</p>
+            <p begin="02:04:51:03" end="02:04:52:17" style="basic" tts:origin="34.68% 83.61%" tts:extent="30.62% 5.64%">Có lúc là lời tâng bốc…</p>
+            <p begin="02:04:52:21" end="02:04:54:17" style="basic" tts:origin="32.96% 83.61%" tts:extent="34.06% 5.64%">đôi khi lại gây động chạm.</p>
+            <p begin="02:05:00:01" end="02:05:03:12" style="basic" tts:origin="26.25% 83.61%" tts:extent="47.50% 5.64%">Cảm xúc của tôi khó khống chế lắm.</p>
+            <p begin="02:05:05:06" end="02:05:08:14" style="basic" tts:origin="30.83% 83.61%" tts:extent="38.33% 5.64%">Sự điên cuồng ăn vào máu…</p>
+            <p begin="02:05:08:18" end="02:05:11:05" style="basic" tts:origin="36.97% 83.61%" tts:extent="26.04% 5.64%">giống như bố tôi ấy.</p>
+            <p begin="02:05:12:14" end="02:05:15:02" style="basic" tts:origin="38.33% 83.61%" tts:extent="23.28% 5.64%">Và cả mẹ tôi nữa.</p>
+            <p begin="02:05:15:06" end="02:05:19:02" style="basic" tts:origin="24.16% 83.61%" tts:extent="51.61% 5.64%">Nhà chúng tôi thiếu kiềm chế bẩm sinh.</p>
+            <p begin="02:05:20:13" end="02:05:22:14" style="basic" tts:origin="26.71% 83.61%" tts:extent="46.51% 5.64%">Ông có thân thiết với hai cụ không?</p>
+            <p begin="02:05:22:18" end="02:05:26:04" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%">Mẹ tôi thì rất quyến rũ…</p>
+            <p begin="02:05:27:09" end="02:05:29:19" style="basic" tts:origin="25.15% 83.61%" tts:extent="49.63% 5.64%">nhưng có lẽ là trái tim hơi nhiều ngăn.</p>
+            <p begin="02:05:31:10" end="02:05:34:13" style="basic" tts:origin="32.13% 83.61%" tts:extent="35.72% 5.64%">Bố tôi thì y hệt như Chúa…</p>
+            <p begin="02:05:34:17" end="02:05:36:21" style="basic" tts:origin="29.27% 83.61%" tts:extent="41.45% 5.64%">bận toàn việc ở đâu đâu không.</p>
+            <p begin="02:06:20:00" end="02:06:21:17" style="basic" tts:origin="29.73% 77.12%" tts:extent="40.46% 12.12%">-Chúc các vị một ngày tốt lành.<br />-Ngài Thủ tướng.</p>
+            <p begin="02:06:21:21" end="02:06:27:12" style="basic" tts:origin="27.81% 77.12%" tts:extent="44.32% 12.12%">Tôi đã mời Bộ trưởng Chiến tranh<br />tham gia cùng chúng ta.</p>
+            <p begin="02:06:28:14" end="02:06:30:10" style="basic" tts:origin="38.17% 83.61%" tts:extent="23.59% 5.64%">Neville, vui lòng…</p>
+            <p begin="02:06:30:14" end="02:06:32:04" style="basic" tts:origin="44.16% 83.61%" tts:extent="11.61% 5.64%">Anthony.</p>
+            <p begin="02:06:34:01" end="02:06:39:02" style="basic" tts:origin="24.11% 83.61%" tts:extent="51.77% 5.64%">Rõ ràng, chúng ta đang gặp hiểm cảnh.</p>
+            <p begin="02:06:39:06" end="02:06:41:03" style="basic" tts:origin="20.14% 83.61%" tts:extent="59.63% 5.64%">Nhưng tôi đã được Thủ tướng Pháp đảm bảo</p>
+            <p begin="02:06:41:07" end="02:06:46:22" style="basic" tts:origin="26.30% 77.12%" tts:extent="47.34% 12.12%">là có mấy đơn vị tăng thiết giáp Đức<br />đã đến được bờ biển</p>
+            <p begin="02:06:47:02" end="02:06:50:01" style="basic" tts:origin="31.87% 77.12%" tts:extent="36.19% 12.12%">nhưng tình hình chung<br />có vẻ là được kiểm soát cả.</p>
+            <p begin="02:06:50:05" end="02:06:52:05" style="basic" tts:origin="33.38% 83.61%" tts:extent="33.22% 5.64%">Tin tức ở Calais thế nào?</p>
+            <p begin="02:06:52:10" end="02:06:54:04" style="basic" tts:origin="32.86% 77.12%" tts:extent="34.27% 12.12%">Quân đồn trú đã tấn công,<br />nhưng đã bị đẩy lùi…</p>
+            <p begin="02:06:54:08" end="02:06:57:06" style="basic" tts:origin="25.26% 83.61%" tts:extent="49.42% 5.64%">và giờ đang bị bao vây từ mọi hướng.</p>
+            <p begin="02:06:57:10" end="02:07:00:02" style="basic" tts:origin="20.26% 83.61%" tts:extent="59.47% 5.64%">Họ bị nã pháo và dội bom một cách tàn nhẫn.</p>
+            <p begin="02:07:00:06" end="02:07:02:00" style="basic" tts:origin="35.20% 83.61%" tts:extent="29.58% 5.64%">Thương vong tới 60%.</p>
+            <p begin="02:07:13:06" end="02:07:15:05" style="basic" tts:origin="39.15% 83.61%" tts:extent="21.61% 5.64%">Ngài Thủ tướng.</p>
+            <p begin="02:07:15:09" end="02:07:16:20" style="basic" tts:origin="31.77% 83.61%" tts:extent="36.40% 5.64%">Vấn đề đàm phán hòa bình.</p>
+            <p begin="02:07:18:02" end="02:07:20:04" style="basic" tts:origin="28.02% 83.61%" tts:extent="43.95% 5.64%">Chúng ta phải giữ vững tinh thần.</p>
+            <p begin="02:07:20:08" end="02:07:25:02" style="basic" tts:origin="26.35% 77.12%" tts:extent="47.23% 12.12%">Phải tỏ ra rằng<br />chúng ta dự định sẽ đánh đến cùng.</p>
+            <p begin="02:07:25:06" end="02:07:29:03" style="basic" tts:origin="24.27% 77.12%" tts:extent="51.45% 12.12%">-Đề nghị hòa bình cho thấy ta yếu đuối.<br />-Tôi nhất trí.</p>
+            <p begin="02:07:29:07" end="02:07:30:14" style="basic" tts:origin="32.03% 83.61%" tts:extent="35.88% 5.64%">Và cho dù chúng ta có thua</p>
+            <p begin="02:07:30:18" end="02:07:34:16" style="basic" tts:origin="26.09% 77.12%" tts:extent="47.81% 12.12%">thì cũng đỡ hơn<br />so với khi ta từ bỏ đấu tranh lúc này.</p>
+            <p begin="02:07:34:21" end="02:07:39:15" style="basic" tts:origin="25.57% 83.61%" tts:extent="48.80% 5.64%">Cho nên hãy tránh bị kéo trượt dốc…</p>
+            <p begin="02:07:39:19" end="02:07:42:02" style="basic" tts:origin="24.84% 77.12%" tts:extent="50.26% 12.12%">với việc nói về<br />một thứ hòa bình được thương lượng.</p>
+            <p begin="02:07:42:06" end="02:07:44:06" style="basic" tts:origin="29.27% 83.61%" tts:extent="41.40% 5.64%">Trượt dốc sao? Dốc duy nhất…</p>
+            <p begin="02:07:44:10" end="02:07:47:10" style="basic" tts:origin="33.28% 77.12%" tts:extent="33.38% 12.12%">-Tôi ngờ là Ý và Đức…<br />-Cái dốc trượt duy nhất…</p>
+            <p begin="02:07:47:14" end="02:07:49:23" style="basic" tts:origin="20.57% 83.61%" tts:extent="58.85% 5.64%">…muốn kéo chúng ta dấn sâu vào đàm phán</p>
+            <p begin="02:07:50:03" end="02:07:52:15" style="basic" tts:origin="25.31% 83.61%" tts:extent="49.32% 5.64%">đến mức chúng ta không thể quay lại.</p>
+            <p begin="02:07:52:19" end="02:07:53:23" style="basic" tts:origin="27.23% 83.61%" tts:extent="45.46% 5.64%">Vớ vẩn. Bastianini đã báo với tôi…</p>
+            <p begin="02:07:54:03" end="02:07:54:23" style="basic" tts:origin="41.25% 83.61%" tts:extent="17.50% 5.64%">Tôi đề nghị…</p>
+            <p begin="02:07:55:03" end="02:07:56:03" style="basic" tts:origin="33.79% 83.61%" tts:extent="32.39% 5.64%">Cái dốc trượt duy nhất…</p>
+            <p begin="02:07:56:07" end="02:07:59:21" style="basic" tts:origin="23.12% 77.12%" tts:extent="53.75% 12.12%">Ông đừng chặn họng tôi<br />khi tôi đang chặn họng ông được không?</p>
+            <p begin="02:08:03:13" end="02:08:05:02" style="basic" tts:origin="27.44% 83.61%" tts:extent="45.05% 5.64%">Khi tôi chọn Nội các Chiến tranh…</p>
+            <p begin="02:08:05:06" end="02:08:09:00" style="basic" tts:origin="23.54% 77.12%" tts:extent="52.91% 12.12%">tôi đã rất cẩn trọng<br />khi chọn các đối thủ cũ bao quanh mình.</p>
+            <p begin="02:08:09:23" end="02:08:11:10" style="basic" tts:origin="33.95% 83.61%" tts:extent="32.08% 5.64%">Chắc chọn hơi nhiều rồi.</p>
+            <p begin="02:08:12:10" end="02:08:15:18" style="basic" tts:origin="32.76% 77.12%" tts:extent="34.42% 12.12%">Tử tước Halifax,<br />cách tiếp cận ông đề xuất,</p>
+            <p begin="02:08:15:23" end="02:08:17:21" style="basic" tts:origin="40.15% 83.61%" tts:extent="19.63% 5.64%">nó không chỉ…</p>
+            <p begin="02:08:18:01" end="02:08:20:02" style="basic" tts:origin="41.61% 83.61%" tts:extent="16.71% 5.64%">vừa vô ích…</p>
+            <p begin="02:08:20:06" end="02:08:22:05" style="basic" tts:origin="23.69% 83.61%" tts:extent="52.60% 5.64%">mà lại kéo ta vào nguy hiểm chết người.</p>
+            <p begin="02:08:22:09" end="02:08:26:07" style="basic" tts:origin="31.25% 77.12%" tts:extent="37.44% 12.12%">Nguy hiểm chết người ở đây<br />là ảo tưởng lãng mạn…</p>
+            <p begin="02:08:26:11" end="02:08:28:23" style="basic" tts:origin="31.71% 83.61%" tts:extent="36.56% 5.64%">về việc chiến đấu đến cùng.</p>
+            <p begin="02:16:20:02" end="02:16:22:07" style="basic" tts:origin="37.44% 83.61%" tts:extent="25.05% 5.64%">Mọi người ổn chứ?</p>
+            <p begin="02:16:35:03" end="02:16:37:21" style="basic" tts:origin="28.90% 83.61%" tts:extent="42.13% 5.64%"><span tts:fontStyle="italic">Việc rút quân của ông, tuy vậy...</span></p>
+            <p begin="02:16:38:02" end="02:16:41:04" style="basic" tts:origin="38.69% 83.61%" tts:extent="22.60% 5.64%"><span tts:fontStyle="italic">sẽ không diễn ra.</span></p>
+            <p begin="02:16:42:12" end="02:16:43:23" style="basic" tts:origin="41.25% 83.61%" tts:extent="17.50% 5.64%"><span tts:fontStyle="italic">Tôi nhắc lại...</span></p>
+            <p begin="02:16:44:03" end="02:16:46:01" style="basic" tts:origin="38.69% 83.61%" tts:extent="22.60% 5.64%"><span tts:fontStyle="italic">sẽ không diễn ra.</span></p>
+            <p begin="02:17:12:10" end="02:17:14:01" style="basic" tts:origin="36.61% 83.61%" tts:extent="26.71% 5.64%">CALAIS THẤT THỦ.</p>
+            <p begin="02:17:14:05" end="02:17:18:02" style="basic" tts:origin="21.92% 77.12%" tts:extent="56.09% 12.12%">KHÔNG RÕ SỐ TỬ VONG HOẶC BỊ BẮT.<br />TƯỚNG GORT.</p>
+            <p begin="02:17:32:10" end="02:17:34:15" style="basic" tts:origin="39.01% 83.61%" tts:extent="21.92% 5.64%">Ôi đi ngủ đi Heo.</p>
+            <p begin="02:17:36:06" end="02:17:38:07" style="basic" tts:origin="40.88% 83.61%" tts:extent="18.17% 5.64%">Anh phải ngủ.</p>
+            <p begin="02:17:40:12" end="02:17:42:08" style="basic" tts:origin="35.31% 83.61%" tts:extent="29.32% 5.64%">Mặc kệ anh, Clemmie.</p>
+            <p begin="02:17:42:16" end="02:17:45:20" style="basic" tts:origin="37.70% 77.12%" tts:extent="24.53% 12.12%">Cơ hội cho việc đó<br />đã qua từ rất lâu.</p>
+            <p begin="02:18:17:09" end="02:18:19:20" style="basic" tts:origin="30.62% 83.61%" tts:extent="38.69% 5.64%"><span tts:fontStyle="italic">Tổng đài. Tôi nói máy cho ai?</span></p>
+            <p begin="02:18:20:00" end="02:18:22:07" style="basic" tts:origin="35.72% 77.12%" tts:extent="28.48% 12.12%">-Cho tôi gặp Ramsay.<br /><span tts:fontStyle="italic">-Vui lòng đợi.</span></p>
+            <p begin="02:18:24:02" end="02:18:25:16" style="basic" tts:origin="44.84% 77.12%" tts:extent="10.31% 12.12%">-Bertie?<br /><span tts:fontStyle="italic">-Vâng?</span></p>
+            <p begin="02:18:25:20" end="02:18:27:10" style="basic" tts:origin="37.81% 83.61%" tts:extent="24.37% 5.64%">Câu trả lời ra sao?</p>
+            <p begin="02:18:27:14" end="02:18:28:17" style="basic" tts:origin="35.10% 83.61%" tts:extent="29.79% 5.64%"><span tts:fontStyle="italic">Việc này cần thời gian.</span></p>
+            <p begin="02:18:28:21" end="02:18:30:03" style="basic" tts:origin="32.60% 83.61%" tts:extent="34.72% 5.64%"><span tts:fontStyle="italic">Còn quá sớm để đánh giá.</span></p>
+            <p begin="02:18:30:07" end="02:18:31:20" style="basic" tts:origin="33.54% 83.61%" tts:extent="32.90% 5.64%">Có bao nhiêu thuyền rồi?</p>
+            <p begin="02:18:32:00" end="02:18:33:15" style="basic" tts:origin="29.16% 83.61%" tts:extent="41.61% 5.64%"><span tts:fontStyle="italic">Winston, việc này cần thời gian.</span></p>
+            <p begin="02:18:33:19" end="02:18:37:07" style="basic" tts:origin="32.03% 77.12%" tts:extent="35.88% 12.12%">Yêu cầu tàu dân sự, Bertie,<br />không phải là yêu cầu!</p>
+            <p begin="02:18:37:11" end="02:18:39:11" style="basic" tts:origin="42.96% 83.61%" tts:extent="14.06% 5.64%">Đó là lệnh!</p>
+            <p begin="02:18:46:00" end="02:18:47:00" style="basic" tts:origin="39.11% 83.61%" tts:extent="21.77% 5.64%">26 THÁNG NĂM</p>
+            <p begin="02:18:47:04" end="02:18:50:07" style="basic" tts:origin="39.11% 83.61%" tts:extent="21.77% 5.64%">27 THÁNG NĂM</p>
+            <p begin="02:18:55:08" end="02:18:56:22" style="basic" tts:origin="42.34% 77.12%" tts:extent="15.26% 12.12%">-Cô Layton.<br />-Thưa ngài.</p>
+            <p begin="02:18:57:17" end="02:18:59:11" style="basic" tts:origin="39.15% 83.61%" tts:extent="21.61% 5.64%">Tôi cần liên hệ...</p>
+            <p begin="02:19:00:03" end="02:19:01:05" style="basic" tts:origin="44.42% 83.61%" tts:extent="11.14% 5.64%">liên hệ...</p>
+            <p begin="02:19:01:23" end="02:19:03:19" style="basic" tts:origin="39.53% 83.61%" tts:extent="20.93% 5.64%">nói chuyện tới...</p>
+            <p begin="02:19:05:09" end="02:19:07:19" style="basic" tts:origin="40.83% 77.12%" tts:extent="18.32% 12.12%">-Tới?<br />-Ba giờ chiều.</p>
+            <p begin="02:19:07:23" end="02:19:09:04" style="basic" tts:origin="39.68% 83.61%" tts:extent="20.62% 5.64%">Ba giờ chiều ạ?</p>
+            <p begin="02:19:10:03" end="02:19:11:08" style="basic" tts:origin="46.61% 83.61%" tts:extent="6.71% 5.64%">Phải.</p>
+            <p begin="02:19:12:03" end="02:19:14:17" style="basic" tts:origin="23.69% 83.61%" tts:extent="52.60% 5.64%">Phải. Yêu cầu các đài chỉ huy triệu tập...</p>
+            <p begin="02:19:15:21" end="02:19:17:00" style="basic" tts:origin="42.44% 83.61%" tts:extent="15.05% 5.64%">Ôi Chúa ơi.</p>
+            <p begin="02:19:17:04" end="02:19:19:06" style="basic" tts:origin="25.83% 83.61%" tts:extent="48.33% 5.64%">Nội các Chiến tranh lúc ba giờ chiều.</p>
+            <p begin="02:19:19:10" end="02:19:20:08" style="basic" tts:origin="44.27% 83.61%" tts:extent="11.40% 5.64%">Cảm ơn!</p>
+            <p begin="02:19:25:01" end="02:19:25:23" style="basic" tts:origin="42.86% 83.61%" tts:extent="14.27% 5.64%">Thưa ngài.</p>
+            <p begin="02:19:26:19" end="02:19:29:03" style="basic" tts:origin="28.95% 83.61%" tts:extent="42.08% 5.64%">Từ ngài Gort ở Pháp, thưa ngài.</p>
+            <p begin="02:19:34:03" end="02:19:36:11" style="basic" tts:origin="40.88% 83.61%" tts:extent="18.17% 5.64%">Bỉ đã thất thủ.</p>
+            <p begin="02:19:38:08" end="02:19:41:14" style="basic" tts:origin="30.57% 83.61%" tts:extent="38.85% 5.64%">Họ sẽ đầu hàng lúc nửa đêm.</p>
+            <p begin="02:19:44:12" end="02:19:46:17" style="basic" tts:origin="29.47% 83.61%" tts:extent="41.04% 5.64%">Nước Pháp sẽ sớm theo bước.</p>
+            <p begin="02:19:59:09" end="02:20:02:05" style="basic" tts:origin="25.72% 77.12%" tts:extent="48.54% 12.12%">Chúng ta nhận được các báo cáo<br />rằng nhiều khả năng cách tấn công...</p>
+            <p begin="02:20:02:09" end="02:20:04:22" style="basic" tts:origin="31.66% 77.12%" tts:extent="36.65% 12.12%">quân Đức có thể dùng<br />để chống lại đất nước này...</p>
+            <p begin="02:20:05:16" end="02:20:09:09" style="basic" tts:origin="29.37% 77.12%" tts:extent="41.25% 12.12%">là một hạm đội lớn thuyền máy,<br />có thể lên đến 200...</p>
+            <p begin="02:20:09:13" end="02:20:13:12" style="basic" tts:origin="21.56% 77.12%" tts:extent="56.82% 12.12%">một trăm người một thuyền nhằm tiến hành<br />một cuộc đột kích quy mô lớn trên biển.</p>
+            <p begin="02:20:13:16" end="02:20:15:22" style="basic" tts:origin="30.26% 77.12%" tts:extent="39.47% 12.12%">Bằng những phương tiện này,<br />một lực lượng địch đáng kể...</p>
+            <p begin="02:20:16:02" end="02:20:19:05" style="basic" tts:origin="32.08% 77.12%" tts:extent="35.83% 12.12%">có thể cập vào nhiều điểm<br />trên bờ biển cùng một lúc...</p>
+            <p begin="02:20:19:09" end="02:20:21:11" style="basic" tts:origin="27.44% 83.61%" tts:extent="45.05% 5.64%">cùng với không kích trong đất liền.</p>
+            <p begin="02:20:21:15" end="02:20:24:18" style="basic" tts:origin="25.62% 77.12%" tts:extent="48.69% 12.12%">Chúng tôi không nghĩ rằng<br />hành động hải quân hay không quân,</p>
+            <p begin="02:20:24:21" end="02:20:26:22" style="basic" tts:origin="27.86% 83.61%" tts:extent="44.27% 5.64%">có thể ngăn chặn cuộc đổ bộ này.</p>
+            <p begin="02:20:30:04" end="02:20:31:16" style="basic" tts:origin="28.12% 83.61%" tts:extent="43.75% 5.64%">Ông có thể nhắc lại được không?</p>
+            <p begin="02:20:32:02" end="02:20:36:00" style="basic" tts:origin="20.83% 77.12%" tts:extent="58.33% 12.12%">Chúng ta phải chuẩn bị cho<br />cuộc xâm lăng không tránh khỏi lên nước ta.</p>
+            <p begin="02:20:39:00" end="02:20:41:20" style="basic" tts:origin="20.83% 77.12%" tts:extent="58.33% 12.12%">Chúng ta phải chuẩn bị cho<br />cuộc xâm lăng không tránh khỏi lên nước ta.</p>
+            <p begin="02:20:42:15" end="02:20:47:10" style="basic" tts:origin="22.55% 77.12%" tts:extent="54.89% 12.12%">Chúng ta khuyến nghị phải cảnh báo<br />cho dân chúng về mối hiểm nguy tức thì...</p>
+            <p begin="02:20:47:15" end="02:20:51:13" style="basic" tts:origin="21.30% 77.12%" tts:extent="57.34% 12.12%">và tất cả những ai được yêu cầu<br />để đặt nước Anh vào tình trạng phòng thủ...</p>
+            <p begin="02:20:51:17" end="02:20:53:04" style="basic" tts:origin="35.26% 83.61%" tts:extent="29.47% 5.64%">phải được động viên...</p>
+            <p begin="02:20:53:08" end="02:20:55:19" style="basic" tts:origin="39.42% 77.12%" tts:extent="21.14% 12.12%">không chậm trễ.<br />Bật đèn.</p>
+            <p begin="02:21:02:11" end="02:21:05:05" style="basic" tts:origin="37.22% 83.61%" tts:extent="25.46% 5.64%">Cảm ơn Đại tường.</p>
+            <p begin="02:21:08:04" end="02:21:11:18" style="basic" tts:origin="35.57% 83.61%" tts:extent="28.85% 5.64%">Hãy chuẩn bị mọi thứ.</p>
+            <p begin="02:21:13:09" end="02:21:17:03" style="basic" tts:origin="29.11% 77.12%" tts:extent="41.77% 12.12%">Hãy ghi lại, tôi đã nhận được tin<br />từ đại sứ quán Ý ở Luân Đôn.</p>
+            <p begin="02:21:17:07" end="02:21:19:09" style="basic" tts:origin="17.03% 83.61%" tts:extent="65.88% 5.64%">Italy sẵn sàng làm trung gian cho một nghị quyết...</p>
+            <p begin="02:21:19:13" end="02:21:22:12" style="basic" tts:origin="22.23% 83.61%" tts:extent="55.52% 5.64%">giữa nước Anh, Đồng minh, và nước Đức.</p>
+            <p begin="02:21:28:15" end="02:21:30:06" style="basic" tts:origin="39.84% 83.61%" tts:extent="20.30% 5.64%">Có lẽ như thế...</p>
+            <p begin="02:21:32:12" end="02:21:33:22" style="basic" tts:origin="42.65% 83.61%" tts:extent="14.68% 5.64%">thời điểm...</p>
+            <p begin="02:21:35:05" end="02:21:38:09" style="basic" tts:origin="21.04% 83.61%" tts:extent="57.86% 5.64%">cho một đề nghị như thế từ chúng ta là khi...</p>
+            <p begin="02:21:43:05" end="02:21:45:06" style="basic" tts:origin="41.82% 83.61%" tts:extent="16.35% 5.64%">Chà, là khi...</p>
+            <p begin="02:21:47:13" end="02:21:49:13" style="basic" tts:origin="36.14% 83.61%" tts:extent="27.65% 5.64%">là khi nước Đức đã...</p>
+            <p begin="02:21:49:17" end="02:21:54:04" style="basic" tts:origin="32.13% 77.12%" tts:extent="35.67% 12.12%">cố gắng bất thành<br />để xâm lược đất nước này.</p>
+            <p begin="02:21:54:08" end="02:21:55:06" style="basic" tts:origin="40.83% 83.61%" tts:extent="18.32% 5.64%">Không thành?</p>
+            <p begin="02:21:55:10" end="02:21:58:02" style="basic" tts:origin="21.30% 77.12%" tts:extent="57.39% 12.12%">Vậy là ông không cho tôi lựa chọn nào khác<br />ngoài việc đề nghị...</p>
+            <p begin="02:21:58:06" end="02:21:59:10" style="basic" tts:origin="44.27% 83.61%" tts:extent="11.45% 5.64%">Winston!</p>
+            <p begin="02:22:00:01" end="02:22:04:10" style="basic" tts:origin="30.57% 83.61%" tts:extent="38.85% 5.64%">Ông đang chối bỏ hiện thực...</p>
+            <p begin="02:22:05:01" end="02:22:07:19" style="basic" tts:origin="25.72% 83.61%" tts:extent="48.48% 5.64%">về tình thế hiểm nghèo của chúng ta.</p>
+            <p begin="02:22:08:07" end="02:22:12:00" style="basic" tts:origin="24.58% 83.61%" tts:extent="50.83% 5.64%">Toàn bộ quân đội của ta sắp bị xóa sổ.</p>
+            <p begin="02:22:12:13" end="02:22:15:16" style="basic" tts:origin="24.42% 83.61%" tts:extent="51.09% 5.64%">Các điều khoản phải được đồng thuận!</p>
+            <p begin="02:22:20:19" end="02:22:21:22" style="basic" tts:origin="44.16% 83.61%" tts:extent="11.61% 5.64%">Anthony.</p>
+            <p begin="02:22:40:11" end="02:22:43:09" style="basic" tts:origin="34.15% 83.61%" tts:extent="31.61% 5.64%">Thế thì có vẻ chúng ta...</p>
+            <p begin="02:22:44:21" end="02:22:46:22" style="basic" tts:origin="27.70% 83.61%" tts:extent="44.58% 5.64%">chúng ta không có lựa chọn nào...</p>
+            <p begin="02:22:47:16" end="02:22:49:20" style="basic" tts:origin="32.54% 83.61%" tts:extent="34.89% 5.64%">nhưng chí ít hãy xem xét...</p>
+            <p begin="02:22:51:01" end="02:22:54:06" style="basic" tts:origin="34.58% 83.61%" tts:extent="30.78% 5.64%">cách thức thương thảo.</p>
+            <p begin="02:22:56:12" end="02:22:59:14" style="basic" tts:origin="21.40% 83.61%" tts:extent="57.18% 5.64%">Nếu các điều khoản hòa bình của Hitler là...</p>
+            <p begin="02:23:01:09" end="02:23:05:08" style="basic" tts:origin="30.15% 83.61%" tts:extent="39.63% 5.64%">toàn quyền đối với Trung Âu...</p>
+            <p begin="02:23:06:17" end="02:23:10:09" style="basic" tts:origin="26.87% 83.61%" tts:extent="46.19% 5.64%">trao trả một số thuộc địa của Đức...</p>
+            <p begin="02:23:11:01" end="02:23:14:22" style="basic" tts:origin="27.03% 83.61%" tts:extent="45.88% 5.64%">và nếu ông ta để lại cho chúng ta...</p>
+            <p begin="02:23:16:10" end="02:23:18:17" style="basic" tts:origin="41.14% 83.61%" tts:extent="17.70% 5.64%">nền độc lập...</p>
+            <p begin="02:23:21:11" end="02:23:24:04" style="basic" tts:origin="35.26% 83.61%" tts:extent="29.47% 5.64%">thì tôi sẽ rất biết hơn...</p>
+            <p begin="02:23:25:05" end="02:23:27:20" style="basic" tts:origin="33.75% 83.61%" tts:extent="32.44% 5.64%">được thoát khỏi những...</p>
+            <p begin="02:42:36:06" end="02:42:40:02" style="basic" tts:origin="27.44% 83.61%" tts:extent="45.05% 5.64%">Phải, những con người nước Anh.</p>
+            <p begin="02:42:41:05" end="02:42:43:06" style="basic" tts:origin="27.23% 83.61%" tts:extent="45.52% 5.64%">Tâm trạng của mọi người thế nào?</p>
+            <p begin="02:42:43:17" end="02:42:45:01" style="basic" tts:origin="39.84% 83.61%" tts:extent="20.26% 5.64%">Mọi người có…</p>
+            <p begin="02:42:45:14" end="02:42:49:01" style="basic" tts:origin="32.29% 77.12%" tts:extent="35.36% 12.12%">Mọi người có tự tin không?<br />Nếu có, thì tự tin đến đâu?</p>
+            <p begin="02:42:49:05" end="02:42:50:09" style="basic" tts:origin="43.28% 83.61%" tts:extent="13.43% 5.64%">Rất nhiều.</p>
+            <p begin="02:42:50:13" end="02:42:51:17" style="basic" tts:origin="26.82% 83.61%" tts:extent="46.35% 5.64%">Có người nói là không thể cứu vãn.</p>
+            <p begin="02:42:51:21" end="02:42:54:19" style="basic" tts:origin="25.10% 77.12%" tts:extent="49.79% 12.12%">Không thể cứu vãn thì mới xứng đáng<br />để tranh đấu.</p>
+            <p begin="02:42:54:23" end="02:42:55:18" style="basic" tts:origin="43.12% 83.61%" tts:extent="13.75% 5.64%">Quá đúng.</p>
+            <p begin="02:42:55:22" end="02:42:59:22" style="basic" tts:origin="27.81% 77.12%" tts:extent="44.37% 12.12%">Phải. Giờ tôi muốn hỏi mọi người.<br />Nếu tình huống tệ nhất xảy ra</p>
+            <p begin="02:43:00:02" end="02:43:05:16" style="basic" tts:origin="28.95% 77.12%" tts:extent="42.08% 12.12%">và kẻ thù xuất hiện<br />trên những con đường bên trên,</p>
+            <p begin="02:43:05:21" end="02:43:06:20" style="basic" tts:origin="36.09% 83.61%" tts:extent="27.81% 5.64%">mọi người sẽ làm gì?</p>
+            <p begin="02:43:07:00" end="02:43:09:00" style="basic" tts:origin="29.84% 77.12%" tts:extent="40.31% 12.12%">-Chiến đấu.<br />-Chiến đấu chống bọn phát xít.</p>
+            <p begin="02:43:09:04" end="02:43:10:17" style="basic" tts:origin="33.69% 77.12%" tts:extent="32.60% 12.12%">Chiến đấu bằng mọi thứ<br />chúng tôi có thể cầm lấy.</p>
+            <p begin="02:43:10:21" end="02:43:13:02" style="basic" tts:origin="34.01% 77.12%" tts:extent="31.92% 12.12%">-Cán chổi, nếu cần thiết.<br />-Trên từng con phố.</p>
+            <p begin="02:43:13:06" end="02:43:14:19" style="basic" tts:origin="25.57% 77.12%" tts:extent="48.80% 12.12%">Chúng sẽ không bao giờ chiếm được<br />phố Piccadilly.</p>
+            <p begin="02:43:16:04" end="02:43:18:01" style="basic" tts:origin="25.10% 83.61%" tts:extent="49.73% 5.64%">Không bao giờ chiếm được Piccadilly.</p>
+            <p begin="02:43:19:00" end="02:43:21:16" style="basic" tts:origin="26.92% 83.61%" tts:extent="46.14% 5.64%">Và nếu như tôi nói với mọi người…</p>
+            <p begin="02:43:21:20" end="02:43:24:11" style="basic" tts:origin="25.72% 83.61%" tts:extent="48.48% 5.64%">rằng chúng ta có thể, nếu chúng ta…</p>
+            <p begin="02:43:24:15" end="02:43:27:08" style="basic" tts:origin="31.87% 83.61%" tts:extent="36.19% 5.64%">nếu chúng ta hỏi xin tử tế…</p>
+            <p begin="02:43:27:12" end="02:43:31:06" style="basic" tts:origin="27.34% 77.12%" tts:extent="45.26% 12.12%">để có những điều khoản rất ưu đãi<br />từ ông Hitler…</p>
+            <p begin="02:43:31:10" end="02:43:35:10" style="basic" tts:origin="22.29% 77.12%" tts:extent="55.41% 12.12%">nếu chúng ta tham gia đàm phán hòa bình<br />với ông ta ngay lúc này…</p>
+            <p begin="02:43:35:23" end="02:43:37:14" style="basic" tts:origin="35.31% 83.61%" tts:extent="29.32% 5.64%">mọi người sẽ nói sao?</p>
+            <p begin="02:43:37:18" end="02:43:38:21" style="basic" tts:origin="39.94% 83.61%" tts:extent="20.10% 5.64%">Không đời nào!</p>
+            <p begin="02:43:39:01" end="02:43:40:03" style="basic" tts:origin="39.94% 83.61%" tts:extent="20.10% 5.64%">Không đời nào!</p>
+            <p begin="02:43:40:07" end="02:43:42:04" style="basic" tts:origin="39.94% 83.61%" tts:extent="20.10% 5.64%">Không đời nào!</p>
+            <p begin="02:43:50:11" end="02:43:51:07" style="basic" tts:origin="39.94% 83.61%" tts:extent="20.10% 5.64%">Không đời nào!</p>
+            <p begin="02:43:53:14" end="02:43:54:15" style="basic" tts:origin="39.94% 83.61%" tts:extent="20.10% 5.64%">Không đời nào!</p>
+            <p begin="02:43:56:07" end="02:43:57:21" style="basic" tts:origin="30.72% 83.61%" tts:extent="38.54% 5.64%">Cháu sẽ không bỏ cuộc chứ?</p>
+            <p begin="02:43:58:01" end="02:43:59:14" style="basic" tts:origin="34.84% 83.61%" tts:extent="30.26% 5.64%">Không. Không đời nào.</p>
+            <p begin="02:44:01:06" end="02:44:05:18" style="basic" tts:origin="20.93% 83.61%" tts:extent="58.12% 5.64%">“Rồi vang lên lời chàng Horatius can đảm…”</p>
+            <p begin="02:44:08:04" end="02:44:10:23" style="basic" tts:origin="31.35% 83.61%" tts:extent="37.29% 5.64%">“Đội trưởng ở cổng thành…”</p>
+            <p begin="02:44:11:19" end="02:44:15:19" style="basic" tts:origin="27.39% 83.61%" tts:extent="45.15% 5.64%">“Hỡi con người trên trái đất này…”</p>
+            <p begin="02:44:17:14" end="02:44:19:06" style="basic" tts:origin="28.38% 83.61%" tts:extent="43.17% 5.64%">“Cái chết sớm muộn gì cũng tới.”</p>
+            <p begin="02:44:20:15" end="02:44:25:04" style="basic" tts:origin="32.39% 83.61%" tts:extent="35.20% 5.64%">“Và có cái chết nào hơn…”</p>
+            <p begin="02:44:25:09" end="02:44:27:20" style="basic" tts:origin="23.80% 83.61%" tts:extent="52.39% 5.64%">“Là khi đối mặt với những gì đáng sợ…”</p>
+            <p begin="02:44:30:07" end="02:44:33:06" style="basic" tts:origin="29.84% 77.12%" tts:extent="40.31% 12.12%">-“Vì tro cốt…”<br />-“Vì tro cốt của cố phụ mình…”</p>
+            <p begin="02:44:33:10" end="02:44:36:00" style="basic" tts:origin="30.05% 83.61%" tts:extent="39.84% 5.64%">“Và đền đài của các thần linh.”</p>
+        </div>
+    </body>
+</tt>
